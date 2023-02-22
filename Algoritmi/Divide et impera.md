@@ -1,0 +1,45 @@
+
+1. Divide the problem
+2. Conquer the subproblems by solving them recursively
+3. Combine the solutions
+
+# Merge Sort
+
+1. Dividi in 2 sottoarray
+2. Conquista: ordina ricorsivamente i 2 sottoarray
+3. Combina: fondi i 2 array ordinandoli
+$$T(n)=2T(\frac n2)+\Theta(n)$$
+
+# Master Theorem
+
+$$T(n) = aT(\frac nb) + f(n)$$
+
+## Caso 1
+
+$$f(n) = O(n^{\log_b(a) - \varepsilon}),\quad \varepsilon>0 \implies T(n)=\Theta(n^{\log_b(a)}) $$
+
+## Caso 2
+
+$$f(n)=\Theta(n^{\log_b(a)} \log^{k}(n)), \quad k \geq 0 \implies T(n)=\Theta(n^{\log_b(a)} \log^{k+1}(n))$$
+
+## Caso 3
+
+$$f(n)=\Omega(n^{\log_b(a) + \varepsilon}), \quad \varepsilon > 0 \implies T(N)=\Theta(f(n))$$
+
+# Moltiplicazione Di Strassen
+
+## Analisi
+
+$$ T(n) = 7 T(n/2) + \Theta(n^2)$$
+
+## VLSI Layout
+
+Voglio creare un albero binario completo con n foglie in una griglia utilizzando il minor spazio possibile
+![VLSI](immagini/VLSI.png)
+$$H(n)=H(n/2) + \Theta(1)= \Theta(log n)$$
+$$ W(n) = 2W(n/2) + \Theta(1)= \Theta(n)$$
+$$Area=\Theta(n log n)$$
+
+## H-tree
+
+![H-tree](immagini/H-tree.png)

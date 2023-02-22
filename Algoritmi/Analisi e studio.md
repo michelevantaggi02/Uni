@@ -1,0 +1,232 @@
+# Studi Sperimentali
+
+Per studiare il comportamento di un [[Definizione di Algoritmo|algoritmo]] bisogna:
+
+- Scrivere un programma che implementi un algoritmo
+- Eseguire il programma molteplici volte con input di dimensioni e composizioni diverse
+- Fare il grafico di esecuzione
+
+```ad-attention
+title: Limitazioni
+
+- Implementare l’algoritmo potrebbe essere complicato
+- I risultati potrebbero non comprendere il tempo di esecuzione su altri input non sperimentati
+- Per comparare due algoritmi bisogna utilizzare lo stesso ambiente software e hardware
+```
+
+## Analisi Teorica
+
+- Usa una descrizione ad alto livello dell’algoritmo al posto della sua implementazione
+- Mostra il tempo di esecuzione come una [[#Tipi di funzioni|funzione]] di input la dimensione n
+- Prende in considerazione tutti gli input
+- Permette di valutare la velocità di  un algoritmo indipendentemente dall’ambiente
+
+### Pseudocodice
+
+- Descrizione ad alto livello di un algoritmo
+- Più strutturato del linguaggio comune
+- Meno dettagliato di un programma
+- Notazione preferita per descrivere un algoritmo
+- Nasconde i problemi di design di un programma
+
+### Tipi Di Funzioni
+
+1. Costante -> l
+2. Logaritmica -> log n
+3. Lineare -> n
+4. N Log n -> n log n
+5. Quadratica -> $n^2$
+6. Cubica -> $n^3$
+7. Esponenziale -> $2^n$
+
+```ad-info
+title: Info
+
+In una funzione log(log(n)) la pendenza (derivata) corrisponde al rateo di crescita.
+```
+
+### Operazioni Primitive
+
+- Calcoli base eseguiti da un algoritmo
+- Identificabili in pseoudocodice
+- Indipendenti dai linguaggi di programmazione
+- La definizione esatta non è importante
+- Si assume l’impiego di un tempo costante nel modello RAM
+
+### Rateo Di Crescita Del Tempo Di Esecuzione
+
+- Cambiando software e hardware
+- Cambia T(n) di un fattore costante
+- Non altera il rateo di crescita di T(n)
+- Il rateo di crescita lineare del tempo di esecuzione T(n) è una proprietà intrinseca dell’algoritmo arrayMax (ricerca del valore massimo di un vettore)
+
+### $\Omega(n)$
+
+- Rappresenta il caso migliore in riferimento a uno specifico algoritmo.
+- Rappresenta la complessità intrinseca del problema. (indipendente dall’algoritmo pensato)
+
+Un algoritmo è ottimo quando il caso migliore è uguale al caso peggiore
+
+### Analisi Di Un Algoritmo Ricorsivo
+
+La funzione T(n) deriva da una **relazione di ricorrenza** che caratterizza il tempo di esecuzione sui valori più piccoli di n
+
+	Algorithm recursiveMax(A, n):
+		input: array A of n >= 1 integers
+		output: maximum element in A
+		if n = 1 then
+			return A[0]
+		return max{recursiveMax(A, n-1), A[n-1]}
+
+$$T(n)=\begin{cases} 3, \quad\quad\quad\quad\quad\quad n=1 \\ T(n-1) + 7, \quad altrimenti \end{cases}$$
+
+### Fattori Costanti
+
+Il rateo di crescita è minimamente affetto da fattori costanti o da termini di ordine minore
+
+### Notazione Big-Oh
+
+Date due funzioni f(n) e g(n), diciamo che f(n) è O(g(n)) se ci sono delle costanti c positive e $n_0$ tali che
+
+$$f(n) \leq cg(n)\, for \, n \geq n_0 $$
+
+- Se f(n) è un polinomio di grado D, allora f(n) è O(nD)
+- Usa la classe di funzioni più piccola possibile
+- Usa la forma più semplice di espressione della classe
+
+#### Compagni Di Big-Oh
+
+##### Big Omega
+
+F(n) è $\Omega(g(n))$ se esiste una costante c > 0 e una costante intera $n_0 \geq 1$ tali che
+
+$$f(n)\geq cg(n)\, \forall n \geq n_0$$
+
+##### Big Theta
+
+F(n) è $\Theta(g(n))$ se ci sono costanti c’ > 0 e c’’ > 0 e una costante intera $n_0 \geq 1$ tali che
+
+$$c'g(n) \leq f(n) \leq c''g(n), \, \forall\,n\geq n_0$$
+
+##### $\omega$
+
+È l’inverso di O, quindi f(n) è $\omega(g(n))$ per ogni costante c > 0 se esiste una costante $n_0 > 0$ tale che
+
+$$0 \leq cg(n) < f(n), \, \forall\, n\geq n_0$$
+
+### Esempio Di Analisi Di Un Algoritmo
+
+Dato un array di n interi, trovare il sottoarray A[j:k] la cui somma degli elementi sia la più alta.
+
+Questo è una possibile domanda fatta durante i colloqui di lavoro per testare le capacità di pensiero dei candidati, (__maximum subarray problem__).
+
+#### Prima Versione Lenta
+
+	MaxSubSlow(A):
+	input: array A di n elementi indicizzati da 1 a n
+	output: la massima somma degli elementi di un sottoarray di A
+		m=0
+		for j=1:n:
+			for k=j:n:
+				s=0
+				for i=j:k:
+					s+=A[i]
+				if s > m:
+					m = s
+
+- il ciclo esterno J viene iterato n volte, il ciclo k viene iterato **al più** n volte e il ciclo i viene iterato **al più** n volte
+- Quindi il tempo di esecuzione è di $O(n^3)$
+
+#### Seconda Versione Migliorata
+
+Una via più efficiente è quella di calcolare queste somme è quella di considerare dei prefissi
+
+$$S_t=a_1+a_2+...+a_t=\sum_{i=1}^t{a_i}$$
+
+Assumendo $S_0=0$ possiamo calcolare ogni somma $S_{j,k}=S_k-S_{j-1}$ in un tempo costante
+
+	MaxSubFaster(A):
+		S[0]=0
+		for i=1:n:
+			S[i]=S[i-1] + A[i]
+		m=0
+		for j=1:n:
+			for k=j:n:
+				s = S[k] - S[j-1]
+				if s > m
+					m = s
+		return m
+
+Il tempo di esecuzione di MaxSubFaster è di $O(n^2)$
+
+#### Terza Versione Migliore
+
+Invece di calcolare la somma prefisso, calcoliamo la massima somma suffisso $M_t$, che sarebbe il massimo tra 0 e il massimo $s_{j,t}$ per j =1,..,t
+
+$$M_t=max\{0,max\{s_{j,t}\}\}$$
+
+Se $M_t>0$ allora è la somma di un massimo sottoarray che finisce a t, se $M_t=0$ allora possiamo tranquillamente ignorarlo.
+
+Se sappiamo tutti i valori di $M_t$ per t=1,...,n allora la soluzione del problema sarebbe solo il massimo di ogni $M_t$.
+
+Per $t \geq 2$ se abbiamo un sottoarray massimo che finisce a t, e ha una somma positiva, allora è solo A[t:t] o è composto dal massimo sottoarray che finisce a t-1 più A[t]. Così definendo $M_0=0$ e
+
+$$M_t=max\{0,M_{t-1} + A[t]\}$$
+
+Se questo non fosse il caso allora avremmo un sottoarray con la somma più grande sostituendo il sottoarray scelto che finisce a t-1 con il più grande, che contraddirebbe il fatto che abbiamo il sottoarray più grande che finisce a t.
+
+Inoltre se prendiamo il valore del sottoarray massimo che finisce a t-1 e aggiungiamo A[t] rendendolo negativo, allora $M_t=0$ dato che non c'è un sottoarray che finisce a t con una somma positiva.
+
+	MaxSubFastest(A):
+		M[0]=0
+		for t=1:n
+			M[t]= max(0, M[t-1] + A[t])
+		m=0
+		for t=1:n
+			m=max(m, M[t])
+		return m
+
+L'algoritmo MaxSubFastest consiste di due loop che vengono iterati esattamente n volte e impiegano O(1) ad ogni iterazione, quindi il tempo totale di esecuzione è O(n)
+
+## Insertion Sort
+
+	insertionSort(A,n):
+		for i=2:n:
+			key=A[i]
+			j=i-1
+			while j>0 and A[j]>key
+				A[j+1]=A[j]
+				j=j-1
+			A[j+1]=key
+
+L’insertion sort ha un tempo di esecuzione $O(n^2)$
+
+- Il for esterno viene eseguito n-1 volte
+- Il for interno viene eseguito al massimo i-1 volte
+- Il numero esatto di iterazione del while dipende dai valori su cui itera, che variano tra 0 e i-1
+- Dato che i al massimo arriva ad n, il numero totale di iterazioni del ciclo interno è (n-1)(n-1), minore di $n^2$
+- Ogni iterazione del loop interno impiega un tempo costante, con un totale di al più $cn^2$ per qualche costante c, oppure O(n^2)
+
+Il tempo peggiore di esecuzione è quindi $\Omega(n^2)$
+
+- Si osserva che un valore che viene spostato di k posizioni, la riga 6 (a[j+1] = a[j]) deve essere eseguita k volte
+- Assumendo che n sia multiplo di 3, possiamo  dividere l’array in 3 gruppi di n/3 posizioni
+- Dato che almeno n/3 valori devono essere spostati di n/3 posizioni, la riga 6 viene eseguita almeno (n/3)(n/3) volte che sarebbe $\Omega(n^2)$
+
+Dato che abbiamo mostrato che l’insertion sort ha tempo di esecuzione $O(n^2) \, e \,\Omega(n^2)$, possiamo concludere che il peggior tempo di esecuzione è di $\Theta(n^2)$
+
+## Logaritmi
+
+$$\log_d(n)=\frac{\log_a(n)}{\log_a(d)}=c$$
+
+$$a=b^{log_b(a)}$$
+
+$$\log_c(ab)=\log_c(a)+\log_c(b)$$
+
+$$\log_b(a^n)=n\log_b(a)$$
+
+$$\log_b(\frac 1a)= - \log_b(a)$$
+
+$$\log_b(a)=\frac 1{\log_a(b)}$$
+
+$$a^{\log_b(c)}=c^{\log_b(a)}$$

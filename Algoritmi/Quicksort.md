@@ -1,0 +1,69 @@
+22-11-2022
+
+```ad-info
+
+Un algoritmo si definisce in place se utilizza una quantità di memoria $\Theta(1)$.
+```
+
+Il quicksort su basa sul processo a tre passi del [[Divide et impera]]:
+
+- Dividere la partizione A[p:r] in due sottoarray A[p:q-1] e A[q+1:r] tali che ogni elemento di $A[p:q-1] \leq A[q]$ e $A[q+1:r]\geq A[q]$
+- Conquer: ordinare i due sottoarray ricorsivamente
+- Combine: nessun lavoro necessario dato che viene ordinato in place
+Il passo di divisione deve essere preceduto da una procedura di **PARTITION** che trova l'indice q che separa i due sottoarray.
+
+	quicksort(A,p,r):
+		//partizionare i sottoarray intorno al perno A[q]
+		q = PARTITION(A,p,r) //posizione del perno nell'insieme ordinato
+		
+		quicksort(A,p,q-1)
+		quicksort(A,q+1,r)
+	
+
+# Partizionamento
+
+	PARTITION(A,p,r):
+		x = A[r] //pivot
+		i = p-1 //indice più grande nella parte inferiore
+		for j=p:r-1: //processo ogni elemento che non sia il pivot
+			if A[j] <= x //l'elemento va nella parte inferiore?
+				i++ //indice dello spazio per la parte inferiore
+				scambia A[i],A[j] //ci inserisco l'elemento
+		scambia A[i+1],A[r] //il perno viene spostato nella parte bassa
+	return i + 1 //nuovo indice del perno
+
+```ad-important
+PARTITION prende sempre l'ultimo elemento A[r] del subarray come pivot
+
+```
+
+```ad-note
+PARTITION ha una complessità $\Theta(n)$ dove n è la dimensione del sottoarray
+
+```
+
+# Performance
+
+Il tempo di esecuzione del quicksort dipende dal [[#Partizionamento]] del sottoarray
+
+- se i sottoarray sono bilanciati allora il quicksort è veloce tanto quanto il [[Divide et impera#Merge Sort|mergesort]]
+- Se sono sbilanciati allora il quicksort può andare piano quanto l' [[Analisi e studio#Insertion Sort|insertion sort]]
+
+## Caso Peggiore
+
+Avviene quando:
+
+- i sottoarray sono completamente sbilanciati,
+- ci sono 0 elementi in un sottoarray e n-1 nell'altro
+Si ottiene quindi la ricorrenza:
+$$T(n)=T(n-1)+T(0)+\Theta(n)=T(n-1)+\Theta(n) = \Theta(n^2)$$
+
+## Caso Base
+
+- Avviene quando i sottoarray sono completamente bilanciati ogni volta
+- Ogni sottoarray ha $\leq \frac n2$ elementi
+- In un upper bound si ha la ricorrenza $T(n)=2T(n/2) + \Theta (n) = \Theta( n \log n)$
+
+## Partizionamento Bilanciato
+
+- Il tempo di esecuzione medio nel quicksort è molto più vicino al caso migliore rispetto al caso peggiore

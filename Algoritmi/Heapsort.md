@@ -1,0 +1,147 @@
+
+- Caso peggiore $O(n\log n)$
+- In place
+- Combina il meglio di [[Quicksort]] e [[Divide et impera#Merge Sort|merge sort]]
+
+# Heap
+
+Un heap (not garbage-collected storage) è un albero binario quasi completo.
+
+- Altezza del nodo: # di spigoli sul percorso semplice più lungo dal primo nodo alla foglia
+- Altezza dell'heap: altezza della radice $\Theta(\log n
+
+## Esempio
+
+Heap di dimensione 10
+
+![[Esempio-Heap.png]]
+
+Un heap può essere salvato come un array A:
+
+- La radice è A[1]
+- il padre di un elemento è A[i/2]
+- Il figlio sinistro è A[2i]
+- Il figlio destro è A[2i+1]
+- A.size oppure A.heap-size indica la dimensione dell'heap in A
+
+```ad-info
+collapse: open
+title: pseudocodice
+
+	PARENT(i)
+		return i/2
+
+	LEFT(i)
+		return 2i
+
+	RIGHT(i)
+		return 2i + 1
+```
+
+## Tipi Di Heap Ordinati
+
+- Max-heap (elemento più grande alla radice), in tutti i nodi esclusa la radice $A[PARENT(i)] \geq A[i]$
+- Min-heap (elemento più piccolo alla radice), in tutti i nodi esclusa la radice $A[PARENT(i)] \leq A[i]$
+
+## Max Heapify
+
+MAX-HEAPIFY è importante per manipolare gli heap massimi. Viene usato per mantenere la proprietà max heap.
+
+- Prima di MAX-HEAPIFY, A[i] potrebbe essere più piccolo dei suoi figli
+- Assumendo che i sottoalberi destri e sinistri sono heap massimi (non ci sono violazioni della proprietà maxheap tra i sottoalberi. L'unica violazione tra i sottoalberi con radice i potrebbe essere tra i e i suoi figli)
+- Dopo MAX-HEAPIFY, il sottoalbero è un max-heap
+
+```ad-info
+title: Pseudocodice
+collapse: open
+
+
+	MAX-HEAPIFY(A,i)
+		l = LEFT(i)
+		r = RIGHT(i)
+		if l<= A.size and A[l] > A[i]
+			largest = l
+		else
+			largest = i
+		if r<=A.size and A[r] > A[largest]
+			largest = r
+		if largest != i
+			scambia A[i] con A[largest]
+			MAX-HEAPIFY(A,largest)
+
+```
+
+### Come Funziona
+
+- Compara A[i] con A[LEFT(i)] e A[RIGHT(i)];
+- se necessario, scambia A[i] con il figlio più grande;
+- Continua questo processo fino alla fine dell'heap, facendo diventare i sottoalbero un max-heap;
+- Quando arriviamo a una foglia, allora il sottoalbero con radice la foglia è per forza un max-heap.
+
+## Costruire Un Heap
+
+Questo algoritmo, dato un array non ordinato di lunghezza n, produce un max-heap di n elementi in A
+
+	BUILD-MAX-HEAP(A,n)
+		A.size=n
+		for i = [n/2] : -1 : 1
+			MAX-HEAPIFY(A,i)
+
+L'algoritmo chiamato con i parametri BUILD-MAX-HEAP(A,10) è composto dai seguenti passaggi:
+
+- A.heap-size diventa 10
+- i inizia a 5
+- Viene applicato MAX-HEAPIFY agli alberi con radice i nodi : A[5], A[4], A[3], A[2], A[1]
+
+## Analisi
+
+Vengono eseguite O(n) chiamate a MAX-HEAPIFY, ognuna delle quali impiega $O(\log n) \implies O(n\log n)$
+
+Il tempo di esecuzione richiesto da MAX-HEAPIFY è lineare a seconda dell'altezza del nodo, e la maggior parte dei nodi hanno un'altezza bassa. Avendo un numero di nodi$\leq \frac n{2^{h+1}}$ , con l'altezza totale dell'heap di $\log n$ .
+
+Il tempo di esecuzione richiesto da MAX-HEAPIFY con altezza h è quindi O(h), quindi il costo totale di BUILD-MAX-HEAP è di
+
+$$\sum_{h=0}^{\log n}{[\frac n{2^{h+1}}]O(h)} = O(n \sum_{h=0}^{\log n}{\frac h{2^h}})$$
+
+Vedendo l'ultima somma come
+
+$$\sum_{k=0}^\infty{kx^k}, \quad x=\frac 12$$
+
+Abbiamo
+
+$$\sum_{h=0}^{\log n} \frac h{2^h} < \sum_{h=0}^{\infty} \frac h{2^h} =\frac {\frac 12}{(1- \frac 12)^2}=2$$
+
+Quindi, il tempo di esecuzione di BUILD-MAX-HEAP è di $O(n)$
+
+# Heapsort
+
+Dato in input un array, l'algoritmo di heapsort si comporta come segue:
+
+- crea un max-heap dall'array
+- Partend dalla radice, l'algorimo piazza l'elemento più grande nella posizione corretta dell'array scambiandolo con l'elemento all'ultima posizione
+- Sapendo che l'ultimo nodo è nella posizione corretta, diminuisce l'heap-size e richiama MAX-HEAPIFY sulla nuova radice (che possibilmente è in una posizione errata)
+- Ripete l'ultimo passo finché l'heap-size non diventa di dimensione 1, rendendo l'unico nodo rimasto nella posizione corretta
+
+```ad-info
+title: Pseudocodice
+collapse: open
+
+	HEAPSORT(A, n)
+		BUILD-MAX-HEAP(A,n)
+		for i = n: -1: 1
+			scambia A[1] con A[i]
+			A.size -= 1
+			MAX-HEAPIFY(A,1)
+
+```
+
+## Analisi
+
+- BUILD-MAX-HEAP : $O(n)$
+- Ciclo for : n-1 volte
+- scambio di elementi : $O(1)$
+- MAX-HEAPIFY: $O(\log n)$ 
+
+Tempo totale: $O(n \log n)$
+
+Anche se l'heapsort è un grande algoritmo, un quicksort ben implementato lo batte nella pratica
