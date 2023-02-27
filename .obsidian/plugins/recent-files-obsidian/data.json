@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "1.",
+      "path": "SisOp/1..md"
+    },
+    {
+      "basename": "Matematica",
+      "path": "templates/Matematica.md"
+    },
+    {
+      "basename": "0. Sistemi Operativi",
+      "path": "SisOp/0. Sistemi Operativi.md"
+    },
+    {
+      "basename": "0. Diritto",
+      "path": "Diritto/0. Diritto.md"
+    },
+    {
+      "basename": "3. Errore Per Le Funzioni Razionali",
+      "path": "CalcNum/3. Errore Per Le Funzioni Razionali.md"
+    },
+    {
+      "basename": "4. Problemi Ben Posti",
+      "path": "CalcNum/4. Problemi Ben Posti.md"
+    },
+    {
+      "basename": "1. Stabilità numerica",
+      "path": "CalcNum/1. Stabilità numerica.md"
+    },
+    {
+      "basename": "15. Curva di Bezier",
+      "path": "CalcNum/15. Curva di Bezier.md"
+    },
+    {
       "basename": "5. Derivata di più variabili",
       "path": "CalcNum/5. Derivata di più variabili.md"
     },
@@ -13,24 +45,8 @@
       "path": "CalcNum/14. Variante del Massimo Pivot Parziale (GEPP).md"
     },
     {
-      "basename": "15. Curva di Bezier",
-      "path": "CalcNum/15. Curva di Bezier.md"
-    },
-    {
       "basename": "2. Error Analysis",
       "path": "CalcNum/2. Error Analysis.md"
-    },
-    {
-      "basename": "1. Stabilità numerica",
-      "path": "CalcNum/1. Stabilità numerica.md"
-    },
-    {
-      "basename": "4. Problemi Ben Posti",
-      "path": "CalcNum/4. Problemi Ben Posti.md"
-    },
-    {
-      "basename": "3. Errore Per Le Funzioni Razionali",
-      "path": "CalcNum/3. Errore Per Le Funzioni Razionali.md"
     },
     {
       "basename": "13. Fattorizzazione LU",
@@ -115,10 +131,6 @@
     {
       "basename": "lezione1_cn__published",
       "path": "CalcNum/Dispense/lezione1_cn__published.pdf"
-    },
-    {
-      "basename": "Matematica",
-      "path": "templates/Matematica.md"
     },
     {
       "basename": "logica_delimitatori",

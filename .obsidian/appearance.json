@@ -1,7 +1,7 @@
 {
-  "accentColor": "",
+  "accentColor": "#1ab7a5",
   "baseFontSize": 15,
-  "cssTheme": "Typewriter",
+  "cssTheme": "Mado Miniflow",
   "translucency": true,
   "nativeMenus": true,
   "theme": "obsidian",
