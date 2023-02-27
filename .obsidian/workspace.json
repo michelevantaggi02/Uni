@@ -4,16 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "00719402c6e72849",
+        "id": "b8908f76c507cc79",
         "type": "tabs",
         "children": [
           {
-            "id": "96b1e01b98bfb129",
+            "id": "9339716f56edbcfc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SisOp/1..md",
+                "file": "Algoritmi/9. Statistiche d'ordine.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7de75bcc2973d658",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LaTeX.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SisOp/1..md",
+                "file": "Algoritmi/9. Statistiche d'ordine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SisOp/1..md",
+                "file": "Algoritmi/9. Statistiche d'ordine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SisOp/1..md"
+                "file": "Algoritmi/9. Statistiche d'ordine.md"
               }
             }
           },
@@ -179,12 +191,29 @@
       "workspaces:Gestisci layout delle aree di lavoro": false
     }
   },
-  "active": "96b1e01b98bfb129",
+  "active": "9339716f56edbcfc",
   "lastOpenFiles": [
-    "templates/Matematica.md",
-    "SisOp/1..md",
+    "Algoritmi/0. Algoritmi.md",
+    "LaTeX.md",
+    "Algoritmi/9. Statistiche d'ordine.md",
+    "Algoritmi/4. Ammortizzazione.md",
+    "Algoritmi/Esercizi Algoritmi/14-12-2022.md",
+    "Algoritmi/Esercizi Algoritmi/23-11-2022.md",
+    "Algoritmi/Esercizi Algoritmi/30-11-2022.md",
+    "Algoritmi/Algoritmi.pdf",
+    "Algoritmi/8. Sorting in tempo lineare.md",
+    "Algoritmi/7. Heapsort.md",
+    "Algoritmi/6. Quicksort.md",
+    "Algoritmi/5. Divide et impera.md",
+    "Algoritmi/1. Definizione di Algoritmo.md",
+    "Algoritmi/3. Modello RAM (Random Access Machine).md",
+    "Algoritmi/0..md",
+    "Algoritmi/2. Analisi e studio.md",
+    "Algoritmi/Untitled.md",
     "SisOp/0. Sistemi Operativi.md",
-    "Diritto/0. Diritto.md",
+    "SisOp/1. Sistema operativo.md",
+    "Diritto/0. Diritto dell'informatica.md",
+    "templates/Matematica.md",
     "SisOp",
     "Diritto",
     "CalcNum/3. Errore Per Le Funzioni Razionali.md",
@@ -193,11 +222,6 @@
     "CalcNum/15. Curva di Bezier.md",
     "CalcNum/5. Derivata di più variabili.md",
     "Uni",
-    "CalcNum/16. Modello della corda elastica.md",
-    "CalcNum/14. Variante del Massimo Pivot Parziale (GEPP).md",
-    "CalcNum/2. Error Analysis.md",
-    "CalcNum/13. Fattorizzazione LU.md",
-    "CalcNum/12. Matrici tridiagonali.md",
-    "CalcNum/11. Algoritmo di Gauss.md"
+    "CalcNum/16. Modello della corda elastica.md"
   ]
 }

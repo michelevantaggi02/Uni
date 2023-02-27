@@ -7,8 +7,8 @@
   "defaultCollapseType": "open",
   "injectColor": true,
   "parseTitles": true,
-  "dropShadow": true,
-  "hideEmpty": false,
+  "dropShadow": false,
+  "hideEmpty": true,
   "open": {
     "admonitions": true,
     "icons": true,

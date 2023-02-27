@@ -1,20 +1,80 @@
 {
   "recentFiles": [
     {
-      "basename": "1.",
-      "path": "SisOp/1..md"
+      "basename": "9. Statistiche d'ordine",
+      "path": "Algoritmi/9. Statistiche d'ordine.md"
     },
     {
-      "basename": "Matematica",
-      "path": "templates/Matematica.md"
+      "basename": "0. Algoritmi",
+      "path": "Algoritmi/0. Algoritmi.md"
+    },
+    {
+      "basename": "LaTeX",
+      "path": "LaTeX.md"
+    },
+    {
+      "basename": "4. Ammortizzazione",
+      "path": "Algoritmi/4. Ammortizzazione.md"
+    },
+    {
+      "basename": "14-12-2022",
+      "path": "Algoritmi/Esercizi Algoritmi/14-12-2022.md"
+    },
+    {
+      "basename": "23-11-2022",
+      "path": "Algoritmi/Esercizi Algoritmi/23-11-2022.md"
+    },
+    {
+      "basename": "30-11-2022",
+      "path": "Algoritmi/Esercizi Algoritmi/30-11-2022.md"
+    },
+    {
+      "basename": "Algoritmi",
+      "path": "Algoritmi/Algoritmi.pdf"
+    },
+    {
+      "basename": "8. Sorting in tempo lineare",
+      "path": "Algoritmi/8. Sorting in tempo lineare.md"
+    },
+    {
+      "basename": "7. Heapsort",
+      "path": "Algoritmi/7. Heapsort.md"
+    },
+    {
+      "basename": "6. Quicksort",
+      "path": "Algoritmi/6. Quicksort.md"
+    },
+    {
+      "basename": "5. Divide et impera",
+      "path": "Algoritmi/5. Divide et impera.md"
+    },
+    {
+      "basename": "1. Definizione di Algoritmo",
+      "path": "Algoritmi/1. Definizione di Algoritmo.md"
+    },
+    {
+      "basename": "3. Modello RAM (Random Access Machine)",
+      "path": "Algoritmi/3. Modello RAM (Random Access Machine).md"
+    },
+    {
+      "basename": "2. Analisi e studio",
+      "path": "Algoritmi/2. Analisi e studio.md"
     },
     {
       "basename": "0. Sistemi Operativi",
       "path": "SisOp/0. Sistemi Operativi.md"
     },
     {
-      "basename": "0. Diritto",
-      "path": "Diritto/0. Diritto.md"
+      "basename": "1. Sistema operativo",
+      "path": "SisOp/1. Sistema operativo.md"
+    },
+    {
+      "basename": "0. Diritto dell'informatica",
+      "path": "Diritto/0. Diritto dell'informatica.md"
+    },
+    {
+      "basename": "Matematica",
+      "path": "templates/Matematica.md"
     },
     {
       "basename": "3. Errore Per Le Funzioni Razionali",
@@ -95,10 +155,6 @@
     {
       "basename": "6. Valutazione di un polinomio",
       "path": "CalcNum/6. Valutazione di un polinomio.md"
-    },
-    {
-      "basename": "LaTeX",
-      "path": "LaTeX.md"
     },
     {
       "basename": "0. Introduzione",
