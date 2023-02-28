@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b8908f76c507cc79",
+        "id": "1ea8ac0f18e8a118",
         "type": "tabs",
         "children": [
           {
-            "id": "9339716f56edbcfc",
+            "id": "d14c69e649a5a243",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algoritmi/9. Statistiche d'ordine.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7de75bcc2973d658",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LaTeX.md",
+                "file": "SisOp/1. Sistema operativo.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algoritmi/9. Statistiche d'ordine.md",
+                "file": "SisOp/1. Sistema operativo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algoritmi/9. Statistiche d'ordine.md",
+                "file": "SisOp/1. Sistema operativo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -145,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algoritmi/9. Statistiche d'ordine.md"
+                "file": "SisOp/1. Sistema operativo.md"
               }
             }
           },
@@ -174,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -191,11 +179,14 @@
       "workspaces:Gestisci layout delle aree di lavoro": false
     }
   },
-  "active": "9339716f56edbcfc",
+  "active": "d14c69e649a5a243",
   "lastOpenFiles": [
+    "SisOp/0. Sistemi Operativi.md",
+    "SisOp/1. Sistema operativo.md",
+    "Algoritmi/9. Statistiche d'ordine.md",
+    "Algoritmo di Gauss.md",
     "Algoritmi/0. Algoritmi.md",
     "LaTeX.md",
-    "Algoritmi/9. Statistiche d'ordine.md",
     "Algoritmi/4. Ammortizzazione.md",
     "Algoritmi/Esercizi Algoritmi/14-12-2022.md",
     "Algoritmi/Esercizi Algoritmi/23-11-2022.md",
@@ -210,8 +201,6 @@
     "Algoritmi/0..md",
     "Algoritmi/2. Analisi e studio.md",
     "Algoritmi/Untitled.md",
-    "SisOp/0. Sistemi Operativi.md",
-    "SisOp/1. Sistema operativo.md",
     "Diritto/0. Diritto dell'informatica.md",
     "templates/Matematica.md",
     "SisOp",
@@ -221,7 +210,6 @@
     "CalcNum/1. Stabilità numerica.md",
     "CalcNum/15. Curva di Bezier.md",
     "CalcNum/5. Derivata di più variabili.md",
-    "Uni",
-    "CalcNum/16. Modello della corda elastica.md"
+    "Uni"
   ]
 }

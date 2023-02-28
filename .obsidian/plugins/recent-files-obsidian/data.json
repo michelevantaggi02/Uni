@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "1. Sistema operativo",
+      "path": "SisOp/1. Sistema operativo.md"
+    },
+    {
+      "basename": "0. Sistemi Operativi",
+      "path": "SisOp/0. Sistemi Operativi.md"
+    },
+    {
       "basename": "9. Statistiche d'ordine",
       "path": "Algoritmi/9. Statistiche d'ordine.md"
     },
@@ -59,14 +67,6 @@
     {
       "basename": "2. Analisi e studio",
       "path": "Algoritmi/2. Analisi e studio.md"
-    },
-    {
-      "basename": "0. Sistemi Operativi",
-      "path": "SisOp/0. Sistemi Operativi.md"
-    },
-    {
-      "basename": "1. Sistema operativo",
-      "path": "SisOp/1. Sistema operativo.md"
     },
     {
       "basename": "0. Diritto dell'informatica",
@@ -175,10 +175,6 @@
     {
       "basename": "lez_erroranalysis_2122",
       "path": "CalcNum/Dispense/lez_erroranalysis_2122.pdf"
-    },
-    {
-      "basename": "Algoritmo di Gauss",
-      "path": "Algoritmo di Gauss.md"
     },
     {
       "basename": "Calcolo numerico",
