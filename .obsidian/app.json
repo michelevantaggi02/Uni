@@ -8,5 +8,8 @@
     "downscalePercent": 100
   },
   "alwaysUpdateLinks": true,
-  "spellcheck": true
+  "spellcheck": true,
+  "showLineNumber": false,
+  "tabSize": 4,
+  "readableLineLength": false
 }

@@ -1,16 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "2. Analisi e Sintesi",
+      "path": "Linguaggi/2. Analisi e Sintesi.md"
+    },
+    {
+      "basename": "0. Linguaggi formali e compilatori",
+      "path": "Linguaggi/0. Linguaggi formali e compilatori.md"
+    },
+    {
+      "basename": "1. Fasi della compilazione",
+      "path": "Linguaggi/1. Fasi della compilazione.md"
+    },
+    {
+      "basename": "L1-compilazione",
+      "path": "Linguaggi/dispense/L1-compilazione.pdf"
+    },
+    {
+      "basename": "9. Statistiche d'ordine",
+      "path": "Algoritmi/9. Statistiche d'ordine.md"
+    },
+    {
+      "basename": "8. Sorting in tempo lineare",
+      "path": "Algoritmi/8. Sorting in tempo lineare.md"
+    },
+    {
       "basename": "1. Sistema operativo",
       "path": "SisOp/1. Sistema operativo.md"
     },
     {
       "basename": "0. Sistemi Operativi",
       "path": "SisOp/0. Sistemi Operativi.md"
-    },
-    {
-      "basename": "9. Statistiche d'ordine",
-      "path": "Algoritmi/9. Statistiche d'ordine.md"
     },
     {
       "basename": "0. Algoritmi",
@@ -39,10 +59,6 @@
     {
       "basename": "Algoritmi",
       "path": "Algoritmi/Algoritmi.pdf"
-    },
-    {
-      "basename": "8. Sorting in tempo lineare",
-      "path": "Algoritmi/8. Sorting in tempo lineare.md"
     },
     {
       "basename": "7. Heapsort",
@@ -183,18 +199,6 @@
     {
       "basename": "lezione1_cn__published",
       "path": "CalcNum/Dispense/lezione1_cn__published.pdf"
-    },
-    {
-      "basename": "logica_delimitatori",
-      "path": "immagini/Scorciatoie latex/logica_delimitatori.png"
-    },
-    {
-      "basename": "lettere_simboli",
-      "path": "immagini/Scorciatoie latex/lettere_simboli.png"
-    },
-    {
-      "basename": "Funzioni di probabilità",
-      "path": "ProbStat/Funzioni di probabilità.md"
     }
   ],
   "omittedPaths": [],

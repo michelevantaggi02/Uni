@@ -4,18 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "1ea8ac0f18e8a118",
+        "id": "1e531213b431623f",
         "type": "tabs",
         "children": [
           {
-            "id": "d14c69e649a5a243",
+            "id": "402d69bc0e4dfe4f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SisOp/1. Sistema operativo.md",
+                "file": "Linguaggi/1. Fasi della compilazione.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "66b4d230b00552e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linguaggi/2. Analisi e Sintesi.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "61e7a8686e13df0f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "28639ed87d2b394b",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Linguaggi/dispense/L1-compilazione.pdf"
               }
             }
           }
@@ -93,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SisOp/1. Sistema operativo.md",
+                "file": "Linguaggi/2. Analisi e Sintesi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SisOp/1. Sistema operativo.md",
+                "file": "Linguaggi/2. Analisi e Sintesi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SisOp/1. Sistema operativo.md"
+                "file": "Linguaggi/2. Analisi e Sintesi.md"
               }
             }
           },
@@ -170,20 +199,37 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "canvas:Crea nuova lavagna": false,
-      "switcher:Apri selezione rapida": false,
-      "graph:Apri vista grafo": false,
-      "daily-notes:Apri nota del giorno": false,
-      "templates:Inserisci modello": false,
-      "command-palette:Apri riquadro comandi": false,
-      "workspaces:Gestisci layout delle aree di lavoro": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "d14c69e649a5a243",
+  "active": "fd510a9ed68e593f",
   "lastOpenFiles": [
-    "SisOp/0. Sistemi Operativi.md",
-    "SisOp/1. Sistema operativo.md",
+    "immagini/Pasted image 20230228173503.png",
+    "immagini/Pasted image 20230228173440.png",
+    "immagini/Pasted image 20230228172819.png",
+    "immagini/Pasted image 20230228171119.png",
+    "immagini/Pasted image 20230228170914.png",
+    "immagini/Pasted image 20230228170004.png",
+    "immagini/Pasted image 20230228165903.png",
+    "immagini/Pasted image 20230228165850.png",
+    "Linguaggi/0. Linguaggi formali e compilatori.md",
+    "Linguaggi/2. Analisi e Sintesi.md",
+    "Linguaggi/1. Fasi della compilazione.md",
+    "immagini/Pasted image 20230228164430.png",
+    "immagini/Pasted image 20230228164052.png",
+    "Linguaggi/dispense/L1-compilazione.pdf",
+    "Linguaggi/dispense",
+    "Linguaggi",
     "Algoritmi/9. Statistiche d'ordine.md",
+    "Algoritmi/8. Sorting in tempo lineare.md",
+    "SisOp/1. Sistema operativo.md",
+    "SisOp/0. Sistemi Operativi.md",
     "Algoritmo di Gauss.md",
     "Algoritmi/0. Algoritmi.md",
     "LaTeX.md",
@@ -192,7 +238,6 @@
     "Algoritmi/Esercizi Algoritmi/23-11-2022.md",
     "Algoritmi/Esercizi Algoritmi/30-11-2022.md",
     "Algoritmi/Algoritmi.pdf",
-    "Algoritmi/8. Sorting in tempo lineare.md",
     "Algoritmi/7. Heapsort.md",
     "Algoritmi/6. Quicksort.md",
     "Algoritmi/5. Divide et impera.md",
@@ -206,10 +251,6 @@
     "SisOp",
     "Diritto",
     "CalcNum/3. Errore Per Le Funzioni Razionali.md",
-    "CalcNum/4. Problemi Ben Posti.md",
-    "CalcNum/1. Stabilità numerica.md",
-    "CalcNum/15. Curva di Bezier.md",
-    "CalcNum/5. Derivata di più variabili.md",
     "Uni"
   ]
 }

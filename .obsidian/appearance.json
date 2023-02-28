@@ -6,5 +6,7 @@
   "nativeMenus": true,
   "theme": "obsidian",
   "textFontFamily": "",
-  "enabledCssSnippets": []
+  "enabledCssSnippets": [
+    "titoli"
+  ]
 }
