@@ -1,1 +1,7 @@
 .markdown-source-view, .markdown-preview-view { max-width: 1000px; margin: auto; }
+
+img[alt*="center"]{
+
+	display: block;
+	margin: auto;
+}

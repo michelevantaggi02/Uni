@@ -11,41 +11,55 @@
       "query": "path:Algoritmi",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 16711680
       }
     },
     {
       "query": "path:CalcNum",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 16755200
       }
     },
     {
       "query": "path:ProbStat",
       "color": {
         "a": 1,
-        "rgb": 6902496
+        "rgb": 2818303
       }
     },
     {
-      "query": "path:templates",
+      "query": "path:Diritto",
       "color": {
         "a": 1,
-        "rgb": 5431378
+        "rgb": 10412799
+      }
+    },
+    {
+      "query": "path:SisOp",
+      "color": {
+        "a": 1,
+        "rgb": 14745855
+      }
+    },
+    {
+      "query": "path:Linguaggi",
+      "color": {
+        "a": 1,
+        "rgb": 65425
       }
     }
   ],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1.30330729166667,
-  "lineSizeMultiplier": 2.60997395833333,
+  "nodeSizeMultiplier": 1.27395833333333,
+  "lineSizeMultiplier": 3.72395833333333,
   "collapse-forces": false,
-  "centerStrength": 0.595572916666667,
-  "repelStrength": 0,
+  "centerStrength": 0.572916666666667,
+  "repelStrength": 9.79166666666667,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 1.038867218881207,
+  "scale": 0.690386519105441,
   "close": false
 }

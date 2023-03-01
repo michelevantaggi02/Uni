@@ -1,24 +1,64 @@
 {
   "recentFiles": [
     {
-      "basename": "2. Analisi e Sintesi",
-      "path": "Linguaggi/2. Analisi e Sintesi.md"
+      "basename": "02_FisGen_Vettori",
+      "path": "Fisica/dispense/02_FisGen_Vettori.pdf"
+    },
+    {
+      "basename": "1. Leggi e grandezze fisiche",
+      "path": "Fisica/1. Leggi e grandezze fisiche.md"
+    },
+    {
+      "basename": "0. Fisica Generale",
+      "path": "Fisica/0. Fisica Generale.md"
+    },
+    {
+      "basename": "LaTeX",
+      "path": "LaTeX.md"
+    },
+    {
+      "basename": "L2-grammatiche",
+      "path": "Linguaggi/dispense/L2-grammatiche.pdf"
+    },
+    {
+      "basename": "3. Grammatica",
+      "path": "Linguaggi/3. Grammatica.md"
     },
     {
       "basename": "0. Linguaggi formali e compilatori",
       "path": "Linguaggi/0. Linguaggi formali e compilatori.md"
     },
     {
-      "basename": "1. Fasi della compilazione",
-      "path": "Linguaggi/1. Fasi della compilazione.md"
-    },
-    {
       "basename": "L1-compilazione",
       "path": "Linguaggi/dispense/L1-compilazione.pdf"
     },
     {
+      "basename": "2. Analisi e Sintesi",
+      "path": "Linguaggi/2. Analisi e Sintesi.md"
+    },
+    {
+      "basename": "1. Qualità del software",
+      "path": "Ingegneria/1. Qualità del software.md"
+    },
+    {
+      "basename": "0. Ingegneria del software",
+      "path": "Ingegneria/0. Ingegneria del software.md"
+    },
+    {
+      "basename": "10. Grafi",
+      "path": "Algoritmi/10. Grafi.md"
+    },
+    {
+      "basename": "0. Algoritmi",
+      "path": "Algoritmi/0. Algoritmi.md"
+    },
+    {
       "basename": "9. Statistiche d'ordine",
       "path": "Algoritmi/9. Statistiche d'ordine.md"
+    },
+    {
+      "basename": "1. Fasi della compilazione",
+      "path": "Linguaggi/1. Fasi della compilazione.md"
     },
     {
       "basename": "8. Sorting in tempo lineare",
@@ -31,14 +71,6 @@
     {
       "basename": "0. Sistemi Operativi",
       "path": "SisOp/0. Sistemi Operativi.md"
-    },
-    {
-      "basename": "0. Algoritmi",
-      "path": "Algoritmi/0. Algoritmi.md"
-    },
-    {
-      "basename": "LaTeX",
-      "path": "LaTeX.md"
     },
     {
       "basename": "4. Ammortizzazione",
@@ -151,54 +183,6 @@
     {
       "basename": "9. Altre Strutture",
       "path": "CalcNum/9. Altre Strutture.md"
-    },
-    {
-      "basename": "dispense_cn_2021",
-      "path": "CalcNum/Dispense/dispense_cn_2021.pdf"
-    },
-    {
-      "basename": "esercizi_cn_2021",
-      "path": "CalcNum/Dispense/esercizi_cn_2021.pdf"
-    },
-    {
-      "basename": "8. Matrici",
-      "path": "CalcNum/8. Matrici.md"
-    },
-    {
-      "basename": "7. Vettori",
-      "path": "CalcNum/7. Vettori.md"
-    },
-    {
-      "basename": "6. Valutazione di un polinomio",
-      "path": "CalcNum/6. Valutazione di un polinomio.md"
-    },
-    {
-      "basename": "0. Introduzione",
-      "path": "CalcNum/0. Introduzione.md"
-    },
-    {
-      "basename": "lezionenetworks_2021",
-      "path": "CalcNum/Dispense/lezionenetworks_2021.pdf"
-    },
-    {
-      "basename": "30-11-2022",
-      "path": "CalcNum/Tutorato/30-11-2022.md"
-    },
-    {
-      "basename": "20-12-2022",
-      "path": "CalcNum/Tutorato/20-12-2022.md"
-    },
-    {
-      "basename": "lez_erroranalysis_2122",
-      "path": "CalcNum/Dispense/lez_erroranalysis_2122.pdf"
-    },
-    {
-      "basename": "Calcolo numerico",
-      "path": "CalcNum/Calcolo numerico.pdf"
-    },
-    {
-      "basename": "lezione1_cn__published",
-      "path": "CalcNum/Dispense/lezione1_cn__published.pdf"
     }
   ],
   "omittedPaths": [],

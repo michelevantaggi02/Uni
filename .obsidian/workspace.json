@@ -4,47 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "1e531213b431623f",
+        "id": "006c19aec5f30ec7",
         "type": "tabs",
         "children": [
           {
-            "id": "402d69bc0e4dfe4f",
+            "id": "727a3f32c9f3fddd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linguaggi/1. Fasi della compilazione.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "66b4d230b00552e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linguaggi/2. Analisi e Sintesi.md",
+                "file": "Fisica/1. Leggi e grandezze fisiche.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
-        "id": "61e7a8686e13df0f",
+        "id": "6446036e06f0aaac",
         "type": "tabs",
         "children": [
           {
-            "id": "28639ed87d2b394b",
+            "id": "dab88cbf2ad4674e",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Linguaggi/dispense/L1-compilazione.pdf"
+                "file": "Fisica/dispense/02_FisGen_Vettori.pdf"
               }
             }
           }
@@ -106,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.5
+    "width": 433
   },
   "right": {
     "id": "d301eb09d39979ed",
@@ -122,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linguaggi/2. Analisi e Sintesi.md",
+                "file": "Fisica/dispense/02_FisGen_Vettori.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linguaggi/2. Analisi e Sintesi.md",
+                "file": "Fisica/dispense/02_FisGen_Vettori.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linguaggi/2. Analisi e Sintesi.md"
+                "file": "Fisica/dispense/02_FisGen_Vettori.pdf"
               }
             }
           },
@@ -205,52 +192,56 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "3d-graph:3D Graph": false
     }
   },
-  "active": "fd510a9ed68e593f",
+  "active": "dab88cbf2ad4674e",
   "lastOpenFiles": [
-    "immagini/Pasted image 20230228173503.png",
-    "immagini/Pasted image 20230228173440.png",
-    "immagini/Pasted image 20230228172819.png",
-    "immagini/Pasted image 20230228171119.png",
-    "immagini/Pasted image 20230228170914.png",
-    "immagini/Pasted image 20230228170004.png",
-    "immagini/Pasted image 20230228165903.png",
-    "immagini/Pasted image 20230228165850.png",
+    "Fisica/1. Leggi e grandezze fisiche.md",
+    "Fisica/dispense/03_FisGen_Cinematica1D.pdf",
+    "Fisica/dispense/02_FisGen_Vettori.pdf",
+    "Fisica/dispense/01_FisGen_Introduzione.pdf",
+    "immagini/Pasted image 20230301165333.png",
+    "immagini/Pasted image 20230301165318.png",
+    "immagini/Pasted image 20230301165312.png",
+    "immagini/Pasted image 20230301165257.png",
+    "immagini/Pasted image 20230301165246.png",
+    "Fisica/0. Fisica Generale.md",
+    "Fisica/dispense/Lezione_FisGen_CircuitiCC_7.pdf",
+    "Fisica/dispense/Lezione_FisGen_Magetismo_10.pdf",
+    "Fisica/Untitled.md",
+    "Fisica/dispense/Lezione_FisGen_Magnetismo_9.pdf",
+    "Fisica/dispense/Lezione_FisGen_Magnetismo_8.pdf",
+    "Fisica/dispense/Lezione_FisGen_Elettrostatica_5.pdf",
+    "Fisica/dispense/Lezione_FisGen_Elettrostatica_4.pdf",
+    "Fisica/dispense/Lezione_FisGen_Elettrostatica_3.pdf",
+    "LaTeX.md",
+    "Linguaggi/3. Grammatica.md",
     "Linguaggi/0. Linguaggi formali e compilatori.md",
     "Linguaggi/2. Analisi e Sintesi.md",
-    "Linguaggi/1. Fasi della compilazione.md",
-    "immagini/Pasted image 20230228164430.png",
-    "immagini/Pasted image 20230228164052.png",
-    "Linguaggi/dispense/L1-compilazione.pdf",
-    "Linguaggi/dispense",
-    "Linguaggi",
+    "Ingegneria/1. Qualità del software.md",
+    "Ingegneria/0. Ingegneria del software.md",
+    "Algoritmi/10. Grafi.md",
+    "immagini/Pasted image 20230301102407.png",
+    "immagini/Pasted image 20230301101608.png",
+    "immagini/Pasted image 20230301101539.png",
+    "immagini/Pasted image 20230301094712.png",
+    "immagini/Pasted image 20230301094535.png",
+    "Algoritmi/0. Algoritmi.md",
     "Algoritmi/9. Statistiche d'ordine.md",
+    "Linguaggi/1. Fasi della compilazione.md",
     "Algoritmi/8. Sorting in tempo lineare.md",
     "SisOp/1. Sistema operativo.md",
     "SisOp/0. Sistemi Operativi.md",
     "Algoritmo di Gauss.md",
-    "Algoritmi/0. Algoritmi.md",
-    "LaTeX.md",
     "Algoritmi/4. Ammortizzazione.md",
     "Algoritmi/Esercizi Algoritmi/14-12-2022.md",
     "Algoritmi/Esercizi Algoritmi/23-11-2022.md",
     "Algoritmi/Esercizi Algoritmi/30-11-2022.md",
-    "Algoritmi/Algoritmi.pdf",
     "Algoritmi/7. Heapsort.md",
     "Algoritmi/6. Quicksort.md",
     "Algoritmi/5. Divide et impera.md",
-    "Algoritmi/1. Definizione di Algoritmo.md",
-    "Algoritmi/3. Modello RAM (Random Access Machine).md",
-    "Algoritmi/0..md",
-    "Algoritmi/2. Analisi e studio.md",
-    "Algoritmi/Untitled.md",
-    "Diritto/0. Diritto dell'informatica.md",
-    "templates/Matematica.md",
-    "SisOp",
-    "Diritto",
-    "CalcNum/3. Errore Per Le Funzioni Razionali.md",
-    "Uni"
+    "Algoritmi/1. Definizione di Algoritmo.md"
   ]
 }
