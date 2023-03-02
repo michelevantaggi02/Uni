@@ -4,34 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "006c19aec5f30ec7",
+        "id": "c65858dc67982059",
         "type": "tabs",
         "children": [
           {
-            "id": "727a3f32c9f3fddd",
+            "id": "dc8f83e5f187c327",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fisica/1. Leggi e grandezze fisiche.md",
+                "file": "SisOp/Lab/L1. Programmazione di sistema.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "6446036e06f0aaac",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "dab88cbf2ad4674e",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Fisica/dispense/02_FisGen_Vettori.pdf"
               }
             }
           }
@@ -93,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 433
+    "width": 246
   },
   "right": {
     "id": "d301eb09d39979ed",
@@ -109,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fisica/dispense/02_FisGen_Vettori.pdf",
+                "file": "SisOp/Lab/L1. Programmazione di sistema.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fisica/dispense/02_FisGen_Vettori.pdf",
+                "file": "SisOp/Lab/L1. Programmazione di sistema.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fisica/dispense/02_FisGen_Vettori.pdf"
+                "file": "SisOp/Lab/L1. Programmazione di sistema.md"
               }
             }
           },
@@ -196,38 +180,42 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "dab88cbf2ad4674e",
+  "active": "dc8f83e5f187c327",
   "lastOpenFiles": [
-    "Fisica/1. Leggi e grandezze fisiche.md",
-    "Fisica/dispense/03_FisGen_Cinematica1D.pdf",
+    "SisOp/Lab/L1. Programmazione di sistema.md",
+    "SisOp/Lab",
+    "Ingegneria/2. Modelli produttivi.md",
+    "Ingegneria/1. Qualità del software.md",
+    "Ingegneria/0. Ingegneria del software.md",
+    "Ingegneria/dispense/IngSW_01_PrincipiIngSw_Qualita.pdf",
+    "Ingegneria/dispense",
+    "Diritto/1. Informatica e diritto.md",
+    "Diritto/dispense/introduzione.pdf",
+    "Diritto/dispense",
+    "Diritto/0. Diritto dell'informatica.md",
+    "immagini/Pasted image 20230301102407.png",
+    "immagini/Pasted image 20230228165903.png",
+    "immagini/Pasted image 20230228170914.png",
+    "immagini/Pasted image 20230228171119.png",
+    "immagini/Pasted image 20230228172819.png",
+    "immagini/Pasted image 20230228173440.png",
+    "immagini/Pasted image 20230228173503.png",
+    "immagini/Pasted image 20230301094454.png",
+    "immagini/Pasted image 20230301094535.png",
+    "immagini/Pasted image 20230301094712.png",
     "Fisica/dispense/02_FisGen_Vettori.pdf",
+    "Fisica/1. Leggi e grandezze fisiche.md",
+    "Fisica/2. Vettori.md",
+    "Fisica/dispense/03_FisGen_Cinematica1D.pdf",
     "Fisica/dispense/01_FisGen_Introduzione.pdf",
-    "immagini/Pasted image 20230301165333.png",
-    "immagini/Pasted image 20230301165318.png",
-    "immagini/Pasted image 20230301165312.png",
-    "immagini/Pasted image 20230301165257.png",
-    "immagini/Pasted image 20230301165246.png",
     "Fisica/0. Fisica Generale.md",
     "Fisica/dispense/Lezione_FisGen_CircuitiCC_7.pdf",
     "Fisica/dispense/Lezione_FisGen_Magetismo_10.pdf",
-    "Fisica/Untitled.md",
-    "Fisica/dispense/Lezione_FisGen_Magnetismo_9.pdf",
-    "Fisica/dispense/Lezione_FisGen_Magnetismo_8.pdf",
-    "Fisica/dispense/Lezione_FisGen_Elettrostatica_5.pdf",
-    "Fisica/dispense/Lezione_FisGen_Elettrostatica_4.pdf",
-    "Fisica/dispense/Lezione_FisGen_Elettrostatica_3.pdf",
     "LaTeX.md",
     "Linguaggi/3. Grammatica.md",
     "Linguaggi/0. Linguaggi formali e compilatori.md",
     "Linguaggi/2. Analisi e Sintesi.md",
-    "Ingegneria/1. Qualità del software.md",
-    "Ingegneria/0. Ingegneria del software.md",
     "Algoritmi/10. Grafi.md",
-    "immagini/Pasted image 20230301102407.png",
-    "immagini/Pasted image 20230301101608.png",
-    "immagini/Pasted image 20230301101539.png",
-    "immagini/Pasted image 20230301094712.png",
-    "immagini/Pasted image 20230301094535.png",
     "Algoritmi/0. Algoritmi.md",
     "Algoritmi/9. Statistiche d'ordine.md",
     "Linguaggi/1. Fasi della compilazione.md",
@@ -239,9 +227,6 @@
     "Algoritmi/Esercizi Algoritmi/14-12-2022.md",
     "Algoritmi/Esercizi Algoritmi/23-11-2022.md",
     "Algoritmi/Esercizi Algoritmi/30-11-2022.md",
-    "Algoritmi/7. Heapsort.md",
-    "Algoritmi/6. Quicksort.md",
-    "Algoritmi/5. Divide et impera.md",
-    "Algoritmi/1. Definizione di Algoritmo.md"
+    "Algoritmi/7. Heapsort.md"
   ]
 }

@@ -11,5 +11,6 @@
   "spellcheck": true,
   "showLineNumber": false,
   "tabSize": 4,
-  "readableLineLength": false
+  "readableLineLength": false,
+  "promptDelete": false
 }
