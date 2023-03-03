@@ -1,6 +1,50 @@
 {
   "recentFiles": [
     {
+      "basename": "2. Vettori",
+      "path": "Fisica/2. Vettori.md"
+    },
+    {
+      "basename": "LaTeX",
+      "path": "LaTeX.md"
+    },
+    {
+      "basename": "02_FisGen_Vettori",
+      "path": "Fisica/dispense/02_FisGen_Vettori.pdf"
+    },
+    {
+      "basename": "10. Grafi",
+      "path": "Algoritmi/10. Grafi.md"
+    },
+    {
+      "basename": "Grafi1stWeek",
+      "path": "Algoritmi/dispense/Grafi1stWeek.pdf"
+    },
+    {
+      "basename": "2.",
+      "path": "Diritto/2..md"
+    },
+    {
+      "basename": "0. Diritto dell'informatica",
+      "path": "Diritto/0. Diritto dell'informatica.md"
+    },
+    {
+      "basename": "1. Informatica e diritto",
+      "path": "Diritto/1. Informatica e diritto.md"
+    },
+    {
+      "basename": "introduzione",
+      "path": "Diritto/dispense/introduzione.pdf"
+    },
+    {
+      "basename": "9. Statistiche d'ordine",
+      "path": "Algoritmi/9. Statistiche d'ordine.md"
+    },
+    {
+      "basename": "StatisticadOrdine",
+      "path": "Algoritmi/dispense/StatisticadOrdine.pdf"
+    },
+    {
       "basename": "L1. Programmazione di sistema",
       "path": "SisOp/Lab/L1. Programmazione di sistema.md"
     },
@@ -19,18 +63,6 @@
     {
       "basename": "IngSW_01_PrincipiIngSw_Qualita",
       "path": "Ingegneria/dispense/IngSW_01_PrincipiIngSw_Qualita.pdf"
-    },
-    {
-      "basename": "1. Informatica e diritto",
-      "path": "Diritto/1. Informatica e diritto.md"
-    },
-    {
-      "basename": "introduzione",
-      "path": "Diritto/dispense/introduzione.pdf"
-    },
-    {
-      "basename": "0. Diritto dell'informatica",
-      "path": "Diritto/0. Diritto dell'informatica.md"
     },
     {
       "basename": "Pasted image 20230301102407",
@@ -81,24 +113,12 @@
       "path": "immagini/Pasted image 20230301101608.png"
     },
     {
-      "basename": "02_FisGen_Vettori",
-      "path": "Fisica/dispense/02_FisGen_Vettori.pdf"
-    },
-    {
       "basename": "1. Leggi e grandezze fisiche",
       "path": "Fisica/1. Leggi e grandezze fisiche.md"
     },
     {
-      "basename": "2. Vettori",
-      "path": "Fisica/2. Vettori.md"
-    },
-    {
       "basename": "0. Fisica Generale",
       "path": "Fisica/0. Fisica Generale.md"
-    },
-    {
-      "basename": "LaTeX",
-      "path": "LaTeX.md"
     },
     {
       "basename": "L2-grammatiche",
@@ -121,16 +141,8 @@
       "path": "Linguaggi/2. Analisi e Sintesi.md"
     },
     {
-      "basename": "10. Grafi",
-      "path": "Algoritmi/10. Grafi.md"
-    },
-    {
       "basename": "0. Algoritmi",
       "path": "Algoritmi/0. Algoritmi.md"
-    },
-    {
-      "basename": "9. Statistiche d'ordine",
-      "path": "Algoritmi/9. Statistiche d'ordine.md"
     },
     {
       "basename": "1. Fasi della compilazione",
@@ -187,18 +199,6 @@
     {
       "basename": "3. Modello RAM (Random Access Machine)",
       "path": "Algoritmi/3. Modello RAM (Random Access Machine).md"
-    },
-    {
-      "basename": "2. Analisi e studio",
-      "path": "Algoritmi/2. Analisi e studio.md"
-    },
-    {
-      "basename": "Matematica",
-      "path": "templates/Matematica.md"
-    },
-    {
-      "basename": "3. Errore Per Le Funzioni Razionali",
-      "path": "CalcNum/3. Errore Per Le Funzioni Razionali.md"
     }
   ],
   "omittedPaths": [],
