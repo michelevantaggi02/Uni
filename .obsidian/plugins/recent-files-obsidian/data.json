@@ -1,32 +1,52 @@
 {
   "recentFiles": [
     {
-      "basename": "2. Vettori",
-      "path": "Fisica/2. Vettori.md"
+      "basename": "2. Sistema di elaborazione",
+      "path": "SisOp/2. Sistema di elaborazione.md"
     },
     {
-      "basename": "LaTeX",
-      "path": "LaTeX.md"
+      "basename": "1. Sistema operativo",
+      "path": "SisOp/1. Sistema operativo.md"
     },
     {
-      "basename": "02_FisGen_Vettori",
-      "path": "Fisica/dispense/02_FisGen_Vettori.pdf"
+      "basename": "lezione",
+      "path": "SisOp/dispense/lezione.pdf"
+    },
+    {
+      "basename": "9. Statistiche d'ordine",
+      "path": "Algoritmi/9. Statistiche d'ordine.md"
     },
     {
       "basename": "10. Grafi",
       "path": "Algoritmi/10. Grafi.md"
     },
     {
-      "basename": "Grafi1stWeek",
-      "path": "Algoritmi/dispense/Grafi1stWeek.pdf"
+      "basename": "prove",
+      "path": "Diritto/dispense/prove.pdf"
     },
     {
-      "basename": "2.",
-      "path": "Diritto/2..md"
+      "basename": "2. Le prove",
+      "path": "Diritto/2. Le prove.md"
     },
     {
       "basename": "0. Diritto dell'informatica",
       "path": "Diritto/0. Diritto dell'informatica.md"
+    },
+    {
+      "basename": "LaTeX",
+      "path": "LaTeX.md"
+    },
+    {
+      "basename": "2. Vettori",
+      "path": "Fisica/2. Vettori.md"
+    },
+    {
+      "basename": "02_FisGen_Vettori",
+      "path": "Fisica/dispense/02_FisGen_Vettori.pdf"
+    },
+    {
+      "basename": "Grafi1stWeek",
+      "path": "Algoritmi/dispense/Grafi1stWeek.pdf"
     },
     {
       "basename": "1. Informatica e diritto",
@@ -35,10 +55,6 @@
     {
       "basename": "introduzione",
       "path": "Diritto/dispense/introduzione.pdf"
-    },
-    {
-      "basename": "9. Statistiche d'ordine",
-      "path": "Algoritmi/9. Statistiche d'ordine.md"
     },
     {
       "basename": "StatisticadOrdine",
@@ -153,10 +169,6 @@
       "path": "Algoritmi/8. Sorting in tempo lineare.md"
     },
     {
-      "basename": "1. Sistema operativo",
-      "path": "SisOp/1. Sistema operativo.md"
-    },
-    {
       "basename": "0. Sistemi Operativi",
       "path": "SisOp/0. Sistemi Operativi.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "6. Quicksort",
       "path": "Algoritmi/6. Quicksort.md"
-    },
-    {
-      "basename": "5. Divide et impera",
-      "path": "Algoritmi/5. Divide et impera.md"
-    },
-    {
-      "basename": "1. Definizione di Algoritmo",
-      "path": "Algoritmi/1. Definizione di Algoritmo.md"
-    },
-    {
-      "basename": "3. Modello RAM (Random Access Machine)",
-      "path": "Algoritmi/3. Modello RAM (Random Access Machine).md"
     }
   ],
   "omittedPaths": [],

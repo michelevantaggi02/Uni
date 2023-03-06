@@ -4,30 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "404fa0d6abb05209",
+        "id": "6e1169d5a2244af6",
         "type": "tabs",
         "children": [
           {
-            "id": "018256f914b2cfba",
+            "id": "1a733f9add399a54",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fisica/2. Vettori.md",
+                "file": "SisOp/2. Sistema di elaborazione.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "7aaa4e6879409c1b",
+        "type": "tabs",
+        "children": [
           {
-            "id": "c0fc3f44f17b1ad3",
+            "id": "4741880c4dd4104f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "LaTeX.md",
-                "mode": "source",
-                "source": false
+                "file": "SisOp/dispense/lezione.pdf"
               }
             }
           }
@@ -89,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246
+    "width": 246,
+    "collapsed": true
   },
   "right": {
     "id": "d301eb09d39979ed",
@@ -105,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fisica/2. Vettori.md",
+                "file": "SisOp/2. Sistema di elaborazione.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fisica/2. Vettori.md",
+                "file": "SisOp/2. Sistema di elaborazione.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -135,7 +140,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
             }
           },
@@ -145,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fisica/2. Vettori.md"
+                "file": "SisOp/2. Sistema di elaborazione.md"
               }
             }
           },
@@ -192,15 +197,21 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "018256f914b2cfba",
+  "active": "1a733f9add399a54",
   "lastOpenFiles": [
+    "SisOp/1. Sistema operativo.md",
+    "SisOp/dispense/lezione.pdf",
+    "SisOp/2. Sistema di elaborazione.md",
+    "SisOp/dispense",
+    "Algoritmi/9. Statistiche d'ordine.md",
+    "Algoritmi/10. Grafi.md",
+    "Diritto/dispense/prove.pdf",
+    "Diritto/2. Le prove.md",
+    "Diritto/0. Diritto dell'informatica.md",
     "LaTeX.md",
     "Fisica/2. Vettori.md",
     "Fisica/dispense/02_FisGen_Vettori.pdf",
-    "Algoritmi/10. Grafi.md",
     "Algoritmi/dispense/Grafi1stWeek.pdf",
-    "Diritto/2..md",
-    "Diritto/0. Diritto dell'informatica.md",
     "Diritto/1. Informatica e diritto.md",
     "Diritto/dispense/introduzione.pdf",
     "immagini/Pasted image 20230303105346.png",
@@ -213,7 +224,6 @@
     "immagini/Pasted image 20230303092738.png",
     "immagini/Pasted image 20230303092735.png",
     "immagini/Pasted image 20230302164647.png",
-    "Algoritmi/9. Statistiche d'ordine.md",
     "Algoritmi/dispense/StatisticadOrdine.pdf",
     "SisOp/Lab/L1. Programmazione di sistema.md",
     "SisOp/Lab",
@@ -222,10 +232,7 @@
     "Ingegneria/0. Ingegneria del software.md",
     "Ingegneria/dispense/IngSW_01_PrincipiIngSw_Qualita.pdf",
     "Ingegneria/dispense",
-    "Diritto/dispense",
     "Fisica/1. Leggi e grandezze fisiche.md",
-    "Fisica/dispense/03_FisGen_Cinematica1D.pdf",
-    "Fisica/dispense/01_FisGen_Introduzione.pdf",
     "Fisica/0. Fisica Generale.md",
     "Linguaggi/3. Grammatica.md",
     "Linguaggi/0. Linguaggi formali e compilatori.md",
@@ -233,11 +240,9 @@
     "Algoritmi/0. Algoritmi.md",
     "Linguaggi/1. Fasi della compilazione.md",
     "Algoritmi/8. Sorting in tempo lineare.md",
-    "SisOp/1. Sistema operativo.md",
     "SisOp/0. Sistemi Operativi.md",
     "Algoritmo di Gauss.md",
     "Algoritmi/4. Ammortizzazione.md",
-    "Algoritmi/Esercizi Algoritmi/14-12-2022.md",
-    "Algoritmi/Esercizi Algoritmi/23-11-2022.md"
+    "Algoritmi/Esercizi Algoritmi/14-12-2022.md"
   ]
 }
