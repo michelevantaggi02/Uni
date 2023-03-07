@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6e1169d5a2244af6",
+        "id": "54e96dc24f2c3c4a",
         "type": "tabs",
         "children": [
           {
-            "id": "1a733f9add399a54",
+            "id": "965ea62b1ff60af7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SisOp/2. Sistema di elaborazione.md",
+                "file": "Linguaggi/4. Gerarchia di Chomsky.md",
                 "mode": "source",
                 "source": false
               }
@@ -22,16 +22,16 @@
         ]
       },
       {
-        "id": "7aaa4e6879409c1b",
+        "id": "4c7c1610059f06ff",
         "type": "tabs",
         "children": [
           {
-            "id": "4741880c4dd4104f",
+            "id": "9bb7dadb923f9852",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "SisOp/dispense/lezione.pdf"
+                "file": "Linguaggi/dispense/L03-gerarchia.pdf"
               }
             }
           }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SisOp/2. Sistema di elaborazione.md",
+                "file": "Linguaggi/4. Gerarchia di Chomsky.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SisOp/2. Sistema di elaborazione.md",
+                "file": "Linguaggi/4. Gerarchia di Chomsky.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SisOp/2. Sistema di elaborazione.md"
+                "file": "Linguaggi/4. Gerarchia di Chomsky.md"
               }
             }
           },
@@ -197,14 +197,19 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "1a733f9add399a54",
+  "active": "965ea62b1ff60af7",
   "lastOpenFiles": [
-    "SisOp/1. Sistema operativo.md",
-    "SisOp/dispense/lezione.pdf",
-    "SisOp/2. Sistema di elaborazione.md",
-    "SisOp/dispense",
+    "Linguaggi/3. Grammatica.md",
+    "Linguaggi/4. Gerarchia di Chomsky.md",
+    "Linguaggi/dispense/L03-gerarchia.pdf",
     "Algoritmi/9. Statistiche d'ordine.md",
+    "SisOp/0. Sistemi Operativi.md",
+    "SisOp/3. Architettura dei sistemi operativi.md",
+    "SisOp/1. Sistema operativo.md",
+    "SisOp/2. Sistema di elaborazione.md",
     "Algoritmi/10. Grafi.md",
+    "SisOp/dispense/lezione.pdf",
+    "SisOp/dispense",
     "Diritto/dispense/prove.pdf",
     "Diritto/2. Le prove.md",
     "Diritto/0. Diritto dell'informatica.md",
@@ -231,18 +236,13 @@
     "Ingegneria/1. Qualità del software.md",
     "Ingegneria/0. Ingegneria del software.md",
     "Ingegneria/dispense/IngSW_01_PrincipiIngSw_Qualita.pdf",
-    "Ingegneria/dispense",
     "Fisica/1. Leggi e grandezze fisiche.md",
     "Fisica/0. Fisica Generale.md",
-    "Linguaggi/3. Grammatica.md",
     "Linguaggi/0. Linguaggi formali e compilatori.md",
     "Linguaggi/2. Analisi e Sintesi.md",
     "Algoritmi/0. Algoritmi.md",
     "Linguaggi/1. Fasi della compilazione.md",
     "Algoritmi/8. Sorting in tempo lineare.md",
-    "SisOp/0. Sistemi Operativi.md",
-    "Algoritmo di Gauss.md",
-    "Algoritmi/4. Ammortizzazione.md",
-    "Algoritmi/Esercizi Algoritmi/14-12-2022.md"
+    "Algoritmo di Gauss.md"
   ]
 }

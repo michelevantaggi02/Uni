@@ -1,24 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "2. Sistema di elaborazione",
-      "path": "SisOp/2. Sistema di elaborazione.md"
+      "basename": "4. Gerarchia di Chomsky",
+      "path": "Linguaggi/4. Gerarchia di Chomsky.md"
     },
     {
-      "basename": "1. Sistema operativo",
-      "path": "SisOp/1. Sistema operativo.md"
+      "basename": "3. Grammatica",
+      "path": "Linguaggi/3. Grammatica.md"
     },
     {
-      "basename": "lezione",
-      "path": "SisOp/dispense/lezione.pdf"
+      "basename": "L03-gerarchia",
+      "path": "Linguaggi/dispense/L03-gerarchia.pdf"
     },
     {
       "basename": "9. Statistiche d'ordine",
       "path": "Algoritmi/9. Statistiche d'ordine.md"
     },
     {
+      "basename": "0. Sistemi Operativi",
+      "path": "SisOp/0. Sistemi Operativi.md"
+    },
+    {
+      "basename": "3. Architettura dei sistemi operativi",
+      "path": "SisOp/3. Architettura dei sistemi operativi.md"
+    },
+    {
+      "basename": "1. Sistema operativo",
+      "path": "SisOp/1. Sistema operativo.md"
+    },
+    {
+      "basename": "2. Sistema di elaborazione",
+      "path": "SisOp/2. Sistema di elaborazione.md"
+    },
+    {
       "basename": "10. Grafi",
       "path": "Algoritmi/10. Grafi.md"
+    },
+    {
+      "basename": "lezione",
+      "path": "SisOp/dispense/lezione.pdf"
     },
     {
       "basename": "prove",
@@ -141,10 +161,6 @@
       "path": "Linguaggi/dispense/L2-grammatiche.pdf"
     },
     {
-      "basename": "3. Grammatica",
-      "path": "Linguaggi/3. Grammatica.md"
-    },
-    {
       "basename": "0. Linguaggi formali e compilatori",
       "path": "Linguaggi/0. Linguaggi formali e compilatori.md"
     },
@@ -169,10 +185,6 @@
       "path": "Algoritmi/8. Sorting in tempo lineare.md"
     },
     {
-      "basename": "0. Sistemi Operativi",
-      "path": "SisOp/0. Sistemi Operativi.md"
-    },
-    {
       "basename": "4. Ammortizzazione",
       "path": "Algoritmi/4. Ammortizzazione.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "30-11-2022",
       "path": "Algoritmi/Esercizi Algoritmi/30-11-2022.md"
-    },
-    {
-      "basename": "Algoritmi",
-      "path": "Algoritmi/Algoritmi.pdf"
-    },
-    {
-      "basename": "7. Heapsort",
-      "path": "Algoritmi/7. Heapsort.md"
-    },
-    {
-      "basename": "6. Quicksort",
-      "path": "Algoritmi/6. Quicksort.md"
     }
   ],
   "omittedPaths": [],
