@@ -23,5 +23,14 @@
       "key": "Q"
     }
   ],
-  "obsidian-dictionary-plugin:dictionary-open-view": []
+  "obsidian-dictionary-plugin:dictionary-open-view": [],
+  "insert-template": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "D"
+    }
+  ]
 }

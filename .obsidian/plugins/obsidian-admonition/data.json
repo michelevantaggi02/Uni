@@ -1,5 +1,18 @@
 {
-  "userAdmonitions": {},
+  "userAdmonitions": {
+    "teorema": {
+      "type": "teorema",
+      "color": "0, 199, 196",
+      "icon": {
+        "name": "fire",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Teorema",
+      "injectColor": true,
+      "noTitle": false
+    }
+  },
   "syntaxHighlight": true,
   "copyButton": false,
   "version": "9.2.1",

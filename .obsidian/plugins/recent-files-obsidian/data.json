@@ -1,16 +1,112 @@
 {
   "recentFiles": [
     {
+      "basename": "6. Automi non deterministici",
+      "path": "Linguaggi/6. Automi non deterministici.md"
+    },
+    {
+      "basename": "riguardare",
+      "path": "templates/riguardare.md"
+    },
+    {
+      "basename": "Matematica",
+      "path": "templates/Matematica.md"
+    },
+    {
+      "basename": "5. Automi a stati finiti",
+      "path": "Linguaggi/5. Automi a stati finiti.md"
+    },
+    {
+      "basename": "L05-NFA",
+      "path": "Linguaggi/dispense/L05-NFA.pdf"
+    },
+    {
       "basename": "4. Gerarchia di Chomsky",
       "path": "Linguaggi/4. Gerarchia di Chomsky.md"
     },
     {
-      "basename": "3. Grammatica",
-      "path": "Linguaggi/3. Grammatica.md"
+      "basename": "10. Grafi",
+      "path": "Algoritmi/10. Grafi.md"
+    },
+    {
+      "basename": "4. Progettazione del sistema operativo",
+      "path": "SisOp/4. Progettazione del sistema operativo.md"
+    },
+    {
+      "basename": "3. Architettura dei sistemi operativi",
+      "path": "SisOp/3. Architettura dei sistemi operativi.md"
+    },
+    {
+      "basename": "lezione",
+      "path": "SisOp/dispense/lezione.pdf"
+    },
+    {
+      "basename": "L1. Programmazione di sistema",
+      "path": "SisOp/Lab/L1. Programmazione di sistema.md"
+    },
+    {
+      "basename": "3. Cinematica",
+      "path": "Fisica/3. Cinematica.md"
+    },
+    {
+      "basename": "02 - BASH Prime nozioni e primi comandi",
+      "path": "SisOp/Lab/dispense/02 - BASH Prime nozioni e primi comandi.pdf"
+    },
+    {
+      "basename": "03_FisGen_Cinematica1D",
+      "path": "Fisica/dispense/03_FisGen_Cinematica1D.pdf"
+    },
+    {
+      "basename": "LaTeX",
+      "path": "LaTeX.md"
+    },
+    {
+      "basename": "2. Vettori",
+      "path": "Fisica/2. Vettori.md"
+    },
+    {
+      "basename": "0. Fisica Generale",
+      "path": "Fisica/0. Fisica Generale.md"
+    },
+    {
+      "basename": "1. Leggi e grandezze fisiche",
+      "path": "Fisica/1. Leggi e grandezze fisiche.md"
+    },
+    {
+      "basename": "IngSW_02-modelli_ciclo_di_vitaSW",
+      "path": "Ingegneria/dispense/IngSW_02-modelli_ciclo_di_vitaSW.pdf"
+    },
+    {
+      "basename": "2. Modelli produttivi",
+      "path": "Ingegneria/2. Modelli produttivi.md"
+    },
+    {
+      "basename": "3. Qualità",
+      "path": "Ingegneria/3. Qualità.md"
+    },
+    {
+      "basename": "3. Regolamento europeo sulla protezione dei dati",
+      "path": "Diritto/3. Regolamento europeo sulla protezione dei dati.md"
+    },
+    {
+      "basename": "02_FisGen_Vettori",
+      "path": "Fisica/dispense/02_FisGen_Vettori.pdf"
+    },
+    {
+      "basename": "IngSW_01_PrincipiIngSw_Qualita",
+      "path": "Ingegneria/dispense/IngSW_01_PrincipiIngSw_Qualita.pdf"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Algoritmi/Esercizi Algoritmi/Untitled.md"
     },
     {
       "basename": "L03-gerarchia",
       "path": "Linguaggi/dispense/L03-gerarchia.pdf"
+    },
+    {
+      "basename": "3. Grammatica",
+      "path": "Linguaggi/3. Grammatica.md"
     },
     {
       "basename": "9. Statistiche d'ordine",
@@ -21,24 +117,12 @@
       "path": "SisOp/0. Sistemi Operativi.md"
     },
     {
-      "basename": "3. Architettura dei sistemi operativi",
-      "path": "SisOp/3. Architettura dei sistemi operativi.md"
-    },
-    {
       "basename": "1. Sistema operativo",
       "path": "SisOp/1. Sistema operativo.md"
     },
     {
       "basename": "2. Sistema di elaborazione",
       "path": "SisOp/2. Sistema di elaborazione.md"
-    },
-    {
-      "basename": "10. Grafi",
-      "path": "Algoritmi/10. Grafi.md"
-    },
-    {
-      "basename": "lezione",
-      "path": "SisOp/dispense/lezione.pdf"
     },
     {
       "basename": "prove",
@@ -51,18 +135,6 @@
     {
       "basename": "0. Diritto dell'informatica",
       "path": "Diritto/0. Diritto dell'informatica.md"
-    },
-    {
-      "basename": "LaTeX",
-      "path": "LaTeX.md"
-    },
-    {
-      "basename": "2. Vettori",
-      "path": "Fisica/2. Vettori.md"
-    },
-    {
-      "basename": "02_FisGen_Vettori",
-      "path": "Fisica/dispense/02_FisGen_Vettori.pdf"
     },
     {
       "basename": "Grafi1stWeek",
@@ -81,24 +153,12 @@
       "path": "Algoritmi/dispense/StatisticadOrdine.pdf"
     },
     {
-      "basename": "L1. Programmazione di sistema",
-      "path": "SisOp/Lab/L1. Programmazione di sistema.md"
-    },
-    {
-      "basename": "2. Modelli produttivi",
-      "path": "Ingegneria/2. Modelli produttivi.md"
-    },
-    {
       "basename": "1. Qualità del software",
       "path": "Ingegneria/1. Qualità del software.md"
     },
     {
       "basename": "0. Ingegneria del software",
       "path": "Ingegneria/0. Ingegneria del software.md"
-    },
-    {
-      "basename": "IngSW_01_PrincipiIngSw_Qualita",
-      "path": "Ingegneria/dispense/IngSW_01_PrincipiIngSw_Qualita.pdf"
     },
     {
       "basename": "Pasted image 20230301102407",
@@ -139,66 +199,6 @@
     {
       "basename": "Pasted image 20230301094712",
       "path": "immagini/Pasted image 20230301094712.png"
-    },
-    {
-      "basename": "Pasted image 20230301101539",
-      "path": "immagini/Pasted image 20230301101539.png"
-    },
-    {
-      "basename": "Pasted image 20230301101608",
-      "path": "immagini/Pasted image 20230301101608.png"
-    },
-    {
-      "basename": "1. Leggi e grandezze fisiche",
-      "path": "Fisica/1. Leggi e grandezze fisiche.md"
-    },
-    {
-      "basename": "0. Fisica Generale",
-      "path": "Fisica/0. Fisica Generale.md"
-    },
-    {
-      "basename": "L2-grammatiche",
-      "path": "Linguaggi/dispense/L2-grammatiche.pdf"
-    },
-    {
-      "basename": "0. Linguaggi formali e compilatori",
-      "path": "Linguaggi/0. Linguaggi formali e compilatori.md"
-    },
-    {
-      "basename": "L1-compilazione",
-      "path": "Linguaggi/dispense/L1-compilazione.pdf"
-    },
-    {
-      "basename": "2. Analisi e Sintesi",
-      "path": "Linguaggi/2. Analisi e Sintesi.md"
-    },
-    {
-      "basename": "0. Algoritmi",
-      "path": "Algoritmi/0. Algoritmi.md"
-    },
-    {
-      "basename": "1. Fasi della compilazione",
-      "path": "Linguaggi/1. Fasi della compilazione.md"
-    },
-    {
-      "basename": "8. Sorting in tempo lineare",
-      "path": "Algoritmi/8. Sorting in tempo lineare.md"
-    },
-    {
-      "basename": "4. Ammortizzazione",
-      "path": "Algoritmi/4. Ammortizzazione.md"
-    },
-    {
-      "basename": "14-12-2022",
-      "path": "Algoritmi/Esercizi Algoritmi/14-12-2022.md"
-    },
-    {
-      "basename": "23-11-2022",
-      "path": "Algoritmi/Esercizi Algoritmi/23-11-2022.md"
-    },
-    {
-      "basename": "30-11-2022",
-      "path": "Algoritmi/Esercizi Algoritmi/30-11-2022.md"
     }
   ],
   "omittedPaths": [],

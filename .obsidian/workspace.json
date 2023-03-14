@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "54e96dc24f2c3c4a",
+        "id": "80163f1d2eec1ab5",
         "type": "tabs",
         "children": [
           {
-            "id": "965ea62b1ff60af7",
+            "id": "c8e932606ef6a1e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linguaggi/4. Gerarchia di Chomsky.md",
+                "file": "Linguaggi/6. Automi non deterministici.md",
                 "mode": "source",
                 "source": false
               }
@@ -22,16 +22,16 @@
         ]
       },
       {
-        "id": "4c7c1610059f06ff",
+        "id": "3ae4bc2c826af888",
         "type": "tabs",
         "children": [
           {
-            "id": "9bb7dadb923f9852",
+            "id": "f9accf92a5f02545",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Linguaggi/dispense/L03-gerarchia.pdf"
+                "file": "Linguaggi/dispense/L05-NFA.pdf"
               }
             }
           }
@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246,
-    "collapsed": true
+    "width": 246
   },
   "right": {
     "id": "d301eb09d39979ed",
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linguaggi/4. Gerarchia di Chomsky.md",
+                "file": "Linguaggi/6. Automi non deterministici.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linguaggi/4. Gerarchia di Chomsky.md",
+                "file": "Linguaggi/6. Automi non deterministici.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linguaggi/4. Gerarchia di Chomsky.md"
+                "file": "Linguaggi/6. Automi non deterministici.md"
               }
             }
           },
@@ -194,55 +193,57 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
-      "3d-graph:3D Graph": false
+      "3d-graph:3D Graph": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "965ea62b1ff60af7",
+  "active": "c8e932606ef6a1e1",
   "lastOpenFiles": [
-    "Linguaggi/3. Grammatica.md",
+    "templates/riguardare.md",
+    "Linguaggi/6. Automi non deterministici.md",
+    "templates/Matematica.md",
+    "immagini/Pasted image 20230314162108.png",
+    "Linguaggi/5. Automi a stati finiti.md",
+    "Linguaggi/dispense/L05-NFA.pdf",
     "Linguaggi/4. Gerarchia di Chomsky.md",
+    "Algoritmi/10. Grafi.md",
+    "SisOp/4. Progettazione del sistema operativo.md",
+    "SisOp/3. Architettura dei sistemi operativi.md",
+    "SisOp/dispense/lezione.pdf",
+    "SisOp/Lab/L1. Programmazione di sistema.md",
+    "Fisica/3. Cinematica.md",
+    "SisOp/Lab/dispense/02 - BASH Prime nozioni e primi comandi.pdf",
+    "immagini/Pasted image 20230309150840.png",
+    "immagini/Pasted image 20230309150317.png",
+    "Fisica/dispense/03_FisGen_Cinematica1D.pdf",
+    "LaTeX.md",
+    "SisOp/Lab/dispense",
+    "Fisica/2. Vettori.md",
+    "Fisica/0. Fisica Generale.md",
+    "Fisica/1. Leggi e grandezze fisiche.md",
+    "Ingegneria/dispense/IngSW_02-modelli_ciclo_di_vitaSW.pdf",
+    "Ingegneria/2. Modelli produttivi.md",
+    "Ingegneria/3. Qualità.md",
+    "Diritto/3. Regolamento europeo sulla protezione dei dati.md",
+    "immagini/Pasted image 20230308165556.png",
+    "immagini/Pasted image 20230308165531.png",
+    "immagini/Pasted image 20230308165456.png",
+    "Fisica/dispense/02_FisGen_Vettori.pdf",
+    "immagini/Pasted image 20230308114722.png",
+    "Ingegneria/dispense/IngSW_01_PrincipiIngSw_Qualita.pdf",
+    "Algoritmi/Esercizi Algoritmi/Untitled.md",
     "Linguaggi/dispense/L03-gerarchia.pdf",
+    "Linguaggi/3. Grammatica.md",
     "Algoritmi/9. Statistiche d'ordine.md",
     "SisOp/0. Sistemi Operativi.md",
-    "SisOp/3. Architettura dei sistemi operativi.md",
     "SisOp/1. Sistema operativo.md",
     "SisOp/2. Sistema di elaborazione.md",
-    "Algoritmi/10. Grafi.md",
-    "SisOp/dispense/lezione.pdf",
     "SisOp/dispense",
-    "Diritto/dispense/prove.pdf",
     "Diritto/2. Le prove.md",
     "Diritto/0. Diritto dell'informatica.md",
-    "LaTeX.md",
-    "Fisica/2. Vettori.md",
-    "Fisica/dispense/02_FisGen_Vettori.pdf",
-    "Algoritmi/dispense/Grafi1stWeek.pdf",
     "Diritto/1. Informatica e diritto.md",
-    "Diritto/dispense/introduzione.pdf",
     "immagini/Pasted image 20230303105346.png",
     "immagini/Pasted image 20230303104412.png",
-    "immagini/Pasted image 20230303102220.png",
-    "immagini/Pasted image 20230303102113.png",
-    "immagini/Pasted image 20230303101619.png",
-    "immagini/Pasted image 20230303094916.png",
-    "immagini/Pasted image 20230303094811.png",
-    "immagini/Pasted image 20230303092738.png",
-    "immagini/Pasted image 20230303092735.png",
-    "immagini/Pasted image 20230302164647.png",
-    "Algoritmi/dispense/StatisticadOrdine.pdf",
-    "SisOp/Lab/L1. Programmazione di sistema.md",
-    "SisOp/Lab",
-    "Ingegneria/2. Modelli produttivi.md",
-    "Ingegneria/1. Qualità del software.md",
-    "Ingegneria/0. Ingegneria del software.md",
-    "Ingegneria/dispense/IngSW_01_PrincipiIngSw_Qualita.pdf",
-    "Fisica/1. Leggi e grandezze fisiche.md",
-    "Fisica/0. Fisica Generale.md",
-    "Linguaggi/0. Linguaggi formali e compilatori.md",
-    "Linguaggi/2. Analisi e Sintesi.md",
-    "Algoritmi/0. Algoritmi.md",
-    "Linguaggi/1. Fasi della compilazione.md",
-    "Algoritmi/8. Sorting in tempo lineare.md",
-    "Algoritmo di Gauss.md"
+    "immagini/Pasted image 20230303102220.png"
   ]
 }
