@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "4bb658b429e46bcb",
+        "id": "0aaf45da8a6dfa36",
         "type": "tabs",
         "children": [
           {
-            "id": "9b00f03d4334c114",
+            "id": "4b198cd95bd14a62",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Algoritmi/7. Heapsort.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -73,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 219
+    "width": 287
   },
   "right": {
     "id": "d301eb09d39979ed",
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Algoritmi/7. Heapsort.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Algoritmi/7. Heapsort.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Algoritmi/7. Heapsort.md"
+              }
             }
           },
           {
@@ -183,51 +191,50 @@
   },
   "active": "0d4387a7789b7537",
   "lastOpenFiles": [
-    "Diritto/dispense/FRANCESCOAppunti.pdf",
-    "Fisica/dispense/06_FisGen_LeggiNewton.pdf",
-    "Fisica/Dinamica del punto materiale.md",
-    "Fisica/Untitled Diagram.svg",
-    "Ingegneria/Diagrammi delle classi (7).md",
-    "immagini/foto 9.png",
-    "immagini/foto 8.png",
-    "immagini/foto 7.png",
-    "immagini/foto 6.png",
-    "immagini/foto 5.png",
-    "immagini/foto 4.png",
-    "immagini/foto 3.png",
-    "immagini/foto 2.png",
-    "immagini/foto 1.png",
+    "Algoritmi/0. Algoritmi.md",
+    "Ingegneria/2. Modelli produttivi.md",
+    "immagini/Algoritmi/VLSI.png",
+    "immagini/Algoritmi/Pasted image 20230302164118.png",
+    "immagini/Algoritmi/Untitled Diagram 1.svg",
+    "immagini/Algoritmi/Untitled Diagram.svg",
+    "immagini/Linguaggi/Unione.png",
+    "immagini/Algoritmi/trasposto.svg",
+    "immagini/Ingegneria/tipi_dip.png",
+    "immagini/Ingegneria/Sketch.png",
+    "immagini/Linguaggi/sintesi.png",
+    "immagini/Ingegneria/Progetto.png",
+    "immagini/SisOp",
+    "SisOp/dispense/Mutua Esclusione.md",
+    "immagini/Fisica",
+    "Linguaggi/0. Linguaggi formali e compilatori.md",
+    "Linguaggi/1. Fasi della compilazione.md",
+    "immagini/CalcNum",
+    "immagini/ProbStat",
+    "immagini/Linguaggi",
+    "immagini/Algoritmi",
     "Algoritmi/10. Grafi.md",
+    "immagini/Ingegneria",
+    "Algoritmi/9. Statistiche d'ordine.md",
+    "Algoritmi/8. Sorting in tempo lineare.md",
+    "Algoritmi/7. Heapsort.md",
+    "Diritto/dispense/Trattamento dati personali.pdf",
+    "Algoritmi/dispense/topologicalsort-sinkuniversale-cfc.pdf",
+    "Algoritmi/dispense/StatisticadOrdine.pdf",
+    "Algoritmi/Esercizi Algoritmi/Untitled.md",
+    "ProbStat/Stima intervallare.md",
+    "CalcNum/Tutorato/30-11-2022.md",
+    "Linguaggi/5. Automi a stati finiti.md",
+    "Ingegneria/3. Qualità.md",
+    "Algoritmi/6. Quicksort.md",
+    "Algoritmi/5. Divide et impera.md",
+    "Algoritmi/4. Ammortizzazione.md",
+    "Algoritmi/3. Modello RAM (Random Access Machine).md",
+    "Algoritmi/2. Analisi e studio.md",
+    "Algoritmi/1. Definizione di Algoritmo.md",
+    "Fisica/Dinamica del punto materiale.md",
+    "Ingegneria/Diagrammi delle classi (7).md",
     "Linguaggi/Espressioni regolari parte 2 (8).md",
     "templates/riguardare.md",
-    "Algoritmi/9. Statistiche d'ordine.md",
-    "Linguaggi/8. Espressioni regolari.md",
-    "Linguaggi/7. Epsilon-Transizioni.md",
-    "Linguaggi/dispense/Espressioni sui linguaggi.md",
-    "Algoritmi/dispense/StatisticadOrdine.pdf",
-    "Algoritmi/dispense/Grafi1stWeek.pdf",
-    "Linguaggi/dispense/L07-kleene.pdf",
-    "SisOp/dispense/S06-concorrenza.pdf",
-    "SisOp/6. Mutua esclusione.md",
-    "SisOp/dispense/Epsilon-Transizioni.md",
-    "SisOp/dispense/Mutua Esclusione.md",
-    "SisOp/5. Processi e thread.md",
-    "SisOp/4. Progettazione del sistema operativo.md",
-    "Algoritmi/Algoritmi.pdf",
-    "SisOp/dispense/S05-threads.pdf",
-    "Algoritmi/8. Sorting in tempo lineare.md",
-    "Diritto/4. DPO.md",
-    "Fisica/3. Cinematica.md",
-    "Fisica/dispense/04_FisGen_Cinematica2D.pdf",
-    "Fisica/dispense/03_FisGen_Cinematica1D.pdf",
-    "Ingegneria/dispense/IngSW_UML_03ClassDiagrams.pdf",
-    "Ingegneria/4. UML.md",
-    "Diritto/3. Regolamento europeo sulla protezione dei dati.md",
-    "SisOp/3. Architettura dei sistemi operativi.md",
-    "SisOp/2. Sistema di elaborazione.md",
-    "SisOp/1. Sistema operativo.md",
-    "LaTeX.md",
-    "Linguaggi/6. Automi non deterministici.md",
-    "templates/Matematica.md"
+    "Linguaggi/8. Espressioni regolari.md"
   ]
 }

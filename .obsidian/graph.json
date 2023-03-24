@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "uml",
+  "search": "",
   "showTags": false,
   "showAttachments": true,
   "hideUnresolved": false,
@@ -60,6 +60,6 @@
   "repelStrength": 9.79166666666667,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.6233405306552124,
+  "scale": 0.4534248129166113,
   "close": true
 }
