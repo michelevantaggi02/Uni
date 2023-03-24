@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "71a35b2994270359",
+        "id": "4bb658b429e46bcb",
         "type": "tabs",
         "children": [
           {
-            "id": "cf07ff5bf9821349",
+            "id": "9b00f03d4334c114",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SisOp/5. Processi e thread.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SisOp/5. Processi e thread.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SisOp/5. Processi e thread.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "SisOp/5. Processi e thread.md"
-              }
+              "state": {}
             }
           },
           {
@@ -189,52 +181,53 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cf07ff5bf9821349",
+  "active": "0d4387a7789b7537",
   "lastOpenFiles": [
-    "SisOp/4. Progettazione del sistema operativo.md",
-    "SisOp/5. Processi e thread.md",
+    "Diritto/dispense/FRANCESCOAppunti.pdf",
+    "Fisica/dispense/06_FisGen_LeggiNewton.pdf",
+    "Fisica/Dinamica del punto materiale.md",
+    "Fisica/Untitled Diagram.svg",
+    "Ingegneria/Diagrammi delle classi (7).md",
+    "immagini/foto 9.png",
+    "immagini/foto 8.png",
+    "immagini/foto 7.png",
+    "immagini/foto 6.png",
+    "immagini/foto 5.png",
+    "immagini/foto 4.png",
+    "immagini/foto 3.png",
+    "immagini/foto 2.png",
+    "immagini/foto 1.png",
     "Algoritmi/10. Grafi.md",
-    "Algoritmi/Algoritmi.pdf",
-    "Algoritmi/Untitled Diagram.svg",
-    "SisOp/dispense/S05-threads.pdf",
+    "Linguaggi/Espressioni regolari parte 2 (8).md",
+    "templates/riguardare.md",
     "Algoritmi/9. Statistiche d'ordine.md",
+    "Linguaggi/8. Espressioni regolari.md",
+    "Linguaggi/7. Epsilon-Transizioni.md",
+    "Linguaggi/dispense/Espressioni sui linguaggi.md",
+    "Algoritmi/dispense/StatisticadOrdine.pdf",
+    "Algoritmi/dispense/Grafi1stWeek.pdf",
+    "Linguaggi/dispense/L07-kleene.pdf",
+    "SisOp/dispense/S06-concorrenza.pdf",
+    "SisOp/6. Mutua esclusione.md",
+    "SisOp/dispense/Epsilon-Transizioni.md",
+    "SisOp/dispense/Mutua Esclusione.md",
+    "SisOp/5. Processi e thread.md",
+    "SisOp/4. Progettazione del sistema operativo.md",
+    "Algoritmi/Algoritmi.pdf",
+    "SisOp/dispense/S05-threads.pdf",
     "Algoritmi/8. Sorting in tempo lineare.md",
     "Diritto/4. DPO.md",
     "Fisica/3. Cinematica.md",
     "Fisica/dispense/04_FisGen_Cinematica2D.pdf",
     "Fisica/dispense/03_FisGen_Cinematica1D.pdf",
-    "Fisica/Untitled Diagram.svg",
     "Ingegneria/dispense/IngSW_UML_03ClassDiagrams.pdf",
     "Ingegneria/4. UML.md",
-    "immagini/Sketch.png",
-    "immagini/Pasted image 20230315120017 1.png",
-    "immagini/interfacce.png",
-    "immagini/tipi_dip.png",
-    "immagini/dipend.png",
-    "immagini/ereditarieta.png",
-    "immagini/composizione.png",
-    "immagini/aggregazione.png",
-    "Ingegneria/dispense/IngSW_UML02_UseCaseDiagram.pdf",
-    "Ingegneria/dispense/IngSW_UML_04SequenceBozzaDiagrams.pdf",
-    "Diritto/dispense/Trattamento dati personali.pdf",
     "Diritto/3. Regolamento europeo sulla protezione dei dati.md",
-    "Linguaggi/7. Epsilon-Transizioni.md",
-    "Ingegneria/dispense/IngSW_UML_01_Intro_UML.pdf",
     "SisOp/3. Architettura dei sistemi operativi.md",
     "SisOp/2. Sistema di elaborazione.md",
     "SisOp/1. Sistema operativo.md",
     "LaTeX.md",
-    "Linguaggi/dispense/L05-NFA.pdf",
     "Linguaggi/6. Automi non deterministici.md",
-    "templates/riguardare.md",
-    "templates/Matematica.md",
-    "Linguaggi/5. Automi a stati finiti.md",
-    "Linguaggi/4. Gerarchia di Chomsky.md",
-    "SisOp/Lab/L1. Programmazione di sistema.md",
-    "Fisica/2. Vettori.md",
-    "Fisica/0. Fisica Generale.md",
-    "Fisica/1. Leggi e grandezze fisiche.md",
-    "Ingegneria/2. Modelli produttivi.md",
-    "Ingegneria/3. Qualità.md"
+    "templates/Matematica.md"
   ]
 }
