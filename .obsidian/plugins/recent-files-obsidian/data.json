@@ -1,6 +1,66 @@
 {
   "recentFiles": [
     {
+      "basename": "11. Grafi pesati",
+      "path": "Algoritmi/11. Grafi pesati.md"
+    },
+    {
+      "basename": "EsempioFloyd",
+      "path": "immagini/EsempioFloyd.svg"
+    },
+    {
+      "basename": "LaTeX",
+      "path": "LaTeX.md"
+    },
+    {
+      "basename": "10. Grafi",
+      "path": "Algoritmi/10. Grafi.md"
+    },
+    {
+      "basename": "CamminiMinimiDaSorgenteSingola",
+      "path": "Algoritmi/dispense/CamminiMinimiDaSorgenteSingola.pdf"
+    },
+    {
+      "basename": "Archi_neg",
+      "path": "immagini/Archi_neg.svg"
+    },
+    {
+      "basename": "6. Mutua esclusione",
+      "path": "SisOp/6. Mutua esclusione.md"
+    },
+    {
+      "basename": "S07-mutuaEscl",
+      "path": "SisOp/dispense/S07-mutuaEscl.pdf"
+    },
+    {
+      "basename": "percorso_da_sorgente",
+      "path": "immagini/percorso_da_sorgente.svg"
+    },
+    {
+      "basename": "IntroShortestPathWeightedGraphs",
+      "path": "Algoritmi/dispense/IntroShortestPathWeightedGraphs.pdf"
+    },
+    {
+      "basename": "StatisticadOrdine",
+      "path": "Algoritmi/dispense/StatisticadOrdine.pdf"
+    },
+    {
+      "basename": "9. Statistiche d'ordine",
+      "path": "Algoritmi/9. Statistiche d'ordine.md"
+    },
+    {
+      "basename": "BFS",
+      "path": "Algoritmi/dispense/BFS.pdf"
+    },
+    {
+      "basename": "PotenzaGrafo",
+      "path": "Algoritmi/dispense/PotenzaGrafo.pdf"
+    },
+    {
+      "basename": "topologicalsort-sinkuniversale-cfc",
+      "path": "Algoritmi/dispense/topologicalsort-sinkuniversale-cfc.pdf"
+    },
+    {
       "basename": "7. Heapsort",
       "path": "Algoritmi/7. Heapsort.md"
     },
@@ -139,66 +199,6 @@
     {
       "basename": "Pasted image 20230303102113",
       "path": "immagini/Fisica/Pasted image 20230303102113.png"
-    },
-    {
-      "basename": "Pasted image 20230303101619",
-      "path": "immagini/Fisica/Pasted image 20230303101619.png"
-    },
-    {
-      "basename": "Pasted image 20230303094916",
-      "path": "immagini/Fisica/Pasted image 20230303094916.png"
-    },
-    {
-      "basename": "Pasted image 20230303092738",
-      "path": "immagini/Fisica/Pasted image 20230303092738.png"
-    },
-    {
-      "basename": "Pasted image 20230303092735",
-      "path": "immagini/Fisica/Pasted image 20230303092735.png"
-    },
-    {
-      "basename": "Pasted image 20230301101608",
-      "path": "immagini/Algoritmi/Pasted image 20230301101608.png"
-    },
-    {
-      "basename": "Pasted image 20230302163504",
-      "path": "immagini/Algoritmi/Pasted image 20230302163504.png"
-    },
-    {
-      "basename": "Pasted image 20230302163347",
-      "path": "immagini/Algoritmi/Pasted image 20230302163347.png"
-    },
-    {
-      "basename": "Pasted image 20230303094811",
-      "path": "immagini/Fisica/Pasted image 20230303094811.png"
-    },
-    {
-      "basename": "0. Linguaggi formali e compilatori",
-      "path": "Linguaggi/0. Linguaggi formali e compilatori.md"
-    },
-    {
-      "basename": "Pasted image 20230228173503",
-      "path": "immagini/Linguaggi/Pasted image 20230228173503.png"
-    },
-    {
-      "basename": "Pasted image 20230228173440",
-      "path": "immagini/Linguaggi/Pasted image 20230228173440.png"
-    },
-    {
-      "basename": "Pasted image 20230228172819",
-      "path": "immagini/Linguaggi/Pasted image 20230228172819.png"
-    },
-    {
-      "basename": "Pasted image 20230228171119",
-      "path": "immagini/Linguaggi/Pasted image 20230228171119.png"
-    },
-    {
-      "basename": "Pasted image 20230228170914",
-      "path": "immagini/Linguaggi/Pasted image 20230228170914.png"
-    },
-    {
-      "basename": "Pasted image 20230228170004",
-      "path": "immagini/Linguaggi/Pasted image 20230228170004.png"
     }
   ],
   "omittedPaths": [],

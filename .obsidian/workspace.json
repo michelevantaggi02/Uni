@@ -4,22 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "0aaf45da8a6dfa36",
+        "id": "1b8f2e304dc6b4bd",
         "type": "tabs",
         "children": [
           {
-            "id": "4b198cd95bd14a62",
+            "id": "07a23f7b332d1814",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LaTeX.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "23ad590d89b9e90c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algoritmi/7. Heapsort.md",
+                "file": "Algoritmi/11. Grafi pesati.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algoritmi/7. Heapsort.md",
+                "file": "Algoritmi/11. Grafi pesati.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algoritmi/7. Heapsort.md",
+                "file": "Algoritmi/11. Grafi pesati.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algoritmi/7. Heapsort.md"
+                "file": "Algoritmi/11. Grafi pesati.md"
               }
             }
           },
@@ -174,7 +189,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 306
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,8 +204,26 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0d4387a7789b7537",
+  "active": "ae23ca479e93557b",
   "lastOpenFiles": [
+    "immagini/EsempioFloyd.svg",
+    "Algoritmi/11. Grafi pesati.md",
+    "LaTeX.md",
+    "Algoritmi/10. Grafi.md",
+    "Algoritmi/12. cammini minimi.md",
+    "Algoritmi/dispense/CamminiMinimiDaSorgenteSingola.pdf",
+    "immagini/Archi_neg.svg",
+    "SisOp/6. Mutua esclusione.md",
+    "SisOp/dispense/S07-mutuaEscl.pdf",
+    "SisOp/<.md",
+    "immagini/percorso_da_sorgente.svg",
+    "Algoritmi/dispense/IntroShortestPathWeightedGraphs.pdf",
+    "Algoritmi/dispense/StatisticadOrdine.pdf",
+    "Algoritmi/9. Statistiche d'ordine.md",
+    "Algoritmi/dispense/BFS.pdf",
+    "Algoritmi/dispense/PotenzaGrafo.pdf",
+    "Algoritmi/dispense/topologicalsort-sinkuniversale-cfc.pdf",
+    "Algoritmi/7. Heapsort.md",
     "Algoritmi/0. Algoritmi.md",
     "Ingegneria/2. Modelli produttivi.md",
     "immagini/Algoritmi/VLSI.png",
@@ -200,26 +233,13 @@
     "immagini/Linguaggi/Unione.png",
     "immagini/Algoritmi/trasposto.svg",
     "immagini/Ingegneria/tipi_dip.png",
-    "immagini/Ingegneria/Sketch.png",
-    "immagini/Linguaggi/sintesi.png",
-    "immagini/Ingegneria/Progetto.png",
     "immagini/SisOp",
     "SisOp/dispense/Mutua Esclusione.md",
     "immagini/Fisica",
     "Linguaggi/0. Linguaggi formali e compilatori.md",
     "Linguaggi/1. Fasi della compilazione.md",
     "immagini/CalcNum",
-    "immagini/ProbStat",
-    "immagini/Linguaggi",
-    "immagini/Algoritmi",
-    "Algoritmi/10. Grafi.md",
-    "immagini/Ingegneria",
-    "Algoritmi/9. Statistiche d'ordine.md",
     "Algoritmi/8. Sorting in tempo lineare.md",
-    "Algoritmi/7. Heapsort.md",
-    "Diritto/dispense/Trattamento dati personali.pdf",
-    "Algoritmi/dispense/topologicalsort-sinkuniversale-cfc.pdf",
-    "Algoritmi/dispense/StatisticadOrdine.pdf",
     "Algoritmi/Esercizi Algoritmi/Untitled.md",
     "ProbStat/Stima intervallare.md",
     "CalcNum/Tutorato/30-11-2022.md",
@@ -230,11 +250,6 @@
     "Algoritmi/4. Ammortizzazione.md",
     "Algoritmi/3. Modello RAM (Random Access Machine).md",
     "Algoritmi/2. Analisi e studio.md",
-    "Algoritmi/1. Definizione di Algoritmo.md",
-    "Fisica/Dinamica del punto materiale.md",
-    "Ingegneria/Diagrammi delle classi (7).md",
-    "Linguaggi/Espressioni regolari parte 2 (8).md",
-    "templates/riguardare.md",
-    "Linguaggi/8. Espressioni regolari.md"
+    "Algoritmi/1. Definizione di Algoritmo.md"
   ]
 }
