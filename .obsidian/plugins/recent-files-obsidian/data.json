@@ -1,16 +1,132 @@
 {
   "recentFiles": [
     {
-      "basename": "11. Grafi pesati",
-      "path": "Algoritmi/11. Grafi pesati.md"
-    },
-    {
-      "basename": "EsempioFloyd",
-      "path": "immagini/EsempioFloyd.svg"
+      "basename": "11. Test e Verifica",
+      "path": "Ingegneria/11. Test e Verifica.md"
     },
     {
       "basename": "LaTeX",
       "path": "LaTeX.md"
+    },
+    {
+      "basename": "4. UML",
+      "path": "Ingegneria/4. UML.md"
+    },
+    {
+      "basename": "3. Qualità",
+      "path": "Ingegneria/3. Qualità.md"
+    },
+    {
+      "basename": "2. Modelli produttivi",
+      "path": "Ingegneria/2. Modelli produttivi.md"
+    },
+    {
+      "basename": "1. Qualità del software",
+      "path": "Ingegneria/1. Qualità del software.md"
+    },
+    {
+      "basename": "IngSW_UML_01_Intro_UML",
+      "path": "Ingegneria/dispense/IngSW_UML_01_Intro_UML.pdf"
+    },
+    {
+      "basename": "IngSW_UML_03ClassDiagrams",
+      "path": "Ingegneria/dispense/IngSW_UML_03ClassDiagrams.pdf"
+    },
+    {
+      "basename": "6. Diagrammi Dei Casi D'uso",
+      "path": "Ingegneria/6. Diagrammi Dei Casi D'uso.md"
+    },
+    {
+      "basename": "Ingegneria-merged",
+      "path": "Ingegneria-merged.md"
+    },
+    {
+      "basename": "10. Diagrammi di attività",
+      "path": "Ingegneria/10. Diagrammi di attività.md"
+    },
+    {
+      "basename": "8. Diagrammi di sequenza",
+      "path": "Ingegneria/8. Diagrammi di sequenza.md"
+    },
+    {
+      "basename": "5. Casi D'uso",
+      "path": "Ingegneria/5. Casi D'uso.md"
+    },
+    {
+      "basename": "7. Diagramma Delle Classi",
+      "path": "Ingegneria/7. Diagramma Delle Classi.md"
+    },
+    {
+      "basename": "9. Diagrammi di stato",
+      "path": "Ingegneria/9. Diagrammi di stato.md"
+    },
+    {
+      "basename": "IngSW_UML_04SequenceBozzaDiagrams",
+      "path": "Ingegneria/dispense/IngSW_UML_04SequenceBozzaDiagrams.pdf"
+    },
+    {
+      "basename": "IngSW_UML02_UseCaseDiagram",
+      "path": "Ingegneria/dispense/IngSW_UML02_UseCaseDiagram.pdf"
+    },
+    {
+      "basename": "Pasted image 20230509151721",
+      "path": "immagini/Ingegneria/Pasted image 20230509151721.png"
+    },
+    {
+      "basename": "Pasted image 20230509163311",
+      "path": "immagini/Ingegneria/Pasted image 20230509163311.png"
+    },
+    {
+      "basename": "Pasted image 20230509155412",
+      "path": "immagini/Ingegneria/Pasted image 20230509155412.png"
+    },
+    {
+      "basename": "Pasted image 20230509153542",
+      "path": "immagini/Ingegneria/Pasted image 20230509153542.png"
+    },
+    {
+      "basename": "Pasted image 20230509153504",
+      "path": "immagini/Ingegneria/Pasted image 20230509153504.png"
+    },
+    {
+      "basename": "Pasted image 20230509153334",
+      "path": "immagini/Ingegneria/Pasted image 20230509153334.png"
+    },
+    {
+      "basename": "Pasted image 20230509153129",
+      "path": "immagini/Ingegneria/Pasted image 20230509153129.png"
+    },
+    {
+      "basename": "IngSW_UML_06_ActivityDiagramBozzaOLD",
+      "path": "Ingegneria/dispense/IngSW_UML_06_ActivityDiagramBozzaOLD.pdf"
+    },
+    {
+      "basename": "IngSW_UML05StateDiagramBozzaOLD",
+      "path": "Ingegneria/dispense/IngSW_UML05StateDiagramBozzaOLD.pdf"
+    },
+    {
+      "basename": "azioni",
+      "path": "immagini/Ingegneria/azioni.png"
+    },
+    {
+      "basename": "Archi_neg",
+      "path": "immagini/Algoritmi/Archi_neg.svg"
+    },
+    {
+      "basename": "percorso_da_sorgente",
+      "path": "immagini/Algoritmi/percorso_da_sorgente.svg"
+    },
+    {
+      "basename": "EsempioFloyd",
+      "path": "immagini/Algoritmi/EsempioFloyd.svg"
+    },
+    {
+      "basename": "Pasted image 20230303094811",
+      "path": "immagini/Fisica/Pasted image 20230303094811.png"
+    },
+    {
+      "basename": "11. Grafi pesati",
+      "path": "Algoritmi/11. Grafi pesati.md"
     },
     {
       "basename": "10. Grafi",
@@ -21,20 +137,12 @@
       "path": "Algoritmi/dispense/CamminiMinimiDaSorgenteSingola.pdf"
     },
     {
-      "basename": "Archi_neg",
-      "path": "immagini/Archi_neg.svg"
-    },
-    {
       "basename": "6. Mutua esclusione",
       "path": "SisOp/6. Mutua esclusione.md"
     },
     {
       "basename": "S07-mutuaEscl",
       "path": "SisOp/dispense/S07-mutuaEscl.pdf"
-    },
-    {
-      "basename": "percorso_da_sorgente",
-      "path": "immagini/percorso_da_sorgente.svg"
     },
     {
       "basename": "IntroShortestPathWeightedGraphs",
@@ -69,10 +177,6 @@
       "path": "Algoritmi/0. Algoritmi.md"
     },
     {
-      "basename": "2. Modelli produttivi",
-      "path": "Ingegneria/2. Modelli produttivi.md"
-    },
-    {
       "basename": "VLSI",
       "path": "immagini/Algoritmi/VLSI.png"
     },
@@ -95,110 +199,6 @@
     {
       "basename": "trasposto",
       "path": "immagini/Algoritmi/trasposto.svg"
-    },
-    {
-      "basename": "tipi_dip",
-      "path": "immagini/Ingegneria/tipi_dip.png"
-    },
-    {
-      "basename": "Sketch",
-      "path": "immagini/Ingegneria/Sketch.png"
-    },
-    {
-      "basename": "sintesi",
-      "path": "immagini/Linguaggi/sintesi.png"
-    },
-    {
-      "basename": "Progetto",
-      "path": "immagini/Ingegneria/Progetto.png"
-    },
-    {
-      "basename": "Pasted image 20230321165115",
-      "path": "immagini/Linguaggi/Pasted image 20230321165115.png"
-    },
-    {
-      "basename": "Pasted image 20230321165026",
-      "path": "immagini/Linguaggi/Pasted image 20230321165026.png"
-    },
-    {
-      "basename": "Pasted image 20230321165000",
-      "path": "immagini/Linguaggi/Pasted image 20230321165000.png"
-    },
-    {
-      "basename": "Pasted image 20230321164938",
-      "path": "immagini/Linguaggi/Pasted image 20230321164938.png"
-    },
-    {
-      "basename": "Pasted image 20230321163630",
-      "path": "immagini/Linguaggi/Pasted image 20230321163630.png"
-    },
-    {
-      "basename": "Pasted image 20230321112750",
-      "path": "immagini/SisOp/Pasted image 20230321112750.png"
-    },
-    {
-      "basename": "Pasted image 20230321112333",
-      "path": "immagini/SisOp/Pasted image 20230321112333.png"
-    },
-    {
-      "basename": "Pasted image 20230321112321",
-      "path": "immagini/SisOp/Pasted image 20230321112321.png"
-    },
-    {
-      "basename": "Pasted image 20230321112302",
-      "path": "immagini/SisOp/Pasted image 20230321112302.png"
-    },
-    {
-      "basename": "Pasted image 20230316113757",
-      "path": "immagini/Ingegneria/Pasted image 20230316113757.png"
-    },
-    {
-      "basename": "Pasted image 20230316105246",
-      "path": "immagini/Ingegneria/Pasted image 20230316105246.png"
-    },
-    {
-      "basename": "Pasted image 20230315120017 1",
-      "path": "immagini/Ingegneria/Pasted image 20230315120017 1.png"
-    },
-    {
-      "basename": "Mutua Esclusione",
-      "path": "SisOp/dispense/Mutua Esclusione.md"
-    },
-    {
-      "basename": "Pasted image 20230314162108",
-      "path": "immagini/Linguaggi/Pasted image 20230314162108.png"
-    },
-    {
-      "basename": "Pasted image 20230309150840",
-      "path": "immagini/Fisica/Pasted image 20230309150840.png"
-    },
-    {
-      "basename": "Pasted image 20230309150317",
-      "path": "immagini/Fisica/Pasted image 20230309150317.png"
-    },
-    {
-      "basename": "Pasted image 20230308165556",
-      "path": "immagini/Fisica/Pasted image 20230308165556.png"
-    },
-    {
-      "basename": "Pasted image 20230308165456",
-      "path": "immagini/Fisica/Pasted image 20230308165456.png"
-    },
-    {
-      "basename": "Pasted image 20230308114722",
-      "path": "immagini/Ingegneria/Pasted image 20230308114722.png"
-    },
-    {
-      "basename": "Pasted image 20230303105346",
-      "path": "immagini/Fisica/Pasted image 20230303105346.png"
-    },
-    {
-      "basename": "Pasted image 20230303104412",
-      "path": "immagini/Fisica/Pasted image 20230303104412.png"
-    },
-    {
-      "basename": "Pasted image 20230303102113",
-      "path": "immagini/Fisica/Pasted image 20230303102113.png"
     }
   ],
   "omittedPaths": [],

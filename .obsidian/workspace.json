@@ -22,12 +22,48 @@
             }
           },
           {
-            "id": "23ad590d89b9e90c",
+            "id": "6972c2648ac8771a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algoritmi/11. Grafi pesati.md",
+                "file": "Ingegneria/11. Test e Verifica.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6ebf61fac7e8f523",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ingegneria/6. Diagrammi Dei Casi D'uso.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a556ceb45d180b09",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ingegneria/11. Test e Verifica.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d63cf644d01f94b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ingegneria/8. Diagrammi di sequenza.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,6 +123,14 @@
               "type": "recent-files",
               "state": {}
             }
+          },
+          {
+            "id": "96576c270eac254a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -108,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algoritmi/11. Grafi pesati.md",
+                "file": "Ingegneria/11. Test e Verifica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algoritmi/11. Grafi pesati.md",
+                "file": "Ingegneria/11. Test e Verifica.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -148,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algoritmi/11. Grafi pesati.md"
+                "file": "Ingegneria/11. Test e Verifica.md"
               }
             }
           },
@@ -204,52 +248,52 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ae23ca479e93557b",
+  "active": "6972c2648ac8771a",
   "lastOpenFiles": [
-    "immagini/EsempioFloyd.svg",
-    "Algoritmi/11. Grafi pesati.md",
     "LaTeX.md",
+    "Ingegneria/11. Test e Verifica.md",
+    "Ingegneria/4. UML.md",
+    "Ingegneria/3. Qualità.md",
+    "Ingegneria/2. Modelli produttivi.md",
+    "Ingegneria/1. Qualità del software.md",
+    "Ingegneria/dispense/IngSW_UML_01_Intro_UML.pdf",
+    "Ingegneria/dispense/IngSW_UML_03ClassDiagrams.pdf",
+    "Ingegneria/6. Diagrammi Dei Casi D'uso.md",
+    "Ingegneria-merged.md",
+    "Ingegneria/10. Diagrammi di attività.md",
+    "Ingegneria/8. Diagrammi di sequenza.md",
+    "Ingegneria/5. Casi D'uso.md",
+    "Ingegneria/7. Diagramma Delle Classi.md",
+    "Ingegneria/9. Diagrammi di stato.md",
+    "Ingegneria/dispense/IngSW_UML_04SequenceBozzaDiagrams.pdf",
+    "Ingegneria/dispense/IngSW_UML02_UseCaseDiagram.pdf",
+    "immagini/Pasted image 20230509155509.png",
+    "immagini/Ingegneria/Pasted image 20230509163311.png",
+    "immagini/Pasted image 20230509155531.png",
+    "immagini/Ingegneria/Pasted image 20230509155412.png",
+    "immagini/Pasted image 20230509155246.png",
+    "immagini/Ingegneria/Pasted image 20230509153542.png",
+    "immagini/Pasted image 20230509155255.png",
+    "immagini/Pasted image 20230509155309.png",
+    "immagini/Ingegneria/Pasted image 20230509153504.png",
+    "immagini/Ingegneria/Pasted image 20230509153334.png",
+    "Ingegneria/dispense/IngSW_UML_06_ActivityDiagramBozzaOLD.pdf",
+    "Ingegneria/dispense/IngSW_UML05StateDiagramBozzaOLD.pdf",
+    "Ingegneria/Diagrammi delle classi (7).md",
+    "Ingegneria/8. Diagramma Degli Oggetti.md",
+    "Ingegneria/0. Ingegneria del software.md",
+    "Ingegneria/dispense/IngSW_02-modelli_ciclo_di_vitaSW.pdf",
+    "Ingegneria/dispense/IngSW_01_PrincipiIngSw_Qualita.pdf",
+    "Ingegneria/dispense",
+    "Ingegneria",
+    "Algoritmi/11. Grafi pesati.md",
     "Algoritmi/10. Grafi.md",
     "Algoritmi/12. cammini minimi.md",
-    "Algoritmi/dispense/CamminiMinimiDaSorgenteSingola.pdf",
-    "immagini/Archi_neg.svg",
     "SisOp/6. Mutua esclusione.md",
-    "SisOp/dispense/S07-mutuaEscl.pdf",
     "SisOp/<.md",
-    "immagini/percorso_da_sorgente.svg",
-    "Algoritmi/dispense/IntroShortestPathWeightedGraphs.pdf",
-    "Algoritmi/dispense/StatisticadOrdine.pdf",
     "Algoritmi/9. Statistiche d'ordine.md",
-    "Algoritmi/dispense/BFS.pdf",
-    "Algoritmi/dispense/PotenzaGrafo.pdf",
-    "Algoritmi/dispense/topologicalsort-sinkuniversale-cfc.pdf",
     "Algoritmi/7. Heapsort.md",
     "Algoritmi/0. Algoritmi.md",
-    "Ingegneria/2. Modelli produttivi.md",
-    "immagini/Algoritmi/VLSI.png",
-    "immagini/Algoritmi/Pasted image 20230302164118.png",
-    "immagini/Algoritmi/Untitled Diagram 1.svg",
-    "immagini/Algoritmi/Untitled Diagram.svg",
-    "immagini/Linguaggi/Unione.png",
-    "immagini/Algoritmi/trasposto.svg",
-    "immagini/Ingegneria/tipi_dip.png",
-    "immagini/SisOp",
-    "SisOp/dispense/Mutua Esclusione.md",
-    "immagini/Fisica",
-    "Linguaggi/0. Linguaggi formali e compilatori.md",
-    "Linguaggi/1. Fasi della compilazione.md",
-    "immagini/CalcNum",
-    "Algoritmi/8. Sorting in tempo lineare.md",
-    "Algoritmi/Esercizi Algoritmi/Untitled.md",
-    "ProbStat/Stima intervallare.md",
-    "CalcNum/Tutorato/30-11-2022.md",
-    "Linguaggi/5. Automi a stati finiti.md",
-    "Ingegneria/3. Qualità.md",
-    "Algoritmi/6. Quicksort.md",
-    "Algoritmi/5. Divide et impera.md",
-    "Algoritmi/4. Ammortizzazione.md",
-    "Algoritmi/3. Modello RAM (Random Access Machine).md",
-    "Algoritmi/2. Analisi e studio.md",
-    "Algoritmi/1. Definizione di Algoritmo.md"
+    "SisOp/dispense/Mutua Esclusione.md"
   ]
 }

@@ -1,6 +1,6 @@
 {
   "accentColor": "#1ab7a5",
-  "baseFontSize": 18,
+  "baseFontSize": 16,
   "cssTheme": "Mado Miniflow",
   "translucency": true,
   "nativeMenus": true,
@@ -8,5 +8,6 @@
   "textFontFamily": "",
   "enabledCssSnippets": [
     "titoli"
-  ]
+  ],
+  "monospaceFontFamily": ""
 }

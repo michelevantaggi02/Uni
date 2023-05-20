@@ -3,12 +3,25 @@
     "doShowOrphans": true
   },
   "groups": {
-    "groups": []
+    "groups": [
+      {
+        "query": "path:Algoritmi",
+        "color": "#f00000"
+      },
+      {
+        "query": "path:CalcNum",
+        "color": "#ff9500"
+      },
+      {
+        "query": "path:ProbStat",
+        "color": "#0011ff"
+      }
+    ]
   },
   "display": {
-    "nodeSize": 5,
-    "linkThickness": 5,
-    "particleSize": 7,
-    "particleCount": 10
+    "nodeSize": 4,
+    "linkThickness": 6,
+    "particleSize": 20,
+    "particleCount": 20
   }
 }
