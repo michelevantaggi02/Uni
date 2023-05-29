@@ -27,43 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ingegneria/11. Test e Verifica.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6ebf61fac7e8f523",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ingegneria/6. Diagrammi Dei Casi D'uso.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a556ceb45d180b09",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ingegneria/11. Test e Verifica.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d63cf644d01f94b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ingegneria/8. Diagrammi di sequenza.md",
+                "file": "Ingegneria/13. Test Strutturali.md",
                 "mode": "source",
                 "source": false
               }
@@ -136,7 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 287
+    "width": 200
   },
   "right": {
     "id": "d301eb09d39979ed",
@@ -152,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ingegneria/11. Test e Verifica.md",
+                "file": "Ingegneria/13. Test Strutturali.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ingegneria/11. Test e Verifica.md",
+                "file": "Ingegneria/13. Test Strutturali.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -192,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ingegneria/11. Test e Verifica.md"
+                "file": "Ingegneria/13. Test Strutturali.md"
               }
             }
           },
@@ -248,17 +212,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6972c2648ac8771a",
+  "active": "0d4387a7789b7537",
   "lastOpenFiles": [
-    "LaTeX.md",
+    "Ingegneria/12. Test Funzionali.md",
+    "Ingegneria/13. Test Strutturali.md",
     "Ingegneria/11. Test e Verifica.md",
+    "LaTeX.md",
+    "Ingegneria/6. Diagrammi Dei Casi D'uso.md",
     "Ingegneria/4. UML.md",
     "Ingegneria/3. Qualità.md",
     "Ingegneria/2. Modelli produttivi.md",
     "Ingegneria/1. Qualità del software.md",
     "Ingegneria/dispense/IngSW_UML_01_Intro_UML.pdf",
     "Ingegneria/dispense/IngSW_UML_03ClassDiagrams.pdf",
-    "Ingegneria/6. Diagrammi Dei Casi D'uso.md",
     "Ingegneria-merged.md",
     "Ingegneria/10. Diagrammi di attività.md",
     "Ingegneria/8. Diagrammi di sequenza.md",
@@ -293,7 +259,6 @@
     "SisOp/<.md",
     "Algoritmi/9. Statistiche d'ordine.md",
     "Algoritmi/7. Heapsort.md",
-    "Algoritmi/0. Algoritmi.md",
-    "SisOp/dispense/Mutua Esclusione.md"
+    "Algoritmi/0. Algoritmi.md"
   ]
 }
