@@ -27,8 +27,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ingegneria-merged.md",
-                "mode": "source",
+                "file": "Ingegneria/test-merged.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ingegneria-merged.md",
+                "file": "Ingegneria/test-merged.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ingegneria-merged.md",
+                "file": "Ingegneria/test-merged.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ingegneria-merged.md"
+                "file": "Ingegneria/test-merged.md"
               }
             }
           },
@@ -214,14 +214,20 @@
   },
   "active": "6972c2648ac8771a",
   "lastOpenFiles": [
-    "Ingegneria/1. Qualità del software.md",
+    "Ingegneria/11. Test e Verifica.md",
+    "Ingegneria/test-merged.md",
+    "Ingegneria/test/13. Test Strutturali.md",
+    "Ingegneria/test/12. Test Funzionali.md",
+    "Ingegneria/test/11. Test e Verifica.md",
+    "Ingegneria/test",
+    "Ingegneria/Untitled.md",
+    "Ingegneria/13. Test Strutturali.md",
+    "Ingegneria/12. Test Funzionali.md",
     "Ingegneria-merged.md",
+    "Ingegneria/1. Qualità del software.md",
     "Ingegneria/4. UML.md",
     "Ingegneria/9. Diagrammi di stato.md",
-    "Ingegneria/11. Test e Verifica.md",
-    "Ingegneria/12. Test Funzionali.md",
     "LaTeX.md",
-    "Ingegneria/13. Test Strutturali.md",
     "Ingegneria/6. Diagrammi Dei Casi D'uso.md",
     "Ingegneria/3. Qualità.md",
     "Ingegneria/2. Modelli produttivi.md",
@@ -251,14 +257,8 @@
     "Ingegneria/dispense/IngSW_02-modelli_ciclo_di_vitaSW.pdf",
     "Ingegneria/dispense/IngSW_01_PrincipiIngSw_Qualita.pdf",
     "Ingegneria/dispense",
-    "Ingegneria",
     "Algoritmi/11. Grafi pesati.md",
     "Algoritmi/10. Grafi.md",
-    "Algoritmi/12. cammini minimi.md",
-    "SisOp/6. Mutua esclusione.md",
-    "SisOp/<.md",
-    "Algoritmi/9. Statistiche d'ordine.md",
-    "Algoritmi/7. Heapsort.md",
-    "Algoritmi/0. Algoritmi.md"
+    "Algoritmi/12. cammini minimi.md"
   ]
 }
