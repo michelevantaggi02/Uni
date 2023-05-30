@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ingegneria/13. Test Strutturali.md",
+                "file": "Ingegneria-merged.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ingegneria/13. Test Strutturali.md",
+                "file": "Ingegneria-merged.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ingegneria/13. Test Strutturali.md",
+                "file": "Ingegneria-merged.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ingegneria/13. Test Strutturali.md"
+                "file": "Ingegneria-merged.md"
               }
             }
           },
@@ -212,25 +212,25 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0d4387a7789b7537",
+  "active": "6972c2648ac8771a",
   "lastOpenFiles": [
-    "Ingegneria/12. Test Funzionali.md",
-    "Ingegneria/13. Test Strutturali.md",
-    "Ingegneria/11. Test e Verifica.md",
-    "LaTeX.md",
-    "Ingegneria/6. Diagrammi Dei Casi D'uso.md",
+    "Ingegneria/1. Qualità del software.md",
+    "Ingegneria-merged.md",
     "Ingegneria/4. UML.md",
+    "Ingegneria/9. Diagrammi di stato.md",
+    "Ingegneria/11. Test e Verifica.md",
+    "Ingegneria/12. Test Funzionali.md",
+    "LaTeX.md",
+    "Ingegneria/13. Test Strutturali.md",
+    "Ingegneria/6. Diagrammi Dei Casi D'uso.md",
     "Ingegneria/3. Qualità.md",
     "Ingegneria/2. Modelli produttivi.md",
-    "Ingegneria/1. Qualità del software.md",
     "Ingegneria/dispense/IngSW_UML_01_Intro_UML.pdf",
     "Ingegneria/dispense/IngSW_UML_03ClassDiagrams.pdf",
-    "Ingegneria-merged.md",
     "Ingegneria/10. Diagrammi di attività.md",
     "Ingegneria/8. Diagrammi di sequenza.md",
     "Ingegneria/5. Casi D'uso.md",
     "Ingegneria/7. Diagramma Delle Classi.md",
-    "Ingegneria/9. Diagrammi di stato.md",
     "Ingegneria/dispense/IngSW_UML_04SequenceBozzaDiagrams.pdf",
     "Ingegneria/dispense/IngSW_UML02_UseCaseDiagram.pdf",
     "immagini/Pasted image 20230509155509.png",

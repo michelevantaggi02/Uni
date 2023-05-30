@@ -1,28 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "13. Test Strutturali",
-      "path": "Ingegneria/13. Test Strutturali.md"
+      "basename": "Ingegneria-merged",
+      "path": "Ingegneria-merged.md"
     },
     {
-      "basename": "12. Test Funzionali",
-      "path": "Ingegneria/12. Test Funzionali.md"
+      "basename": "1. Qualità del software",
+      "path": "Ingegneria/1. Qualità del software.md"
+    },
+    {
+      "basename": "4. UML",
+      "path": "Ingegneria/4. UML.md"
+    },
+    {
+      "basename": "9. Diagrammi di stato",
+      "path": "Ingegneria/9. Diagrammi di stato.md"
     },
     {
       "basename": "11. Test e Verifica",
       "path": "Ingegneria/11. Test e Verifica.md"
     },
     {
+      "basename": "12. Test Funzionali",
+      "path": "Ingegneria/12. Test Funzionali.md"
+    },
+    {
       "basename": "LaTeX",
       "path": "LaTeX.md"
     },
     {
-      "basename": "6. Diagrammi Dei Casi D'uso",
-      "path": "Ingegneria/6. Diagrammi Dei Casi D'uso.md"
+      "basename": "13. Test Strutturali",
+      "path": "Ingegneria/13. Test Strutturali.md"
     },
     {
-      "basename": "4. UML",
-      "path": "Ingegneria/4. UML.md"
+      "basename": "6. Diagrammi Dei Casi D'uso",
+      "path": "Ingegneria/6. Diagrammi Dei Casi D'uso.md"
     },
     {
       "basename": "3. Qualità",
@@ -33,20 +45,12 @@
       "path": "Ingegneria/2. Modelli produttivi.md"
     },
     {
-      "basename": "1. Qualità del software",
-      "path": "Ingegneria/1. Qualità del software.md"
-    },
-    {
       "basename": "IngSW_UML_01_Intro_UML",
       "path": "Ingegneria/dispense/IngSW_UML_01_Intro_UML.pdf"
     },
     {
       "basename": "IngSW_UML_03ClassDiagrams",
       "path": "Ingegneria/dispense/IngSW_UML_03ClassDiagrams.pdf"
-    },
-    {
-      "basename": "Ingegneria-merged",
-      "path": "Ingegneria-merged.md"
     },
     {
       "basename": "10. Diagrammi di attività",
@@ -63,10 +67,6 @@
     {
       "basename": "7. Diagramma Delle Classi",
       "path": "Ingegneria/7. Diagramma Delle Classi.md"
-    },
-    {
-      "basename": "9. Diagrammi di stato",
-      "path": "Ingegneria/9. Diagrammi di stato.md"
     },
     {
       "basename": "IngSW_UML_04SequenceBozzaDiagrams",
