@@ -1,204 +1,204 @@
 {
   "recentFiles": [
     {
-      "basename": "test-merged",
-      "path": "Ingegneria/test-merged.md"
-    },
-    {
-      "basename": "11. Test e Verifica",
-      "path": "Ingegneria/11. Test e Verifica.md"
-    },
-    {
-      "basename": "13. Test Strutturali",
-      "path": "Ingegneria/13. Test Strutturali.md"
-    },
-    {
-      "basename": "12. Test Funzionali",
-      "path": "Ingegneria/12. Test Funzionali.md"
-    },
-    {
-      "basename": "Ingegneria-merged",
-      "path": "Ingegneria-merged.md"
-    },
-    {
-      "basename": "1. Qualità del software",
-      "path": "Ingegneria/1. Qualità del software.md"
-    },
-    {
-      "basename": "4. UML",
-      "path": "Ingegneria/4. UML.md"
-    },
-    {
-      "basename": "9. Diagrammi di stato",
-      "path": "Ingegneria/9. Diagrammi di stato.md"
+      "basename": "a3. Alberi",
+      "path": "Algoritmi/a3. Alberi.md"
     },
     {
       "basename": "LaTeX",
       "path": "LaTeX.md"
     },
     {
-      "basename": "6. Diagrammi Dei Casi D'uso",
-      "path": "Ingegneria/6. Diagrammi Dei Casi D'uso.md"
-    },
-    {
-      "basename": "3. Qualità",
-      "path": "Ingegneria/3. Qualità.md"
-    },
-    {
-      "basename": "2. Modelli produttivi",
-      "path": "Ingegneria/2. Modelli produttivi.md"
-    },
-    {
-      "basename": "IngSW_UML_01_Intro_UML",
-      "path": "Ingegneria/dispense/IngSW_UML_01_Intro_UML.pdf"
-    },
-    {
-      "basename": "IngSW_UML_03ClassDiagrams",
-      "path": "Ingegneria/dispense/IngSW_UML_03ClassDiagrams.pdf"
-    },
-    {
-      "basename": "10. Diagrammi di attività",
-      "path": "Ingegneria/10. Diagrammi di attività.md"
-    },
-    {
-      "basename": "8. Diagrammi di sequenza",
-      "path": "Ingegneria/8. Diagrammi di sequenza.md"
-    },
-    {
-      "basename": "5. Casi D'uso",
-      "path": "Ingegneria/5. Casi D'uso.md"
-    },
-    {
-      "basename": "7. Diagramma Delle Classi",
-      "path": "Ingegneria/7. Diagramma Delle Classi.md"
-    },
-    {
-      "basename": "IngSW_UML_04SequenceBozzaDiagrams",
-      "path": "Ingegneria/dispense/IngSW_UML_04SequenceBozzaDiagrams.pdf"
-    },
-    {
-      "basename": "IngSW_UML02_UseCaseDiagram",
-      "path": "Ingegneria/dispense/IngSW_UML02_UseCaseDiagram.pdf"
-    },
-    {
-      "basename": "Pasted image 20230509151721",
-      "path": "immagini/Ingegneria/Pasted image 20230509151721.png"
-    },
-    {
-      "basename": "Pasted image 20230509163311",
-      "path": "immagini/Ingegneria/Pasted image 20230509163311.png"
-    },
-    {
-      "basename": "Pasted image 20230509155412",
-      "path": "immagini/Ingegneria/Pasted image 20230509155412.png"
-    },
-    {
-      "basename": "Pasted image 20230509153542",
-      "path": "immagini/Ingegneria/Pasted image 20230509153542.png"
-    },
-    {
-      "basename": "Pasted image 20230509153504",
-      "path": "immagini/Ingegneria/Pasted image 20230509153504.png"
-    },
-    {
-      "basename": "Pasted image 20230509153334",
-      "path": "immagini/Ingegneria/Pasted image 20230509153334.png"
-    },
-    {
-      "basename": "Pasted image 20230509153129",
-      "path": "immagini/Ingegneria/Pasted image 20230509153129.png"
-    },
-    {
-      "basename": "IngSW_UML_06_ActivityDiagramBozzaOLD",
-      "path": "Ingegneria/dispense/IngSW_UML_06_ActivityDiagramBozzaOLD.pdf"
-    },
-    {
-      "basename": "IngSW_UML05StateDiagramBozzaOLD",
-      "path": "Ingegneria/dispense/IngSW_UML05StateDiagramBozzaOLD.pdf"
-    },
-    {
-      "basename": "azioni",
-      "path": "immagini/Ingegneria/azioni.png"
-    },
-    {
-      "basename": "Archi_neg",
-      "path": "immagini/Algoritmi/Archi_neg.svg"
-    },
-    {
-      "basename": "percorso_da_sorgente",
-      "path": "immagini/Algoritmi/percorso_da_sorgente.svg"
-    },
-    {
-      "basename": "EsempioFloyd",
-      "path": "immagini/Algoritmi/EsempioFloyd.svg"
-    },
-    {
-      "basename": "Pasted image 20230303094811",
-      "path": "immagini/Fisica/Pasted image 20230303094811.png"
-    },
-    {
-      "basename": "11. Grafi pesati",
-      "path": "Algoritmi/11. Grafi pesati.md"
-    },
-    {
-      "basename": "10. Grafi",
-      "path": "Algoritmi/10. Grafi.md"
+      "basename": "a2. Grafi pesati",
+      "path": "Algoritmi/a2. Grafi pesati.md"
     },
     {
       "basename": "CamminiMinimiDaSorgenteSingola",
       "path": "Algoritmi/dispense/CamminiMinimiDaSorgenteSingola.pdf"
     },
     {
-      "basename": "6. Mutua esclusione",
-      "path": "SisOp/6. Mutua esclusione.md"
+      "basename": "a1. Grafi",
+      "path": "Algoritmi/a1. Grafi.md"
     },
     {
-      "basename": "S07-mutuaEscl",
-      "path": "SisOp/dispense/S07-mutuaEscl.pdf"
+      "basename": "SET1_es_1_2",
+      "path": "Algoritmi/Esercizi Algoritmi/SET1_es_1_2.pdf"
     },
     {
-      "basename": "IntroShortestPathWeightedGraphs",
-      "path": "Algoritmi/dispense/IntroShortestPathWeightedGraphs.pdf"
+      "basename": "30-11-2022",
+      "path": "Algoritmi/Esercizi Algoritmi/30-11-2022.md"
     },
     {
-      "basename": "StatisticadOrdine",
-      "path": "Algoritmi/dispense/StatisticadOrdine.pdf"
+      "basename": "23-11-2022",
+      "path": "Algoritmi/Esercizi Algoritmi/23-11-2022.md"
+    },
+    {
+      "basename": "14-12-2022",
+      "path": "Algoritmi/Esercizi Algoritmi/14-12-2022.md"
     },
     {
       "basename": "9. Statistiche d'ordine",
       "path": "Algoritmi/9. Statistiche d'ordine.md"
     },
     {
-      "basename": "BFS",
-      "path": "Algoritmi/dispense/BFS.pdf"
-    },
-    {
-      "basename": "PotenzaGrafo",
-      "path": "Algoritmi/dispense/PotenzaGrafo.pdf"
-    },
-    {
-      "basename": "topologicalsort-sinkuniversale-cfc",
-      "path": "Algoritmi/dispense/topologicalsort-sinkuniversale-cfc.pdf"
+      "basename": "8. Sorting in tempo lineare",
+      "path": "Algoritmi/8. Sorting in tempo lineare.md"
     },
     {
       "basename": "7. Heapsort",
       "path": "Algoritmi/7. Heapsort.md"
     },
     {
+      "basename": "6. Quicksort",
+      "path": "Algoritmi/6. Quicksort.md"
+    },
+    {
+      "basename": "5. Divide et impera",
+      "path": "Algoritmi/5. Divide et impera.md"
+    },
+    {
+      "basename": "4. Ammortizzazione",
+      "path": "Algoritmi/4. Ammortizzazione.md"
+    },
+    {
+      "basename": "3. Modello RAM (Random Access Machine)",
+      "path": "Algoritmi/3. Modello RAM (Random Access Machine).md"
+    },
+    {
+      "basename": "2. Analisi e studio",
+      "path": "Algoritmi/2. Analisi e studio.md"
+    },
+    {
+      "basename": "1. Definizione di Algoritmo",
+      "path": "Algoritmi/1. Definizione di Algoritmo.md"
+    },
+    {
+      "basename": "Grafi1stWeek",
+      "path": "Algoritmi/dispense/Grafi1stWeek.pdf"
+    },
+    {
+      "basename": "IntroShortestPathWeightedGraphs",
+      "path": "Algoritmi/dispense/IntroShortestPathWeightedGraphs.pdf"
+    },
+    {
+      "basename": "PotenzaGrafo",
+      "path": "Algoritmi/dispense/PotenzaGrafo.pdf"
+    },
+    {
+      "basename": "StatisticadOrdine",
+      "path": "Algoritmi/dispense/StatisticadOrdine.pdf"
+    },
+    {
+      "basename": "Algoritmi-merged",
+      "path": "Algoritmi-merged.md"
+    },
+    {
+      "basename": "topologicalsort-sinkuniversale-cfc",
+      "path": "Algoritmi/dispense/topologicalsort-sinkuniversale-cfc.pdf"
+    },
+    {
+      "basename": "Strassen",
+      "path": "Algoritmi/dispense/Strassen.pdf"
+    },
+    {
+      "basename": "BFS",
+      "path": "Algoritmi/dispense/BFS.pdf"
+    },
+    {
+      "basename": "7. Vettori",
+      "path": "CalcNum/7. Vettori.md"
+    },
+    {
       "basename": "0. Algoritmi",
-      "path": "Algoritmi/0. Algoritmi.md"
+      "path": "Algoritmi/dispense/0. Algoritmi.md"
     },
     {
-      "basename": "VLSI",
-      "path": "immagini/Algoritmi/VLSI.png"
+      "basename": "dispense_cn_2021",
+      "path": "CalcNum/Dispense/dispense_cn_2021.pdf"
     },
     {
-      "basename": "Pasted image 20230302164118",
-      "path": "immagini/Algoritmi/Pasted image 20230302164118.png"
+      "basename": "esercizi_cn_2021",
+      "path": "CalcNum/Dispense/esercizi_cn_2021.pdf"
     },
     {
-      "basename": "Untitled Diagram 1",
-      "path": "immagini/Algoritmi/Untitled Diagram 1.svg"
+      "basename": "lez_erroranalysis_2122",
+      "path": "CalcNum/Dispense/lez_erroranalysis_2122.pdf"
+    },
+    {
+      "basename": "lezione1_cn__published",
+      "path": "CalcNum/Dispense/lezione1_cn__published.pdf"
+    },
+    {
+      "basename": "2. Error Analysis",
+      "path": "CalcNum/2. Error Analysis.md"
+    },
+    {
+      "basename": "9. Altre Strutture",
+      "path": "CalcNum/9. Altre Strutture.md"
+    },
+    {
+      "basename": "Ingegneria-merged",
+      "path": "Ingegneria-merged.md"
+    },
+    {
+      "basename": "6. Valutazione di un polinomio",
+      "path": "CalcNum/6. Valutazione di un polinomio.md"
+    },
+    {
+      "basename": "12. Matrici tridiagonali",
+      "path": "CalcNum/12. Matrici tridiagonali.md"
+    },
+    {
+      "basename": "13. Fattorizzazione LU",
+      "path": "CalcNum/13. Fattorizzazione LU.md"
+    },
+    {
+      "basename": "13a. Esercizio",
+      "path": "CalcNum/13a. Esercizio.md"
+    },
+    {
+      "basename": "14. Variante del Massimo Pivot Parziale (GEPP)",
+      "path": "CalcNum/14. Variante del Massimo Pivot Parziale (GEPP).md"
+    },
+    {
+      "basename": "15. Curva di Bezier",
+      "path": "CalcNum/15. Curva di Bezier.md"
+    },
+    {
+      "basename": "16. Modello della corda elastica",
+      "path": "CalcNum/16. Modello della corda elastica.md"
+    },
+    {
+      "basename": "17. Interpolazione",
+      "path": "CalcNum/17. Interpolazione.md"
+    },
+    {
+      "basename": "0. Introduzione",
+      "path": "CalcNum/0. Introduzione.md"
+    },
+    {
+      "basename": "1. Stabilità numerica",
+      "path": "CalcNum/1. Stabilità numerica.md"
+    },
+    {
+      "basename": "12. Test Funzionali",
+      "path": "Ingegneria/12. Test Funzionali.md"
+    },
+    {
+      "basename": "13. Test Strutturali",
+      "path": "Ingegneria/13. Test Strutturali.md"
+    },
+    {
+      "basename": "test-merged",
+      "path": "Ingegneria/test-merged.pdf"
+    },
+    {
+      "basename": "10. Diagrammi di attività",
+      "path": "Ingegneria/10. Diagrammi di attività.md"
+    },
+    {
+      "basename": "test-merged",
+      "path": "Ingegneria/test-merged.md"
     }
   ],
   "omittedPaths": [],
