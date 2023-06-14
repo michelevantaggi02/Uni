@@ -22,24 +22,24 @@
             }
           },
           {
-            "id": "0167754c10fd34d8",
+            "id": "726f84b825d965df",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algoritmi/a3. Alberi.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b28cf9c325a3116f",
+            "id": "12459a1489a15b03",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algoritmi/a3. Alberi.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -112,8 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "d301eb09d39979ed",
@@ -129,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algoritmi/a3. Alberi.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algoritmi/a3. Alberi.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -169,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algoritmi/a3. Alberi.md"
+                "file": "README.md"
               }
             }
           },
@@ -227,14 +226,20 @@
   },
   "active": "0d4387a7789b7537",
   "lastOpenFiles": [
-    "immagini/Pasted image 20230613163632.png",
-    "immagini/Pasted image 20230613163318.png",
-    "immagini/Pasted image 20230613111736.png",
-    "immagini/Pasted image 20230612141155.png",
-    "immagini/Pasted image 20230612121649.png",
-    "immagini/Pasted image 20230612114835.png",
+    "Ingegneria.md",
+    "README.md",
+    "tree.md",
+    "templates.md",
     "LaTeX.md",
+    "immagini/Algoritmi/rotation.png",
+    "immagini/Algoritmi/rn-caso23.png",
+    "immagini/Algoritmi/rn-caso1.png",
     "Algoritmi/a3. Alberi.md",
+    "immagini/Algoritmi/binarytree3.png",
+    "immagini/Algoritmi/binarytree2.png",
+    "immagini/Algoritmi/binarytree.png",
+    "immagini/Algoritmi/Radixsort.png",
+    "Algoritmi-merged.md",
     "Algoritmi/dispense/document.pdf",
     "Algoritmi/a2. Grafi pesati.md",
     "Algoritmi/dispense/CamminiMinimiDaSorgenteSingola.pdf",
@@ -256,22 +261,16 @@
     "Algoritmi/dispense/IntroShortestPathWeightedGraphs.pdf",
     "Algoritmi/dispense/PotenzaGrafo.pdf",
     "Algoritmi/dispense/StatisticadOrdine.pdf",
-    "Algoritmi-merged.md",
     "Algoritmi/dispense/topologicalsort-sinkuniversale-cfc.pdf",
     "Algoritmi/dispense/Strassen.pdf",
     "Algoritmi/dispense/BFS.pdf",
-    "immagini/Pasted image 20230608104217.png",
     "CalcNum/7. Vettori.md",
     "Algoritmi/dispense/0. Algoritmi.md",
     "CalcNum/2. Error Analysis.md",
     "CalcNum/9. Altre Strutture.md",
     "Ingegneria-merged.md",
-    "CalcNum/12. Matrici tridiagonali.md",
-    "CalcNum/13. Fattorizzazione LU.md",
-    "CalcNum/13a. Esercizio.md",
     "immagini/Pasted image 20230509155509.png",
     "immagini/Ingegneria/Pasted image 20230509163311.png",
-    "immagini/Pasted image 20230509155531.png",
-    "immagini/Ingegneria/Pasted image 20230509155412.png"
+    "immagini/Pasted image 20230509155531.png"
   ]
 }

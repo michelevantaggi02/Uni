@@ -1,12 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "a3. Alberi",
-      "path": "Algoritmi/a3. Alberi.md"
+      "basename": "README",
+      "path": "README.md"
     },
     {
       "basename": "LaTeX",
       "path": "LaTeX.md"
+    },
+    {
+      "basename": "rotation",
+      "path": "immagini/Algoritmi/rotation.png"
+    },
+    {
+      "basename": "rn-caso23",
+      "path": "immagini/Algoritmi/rn-caso23.png"
+    },
+    {
+      "basename": "rn-caso1",
+      "path": "immagini/Algoritmi/rn-caso1.png"
+    },
+    {
+      "basename": "a3. Alberi",
+      "path": "Algoritmi/a3. Alberi.md"
+    },
+    {
+      "basename": "binarytree3",
+      "path": "immagini/Algoritmi/binarytree3.png"
+    },
+    {
+      "basename": "binarytree2",
+      "path": "immagini/Algoritmi/binarytree2.png"
+    },
+    {
+      "basename": "binarytree",
+      "path": "immagini/Algoritmi/binarytree.png"
+    },
+    {
+      "basename": "Radixsort",
+      "path": "immagini/Algoritmi/Radixsort.png"
+    },
+    {
+      "basename": "Algoritmi-merged",
+      "path": "Algoritmi-merged.md"
     },
     {
       "basename": "a2. Grafi pesati",
@@ -89,10 +125,6 @@
       "path": "Algoritmi/dispense/StatisticadOrdine.pdf"
     },
     {
-      "basename": "Algoritmi-merged",
-      "path": "Algoritmi-merged.md"
-    },
-    {
       "basename": "topologicalsort-sinkuniversale-cfc",
       "path": "Algoritmi/dispense/topologicalsort-sinkuniversale-cfc.pdf"
     },
@@ -114,19 +146,19 @@
     },
     {
       "basename": "dispense_cn_2021",
-      "path": "CalcNum/Dispense/dispense_cn_2021.pdf"
+      "path": "CalcNum/dispense/dispense_cn_2021.pdf"
     },
     {
       "basename": "esercizi_cn_2021",
-      "path": "CalcNum/Dispense/esercizi_cn_2021.pdf"
+      "path": "CalcNum/dispense/esercizi_cn_2021.pdf"
     },
     {
       "basename": "lez_erroranalysis_2122",
-      "path": "CalcNum/Dispense/lez_erroranalysis_2122.pdf"
+      "path": "CalcNum/dispense/lez_erroranalysis_2122.pdf"
     },
     {
       "basename": "lezione1_cn__published",
-      "path": "CalcNum/Dispense/lezione1_cn__published.pdf"
+      "path": "CalcNum/dispense/lezione1_cn__published.pdf"
     },
     {
       "basename": "2. Error Analysis",
@@ -159,46 +191,6 @@
     {
       "basename": "14. Variante del Massimo Pivot Parziale (GEPP)",
       "path": "CalcNum/14. Variante del Massimo Pivot Parziale (GEPP).md"
-    },
-    {
-      "basename": "15. Curva di Bezier",
-      "path": "CalcNum/15. Curva di Bezier.md"
-    },
-    {
-      "basename": "16. Modello della corda elastica",
-      "path": "CalcNum/16. Modello della corda elastica.md"
-    },
-    {
-      "basename": "17. Interpolazione",
-      "path": "CalcNum/17. Interpolazione.md"
-    },
-    {
-      "basename": "0. Introduzione",
-      "path": "CalcNum/0. Introduzione.md"
-    },
-    {
-      "basename": "1. Stabilità numerica",
-      "path": "CalcNum/1. Stabilità numerica.md"
-    },
-    {
-      "basename": "12. Test Funzionali",
-      "path": "Ingegneria/12. Test Funzionali.md"
-    },
-    {
-      "basename": "13. Test Strutturali",
-      "path": "Ingegneria/13. Test Strutturali.md"
-    },
-    {
-      "basename": "test-merged",
-      "path": "Ingegneria/test-merged.pdf"
-    },
-    {
-      "basename": "10. Diagrammi di attività",
-      "path": "Ingegneria/10. Diagrammi di attività.md"
-    },
-    {
-      "basename": "test-merged",
-      "path": "Ingegneria/test-merged.md"
     }
   ],
   "omittedPaths": [],

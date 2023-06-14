@@ -1,5 +1,7 @@
 # 1. Definizione di Algoritmo
 
+----
+
 Un algoritmo è una procedura passo a passo per eseguire delle mansioni una finita quantità di volte
 
 # Algoritmo Deterministico
@@ -87,6 +89,8 @@ Una struttura di dati è un modo sistematico di organizzare ed accedere ai dati
 
 # 2. Analisi e studio
 
+
+----
 
 # Studi Sperimentali
 
@@ -325,6 +329,7 @@ $$a^{\log_b(c)}=c^{\log_b(a)}$$
 # 3. Modello RAM (Random Access Machine)
 
 
+----
 
 Si il nome confonde.
 
@@ -337,6 +342,8 @@ La RAM è composta da
 # 4. Ammortizzazione
 
 
+----
+
 # [Ammortizzazione](https://unistudium.unipg.it/unistudium/pluginfile.php/768543/mod_resource/content/1/Week1.pdf)
 
 Il **tempo di esecuzione ammortizzato** di un’operazione all’interno di una serie di operazioni è il tempo di esecuzione nel caso pessimo diviso per il numero di operazioni.
@@ -346,35 +353,49 @@ Il **tempo di esecuzione ammortizzato** di un’operazione all’interno di una 
 Ho un array di dimensione C, e voglio farlo arrivare a dimensione $N=kc, k \in Z$
 
 Ogni volta che voglio ingrandire l’array ho due opzioni:
+
 - ingrandisco di altre C dimensioni, copio la dimensione dell’array (1C, 2C,..ecc) e esegui C operazioni O(1) (**strategia incrementale**).
 - raddoppio la dimensione dell'array, copio i suoi elementi (1C, 2C, 4C, 8C, ...) e eseguo le operazioni di aggiunta. (**strategia del raddoppio**)
 
 Compariamo le due strategie analizzando il tempo totale T(n) impiegato per eseguire n operazioni di aggiunta.
+
 Chiamiamo **_tempo ammortizzato_** di operazioni di aggiunta il tempo medio impiegato da un'operazione di aggiunta oltre le serie di operazioni.
+
 Assumendo di iniziare con una lista vuota rappresentata da un array di dimensione 1.
 
 ### Strategia Incrementale
 
 Dopo n operazioni di aggiunta, rimpiazziamo l'array k= n/c volte, dove c è una costante.
+
 Il tempo totale T(n) di una serie di n operazioni di aggiunta è proporzionale a
+
 $$n+c+2c+3c+4c+...+kc=$$
+
 $$n+c(1+2+3+4+...+k)=$$
+
 $$n+\frac{ck(k+1)}2$$
+
 Dato che c è una costante, T(n) è $O(n+k^2)$, ovvero $O(n^2)$, e il tempo di esecuzione ammortizzato è
+
 $$\frac {O(n^2)}n=O(n)$$
 
 ### Strategia Del Raddoppio
 
 Rimpiazziamo l'array $k=\log_2(n)$ volte, il tempo totale T(n) di una serie di n operazioni è proporzionale a
+
 $$n+1+2+4+8+...+2^k=$$
+
 $$n+2^{k+1}-1=3n-1$$
+
 T(n) è O(n).
+
 Il tempo di esecuzione ammortizzato è O(1)
 
 
 # 5. Divide et impera
 
 
+----
 
 1. Divide the problem
 2. Conquer the subproblems by solving them recursively
@@ -405,6 +426,10 @@ $$f(n)=\Omega(n^{\log_b(a) + \varepsilon}), \quad \varepsilon > 0 \implies T(N)=
 
 # Moltiplicazione Di Strassen
 
+![[7. Vettori#Prodotto Tra Matrici Di Strassen]]
+
+Gli algoritmi di moltiplicazione tra matrici impiegano di solito $\Theta (n^3)$, considerando che è il numero di moltiplicazioni scalari impiegate per le moltiplicazioni. Strassen ha pubblicato un algoritmo ricorsivo che impiega $\Theta (n^{\log 7}) = O(n^{2.81})$ che è asintoticamente meglio di $\Theta(n^3)$, per ottenere questo risultato si riducono di 1 il numero di moltiplicazioni (che impiegano numerose operazioni tra di loro), aumentando il numero di addizioni e sottrazioni.
+
 ## Analisi
 
 $$ T(n) = 7 T(n/2) + \Theta(n^2)$$
@@ -412,10 +437,14 @@ $$ T(n) = 7 T(n/2) + \Theta(n^2)$$
 ## VLSI Layout
 
 Voglio creare un albero binario completo con n foglie in una griglia utilizzando il minor spazio possibile
+
 ![VLSI](VLSI.png)
-$$H(n)=H(n/2) + \Theta(1)= \Theta(log n)$$
+
+$$H(n)=H(n/2) + \Theta(1)= \Theta(\log n)$$
+
 $$ W(n) = 2W(n/2) + \Theta(1)= \Theta(n)$$
-$$Area=\Theta(n log n)$$
+
+$$Area=\Theta(n \log n)$$
 
 ## H-tree
 
@@ -425,7 +454,7 @@ $$Area=\Theta(n log n)$$
 # 6. Quicksort
 
 
-22-11-2022
+----
 
 ```ad-info
 
@@ -440,12 +469,15 @@ Il quicksort su basa sul processo a tre passi del [[5. Divide et impera]]:
 Il passo di divisione deve essere preceduto da una procedura di **PARTITION** che trova l'indice q che separa i due sottoarray.
 
 	quicksort(A,p,r):
+
 		//partizionare i sottoarray intorno al perno A[q]
+
 		q = PARTITION(A,p,r) //posizione del perno nell'insieme ordinato
+
 		
 		quicksort(A,p,q-1)
 		quicksort(A,q+1,r)
-	
+
 
 # Partizionamento
 
@@ -498,10 +530,11 @@ $$T(n)=T(n-1)+T(0)+\Theta(n)=T(n-1)+\Theta(n) = \Theta(n^2)$$
 # 7. Heapsort
 
 
+----
 
 - Caso peggiore $O(n\log n)$
 - In place
-- Combina il meglio di [[6. Quicksort]] e [[5. Divide et impera#Merge Sort|merge sort]]
+- Combina il meglio di [[6. Quicksort|quicksort]] e [[5. Divide et impera#Merge Sort|merge sort]]
 
 # Heap
 
@@ -570,6 +603,8 @@ collapse: open
 			MAX-HEAPIFY(A,largest)
 
 ```
+
+Questa procedura impiega $\Theta (\log n)$
 
 ### Come Funziona
 
@@ -640,7 +675,7 @@ collapse: open
 - BUILD-MAX-HEAP : $O(n)$
 - Ciclo for : n-1 volte
 - scambio di elementi : $O(1)$
-- MAX-HEAPIFY: $O(\log n)$ 
+- MAX-HEAPIFY: $O(\log n)$
 
 Tempo totale: $O(n \log n)$
 
@@ -649,7 +684,9 @@ Anche se l'heapsort è un grande algoritmo, un quicksort ben implementato lo bat
 # 8. Sorting in tempo lineare
 
 
-# Counting sort
+----
+
+# Counting Sort
 
 Non ci sono comparazioni tra gli elementi
 
@@ -657,7 +694,7 @@ Non ci sono comparazioni tra gli elementi
 - Output: $A[1,...,n]$ ordinato
 - Spazio ausiliario: $C[1,...,k]$
 
-L'algoritmo ha un tempo di esecuzione di $O(n)$, ma utilizza uno spazio ausiliario che potrebbe anche arrivare ad avere dimensione $n \log n$ 
+L'algoritmo ha un tempo di esecuzione di $O(n)$, ma utilizza uno spazio ausiliario che potrebbe anche arrivare ad avere dimensione $n \log n$
 
 ## Codice
 
@@ -682,17 +719,26 @@ La somma totale di tutti i costi è $\Theta(n+k)$.
 
 Se $k=O(n)$ allora il counting sort impiega $\Theta(n)$
 
-Il  counting sort è un algoritmo stabile, ovvero preserva l'ordine in cui gli elementi sono dati in input.
+Il counting sort è un algoritmo stabile, ovvero preserva l'ordine in cui gli elementi sono dati in input.
 
-# Counting sort semplificato
+# Counting Sort Semplificato
 
 	for
 
-# Radix sort
+# Radix Sort
 
+Il radix sort si utilizza con i numeri interi di $d<n$ cifre, partendo dalla cifra di ordine minore si ordina, con un algoritmo stabile (ad esempio il [[#Counting sort]]) i numeri mettendo in ordine le cifre
+
+![[Radixsort.png|center mid]]
+
+	radix-sort(A, d):
+		for i = 1:d
+			ordina A alla cifra in posizione i 
 
 # 9. Statistiche d'ordine
 
+
+----
 
  Selezionare l' $i$esimo elemento più piccolo di $n$ elementi (L'elemento con __rango__ $i$ )
 
@@ -793,7 +839,7 @@ in questo caso l'elemento di rango 3 è 4
 
 # Partizionamento
 
-Osserviamo che dato x, trovare il rank(x) è facile. Basta trovare quanti elementi sono < x
+Osserviamo che dato x, trovare il rank(x) è facile. Basta trovare quanti elementi sono < x, basta quindi usare [[6. Quicksort#Partizionamento|partition]]
 
 	partition(A, i, f, r):
 		t = i
@@ -825,6 +871,19 @@ $t=5$
 
 ```
 
+# Idea
+
+per cercare l'elemento di rango $i$ prima testo il rango di un qualunque elemento $x$
+
+	cerca(A, s, e, i):
+		k = rank(x) in (A, S, e)
+		if i == k:
+			return i
+		if  i < k:
+			//cerco a sinistra tra i valori < x
+		else:
+			//cerco a destra tra i valori > x
+
 ```ad-tip
 title: Tecnicalities
 
@@ -833,16 +892,6 @@ Quando cerco a sinistra, cerco l'elemento di rango i.
 Quando cerco a destra, cerco l'elemento di rango i-k, perché se cerco  a destra "escludo" elementi e quindi il rango decresce.
 
 ```
-
-# Idea
-
-per cercare l'elemento di rango $i$ prima testo il rango di un qualunque elemento $x$
-
-	cerca(A, s, e, i):
-		k = rank(x) in (A, S, e)
-		if i == k:
-			
-	riguardare 28-02-2023
 
 ## Worst Case
 
@@ -886,18 +935,18 @@ Tutti gli elementi maggiori o uguali della mediana vanno a finire sotto, tutti q
 Per la proprietà transitiva, tutti gli elementi del sottogruppo sono minori o uguali alla mediana (o maggiori o uguali).
 
 	cerca(A, s, e, i):
-	formo gruppi da 5
-	ordino ogni gruppo
-	cerco la MM
-	k = partition(A, s, e, MM)
-	z = rank(MM) = k - s + 1
-	if z == i:
-		return MM
-	else:
-		if z > i:
-			return cerca(A, s, k, i)
+		//formo gruppi da 5
+		//ordino ogni gruppo
+		//cerco la MM
+		k = partition(A, s, e, MM)
+		z = rank(MM) = k - s + 1
+		if z == i:
+			return MM
 		else:
-			return cerca(A, k, e, i - z)
+			if z > i:
+				return cerca(A, s, k, i)
+			else:
+				return cerca(A, k, e, i - z)
 
 Alla destra di MM ci stanno al più $n - (\frac 3 {10} n)$ elementi, e alla sua destra ci stanno al più $n-(\frac 3{10}n-6)$ elementi
 
@@ -921,12 +970,6 @@ $$T(n) = T(\frac n7) + T(\frac {10}{14}n+8) + \Theta(n)$$
 
 Occorrono tante operazioni
 
-# Prova per induzione
-
-$$T(n) = T(\frac n7) + T(\frac 57n+8)+an$$
-$$\leq c\frac n7 + c\frac 57n+an$$
-
-Riguardare 06-03-2023
 
 ```
 
@@ -938,11 +981,13 @@ title: Con i gruppi da 3 non funziona
 
 # Quicksort
 
-Riguardare 06-03-2023
+Mostriamo come rendere [[6. Quicksort]] ottimo
 
 	quicksort(A,i,f):
 		if i < f:
-			q = partition(A,i,f)
+			//aiuto a scegliere il pivot attraverso la selection
+			x = selection(A, i, f, (i+f)/2 )
+			q = partition(A,i,x)
 			quicksort(A,i,q)
 			quicksort(A,q+1,f)
 
@@ -965,6 +1010,8 @@ e
 
 # a1. Grafi
 
+
+----
 
 I grafi sono formati da due insiemi:
 
@@ -1062,12 +1109,13 @@ $$G=(V,E)$$
 |4| 0| 0 | 1 | 0
 
 ## Lista Delle Adiacenze
-|i | $\to$ |lista| |
+
+|i | $\to$ |lista| | |
 |---|---|---|---|
 | 1 | $\to$ | 2 | 3 |
 | 2 | $\to$ | 1 | 3 |
 | 3 | $\to$| 1 | 4 |
-|4| $\to$|3|
+|4| $\to$|3| | 
 
 ## Vettore Delle Adiacenze
 
@@ -1075,19 +1123,12 @@ Sono 2  vettori:
 - $V$ che contiene la posizione in E in cui è presente il primo arco uscente.
 - $E$ in cui sono scritti quali archi sono collegati
 
-| | v|
-|---|---|
-|1|1|
-|2|3|
-|3|4|
-|4|-|
-
-| | E|
-|---|---|
-| 1|2|
-|2|3|
-|3|3|
-|4|4|
+| | V| E |
+|---|---| --- |
+|1|1| 2 |
+|2|3| 3 |
+|3|4| 3 |
+|4|-| 4 |
 
 # Complessità Di Un Grafo
 
@@ -1181,6 +1222,9 @@ Immagine 13-03-2023
 		1. DFS(G)
 		2. inserisci in testa ad una lista L ogni nodo che diventa nero
 		3. return L
+
+	repeat
+		sia s un sink in G
 
 ```ad-missing
 title: Chiedere a qualcuno slide 12 [[topologicalsort-sinkuniversale-cfc.pdf]]
@@ -1487,6 +1531,8 @@ Nel grafo non orientato esistono solo gli archi cross
 # a2. Grafi pesati
 
 
+----
+
  $$G = (V, E)$$
 
 $$w: E \to R$$
@@ -1541,7 +1587,7 @@ Nuova Operazione per Ri-etichettare
 		d(s) = 0
 		sol = 0
 		Q = makeQueue(d(v), V)
-		while Q in not empty:
+		while Q is not empty:
 			u = extract_min(Q)
 			for v in Adj(u) and v not in sol:
 				relax(u, v, w(u,v))
@@ -1694,7 +1740,10 @@ w(i,j) &  (i, j) \in E\\
 0&i=j
 \end{cases}$$
 
-Riguardare
+$$\Pi^{(0)}(i,j) = \begin{cases} 
+i & (i,j) \notin E\\
+nil & else
+\end{cases}$$
 
 $$\Pi^{(1)}(i,j) = \begin{cases}
 \Pi^{(0)}(i,j)&d^{(1)}(i,j)= d^{(0)}(i,j)\\
@@ -1702,7 +1751,7 @@ $$\Pi^{(1)}(i,j) = \begin{cases}
 \end{cases}$$
 $$d^{(2)}(i,j) = i \sim \{1, 2\} \sim j$$
 $$d^{(k)}(i,j) = \min\{d^{(k-1)}(i, j), d^{(k-1)}(i, k) + d^{(k-1)}(k, j)\}$$
-Riguarda
+
 
 ```ad-example
 collapse:open
@@ -1832,4 +1881,376 @@ Bellman-Ford (G')
 
 $$|V'|\cdot|E'|=\Theta(V)\cdot\Theta(E)$$
 
-//pag 47
+### Costo Passo 3
+
+if not exist cicli negativi ricalcolo i pesi e eseguo dijkstra
+
+$$\Theta(E) |V| ( V' \log V' + E')$$
+
+### Costo Passo 4
+
+ricalcolo $d(i,j)$ 
+
+$$\Theta(V^2)$$
+
+
+# a3. Alberi
+
+
+----
+
+# Minimum Spanning Tree
+
+Tra tutti gli alberi di copertura, quello il cui costo è minimo.
+
+In un grafo con tutti archi di costo diverso, l'MST è unico, ma può essere radicato in tanti modi quanti sono i vertici
+
+```ad-note
+title: Regola Blue
+
+Considerato un taglio S: $V = V_1 \cup V_2, V_1 \cap V_2 = \emptyset$ 
+
+$$S = \{e = (l,r) : l \in V_1, r \in V_2\}$$
+
+Si applica se S non ha archi blue, colora di blue l'arco di costo minimo in S
+
+```
+
+```ad-failure
+title: Regola Rossa
+
+Considera un ciclo $C$.
+
+Si applica se $C$ non ha archi rossi, colora di rosso l'arco di peso massimo in $C$
+
+```
+
+## Metodo per Trovare MST
+
+Soddisfa il seguente invariante dopo ogni scelta: $\exists$ MST che contiene tutti gli archi blue e nessun arco rosso
+
+	while exists e in E not colored:
+		applica la regola blue o rossaa
+	return MST = {e : color(e) = blue}
+
+## Algoritmo Di Kruskal
+
+- ordino archi in senso non decrescente rispetto $w(e)$ in L:
+- Foresta di alberi costituiti da un solo vertice
+
+Visita tutti gli archi in L e per ogni arco procede come segue:
+
+$\forall e = (v_1, v_2)$
+
+- se $v_1$ e $v_2$ __non__ appartengolo allo stesso albero della foresta -> coloro $e$ di blue
+$$MST = MST \cup e=(v_1,v_2)$$
+- se $v_1$ e $v_2$ appartengono allo stesso albero -> coloro $e$ di rosso e lo escludo dal MST
+
+```ad-seealso
+
+	test(v1, v2): //appartengono allo stesso albero
+		dfs-visit(v1):
+			verifico se v2 è raggiungibile da v1
+		mantengo un insieme per ogni albero della foresta
+		union(Sa, Sb) fonde i due insiemi Sa e Sb
+		find(vi) ritorna l'insieme in cui si trova vi
+
+```
+
+
+	kruskal(G = (V, E); w):
+		L = archi ordinati
+		MST = empty
+		Crea |V| insiemi, un insieme per ciascun verticce
+		for e = (vi, vj) nell'ordine L:
+			if find(vi) == find(vj):
+				e = (vi, vj) rosso
+			else
+				union(find(vi), find(vj))
+				MST = MST + {vi, vj}
+
+### Complessità
+
+Ordinamento : $O(|E| \log |E|) \simeq O(|E| \log |V|)$
+
+Union: $(|V| - 1)$
+
+Find: $(2|E|)$
+
+La complessità ultima dipende dalla struttura dati che rappresenta gli insiemi
+
+## Algoritmo Di Prim
+
+```ad-important
+
+RELAX di Prim è  diverso da quello di [[a2. Grafi pesati#Relax|Dijkstra]]
+
+	relax(u, v, w(u, v)):
+		if d(v) > w(u, v):
+			d(v) = w(u, v)
+			P(v) = u
+
+```
+
+Per tutto il resto l'algoritmo di Prim è lo stesso dell' [[a2. Grafi pesati#Dijkstra|algoritmo  di Dijkstra]]
+
+	prim(G = (V, E), w: E -> R):
+	INITIALIZE
+	Q = {d(v) : for v in V}
+	sol = empty
+	while Q not empty:
+		u = extract-min(Q)
+		sol = sol + u
+		for v in Adj(u) and v not in sol:
+			relax (u, v, w(u, v))
+
+
+```ad-question
+title: Come posso trasformare i pesi negativi in pesi non negativi e mantenere le posizioni
+
+I pesi degli archi possono trasformarsi sempre in pesi non negativi usando la regola
+$$\hat w(e)  = w(e) + |min(w(e)) : w(e) < 0|$$
+
+Dopo la trasformazione MST è lo stesso, il peso del problema originale è lo stesso del problema modificato
+
+```
+
+# Alberi Binari Di Ricerca
+
+Rappresentiamo un albero binario come una linked list i cui nodi sono gli oggetti della lista, ogni oggetto ha una chiave univoca e dei puntatori che indicano gli oggetti vicini.
+
+```ad-example
+
+Dato un albero T, la sua radice ($T.root$) ha padre $x.p = NIL$.
+
+I figli a sinistra e a destra sono rappresentati dagli attributi $left$ e $right$, se non hanno figli l'attributo è $NIL$.
+
+![[Pasted image 20230612114835.png|center]]
+
+```
+
+Per gli alberi con $n$ figli, si possono usare collegamenti ai nodi a destra e sinistra, utilizzando la stessa quantità di spazio.
+
+![[binarytree2.png|center]]
+
+Ogni nodo è connesso al suo parent $p$, ma invece di avere $n$ puntatori per ogni nodo figlio ha solo 2 nodi (_left-child_ e _right-sibling_).
+
+In un albero binario di ricerca le chiavi sono sempre memorizzate in modo da soddisfare una proprietà:
+
+```ad-important
+
+Dato $x$ nodo in un albero binario di ricerca:
+
+- se $y$ è un nodo nel sottoalbero a __sinistra__ di $x$ allora $y.key \leq x.key$
+- se $y$ è un nodo nel sottoalbero a __destra__ di $x$ allora $y.key \geq x.key$
+
+```
+
+![[binarytree3.png|center]]
+
+## Inorder Tree Walk
+
+Grazie a questa proprietà possiamo stampare tutte le chiavi in modo ordinato semplicemente tramite algoritmo ricorsivo
+
+	INORDER-TREE-WALK(x):
+		if x not NIL:
+			INORDER-TREE-WALK(x.left)
+			print x.key
+			INORDER-TREE-WALK(x.right)
+
+esistono anche algoritmi chiamati __preorder-tree-walk__ che stampa la radice __prima__ dei valori dei suoi sottoalberi, e __postorder-tree-walk__ che stampa la radice __dopo__ i valori dei suoi sottoalberi
+
+## Ricerca
+
+	Tree-search(x, k):
+		if x == NIL or k == x.key:
+			return x
+		elseif k < x.key:
+			return Tree-search(x.left, k)
+		else:
+			return Tree-search(x.right, k)
+
+	Iterative-tree-search(x k):
+		while x not NIL and k not x.key:
+			if k < x.key:
+				x = x.left
+			else:
+				x = x.right
+		return x
+
+## Minimo E Massimo
+
+	Tree-minimum(x):
+		while x.left not NIL:
+			x = x.left
+		return x
+
+	Tree-maximum(x):
+		while x.right not NIL:
+			x = x.right
+		return x
+
+## Successore E Predecessore
+
+	Tree-successor(x):
+		if x.right not NIL:
+			return Tree-minimum(x.right)
+		else:
+			y = x.p
+			while y not NIL and x == y.right:
+				x = y
+				y = y.p
+			return y
+
+Tree-predecessor è simmetrico a Tree-successor.
+
+## Inserimento E Eliminazione
+
+Queste operazioni cambiano la rappresentazione dell'albero.
+
+	Tree-insert(T, z):
+		x = T.root
+		y = NIL
+		while x not NIL:
+			y = x
+			if z.key < x.key:
+				x = x.left
+			else:
+				x = x.right
+		z.p = y
+		if y == NIL:
+			T.root = z
+		elseif z.key < y.key:
+			y.left = z
+		else:
+			y.right = z
+
+
+	Transplant(T, u, v):
+		if u.p == NIL:
+			T.root = v
+		elseif u == u.p.left;
+			u.p.left = v
+		else:
+			u.p.right = v
+		if v not NIL:
+			v.p = u.p
+
+	Tree-delete(T, z):
+		if z.left == NIL:
+			transplant(T, z, z.right)
+		elseif z.right == NIL:
+			Transplant(T, z, z.keft)
+		else:
+			y = Tree-minimum(z.right)
+			if y not z.right:
+				Transplant(T, y, y.right)
+				y.right = z.right
+				y.right.p = y
+			Transplant(T, z, y)
+			y.left = z.left
+			y.left.p = y
+
+^6d280d
+
+# Alberi Rosso-Neri
+
+La ricerca di un albero binario è efficiente se la dimensione è piccola, altrimenti non è più veloce delle linked list. Gli alberi rosso-neri sono uno dei tanti schemi "bilanciati" per garantire un'eseccuzione in tempo $O(\log n)$ nel caso peggiore.
+
+```ad-info
+
+Un albero rosso-nero è un albero binario di ricerca con un bit extra per memorizzare il suo __colore__, l'albero è approssimativamente bilanciato e la sua altezza con $n$ nodi è al più $2\log(n+1)$ che è $O(\log n)$
+
+```
+
+Questi alberi rispettano le seguenti proprietà:
+
+- Ogni nodo è _rosso_ o _nero_
+- La root è nera
+- Ogni foglia (NIL) è nera
+- Se un nodo è rosso, allora entrambi i suoi figli sono neri
+- Per ogni nodo, tutti i percorsi semplici dal nodo alle foglie discendenti contengono lo stesso numero di nodi neri
+
+Per rappresentare NIL si usa un nodo a parte (T.NIL) di colore nero.
+
+```ad-important
+
+Dato che l'altezza dell'albero è $O(\log n)$ allora anche le operazioni sugli alberi binari impiegano al più $O(\log n)$.
+
+
+Dato che queste operazioni modificano la struttura dell'albero, potrebbero invalidare le 5 proprietà
+
+```
+
+## Rotazioni
+
+Per ristabilire le proprietà che vengono modificate, i colori e i puntatori devono cambiare. Per cambiare i puntatori si utilizza la __rotazione__ che può essere a sinistra o a destra.
+
+![[rotation.png|center]]
+
+## Inserimento
+
+Per inserire un nodo in un albero rosso-nero mantenendo le proprietà bisogna modificare [[#^6d280d|Tree-insert]]
+
+	RB-insert(T, z):
+		x = T.root
+		y = T.NIL
+		while x not T.NIL:
+			y = x
+			if z.key < x.key:
+				x = x.left
+			else:
+				x = x.right
+		z.p = y
+		if y == T.NIL:
+			T.root = z
+		elseif z.key < y.key:
+			y.left = z
+		else:
+			 y.right = z
+		z.left = T.NIL
+		z.right = T.NIL
+		z.color = RED
+		RB-INSERT-FIXUP(T, z)
+
+Ci sono 4 differenze tra i 2 algoritmi:
+
+1. Tutte le istanze di NIL sono rimpiazzate da T.NIL
+2. Per mantenere la struttura corretta $z.left$ e $z.right$ diventano T.NIL
+3. z viene colorato di rosso
+4. Dato che colorando di rosso z si potrebbe generare una violazione delle proprietà, viene chiamato RB-INSERT-FIXUP per ripristinare le proprietà rosso-nere
+
+## RB-INSERT-FIXUP
+
+Descrivendo la stuttura di un albero rosso-nero bisogna riferirsi spesso al fratello di un nodo genitore (nodo zio).
+
+```ad-question
+title: Quali violazioni delle proprietà possono verificarsi al chiamare di RB-INSERT-FIXUP?
+
+le proprietà che possono essere violate sono 2:
+
+2. La radice deve essere di colore nero
+4. Un nodo rosso non può avere un figlio rosso
+
+```
+
+### Caso 1
+
+Sia $z.p$ che $y$ sono rossi, di conseguenza il loro padre ($z.p.p$) è nero, il suo colore si può trasferire un livello più in basso risolvendo il problema che $z$ e $z.p$ sono entrambi rossi.
+
+![[rn-caso1.png|center]]
+
+### Caso 2
+
+Lo zio di $z$ ($y$) è nero e $z$ è un figlio destro, si ruota a _sinistra_ (su z) trasformando la situazione in [[#caso 3]]
+
+### Caso 3
+
+Lo zio di $z$ ($y$) è nero e $z$ è un figlio sinistro, si cambiano i colori e si ruota a _destra_ (su z.p.p), preservando la proprietà 5
+
+![[rn-caso23.png|center]]
+
+```ad-example
+
+![[esempio_rn.png|center]]
+```
