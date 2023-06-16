@@ -22,31 +22,19 @@
             }
           },
           {
-            "id": "726f84b825d965df",
+            "id": "161de58db9575c19",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "12459a1489a15b03",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
+                "file": "Algoritmi/a4. Tabelle Hash.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -128,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Algoritmi/a4. Tabelle Hash.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Algoritmi/a4. Tabelle Hash.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -168,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Algoritmi/a4. Tabelle Hash.md"
               }
             }
           },
@@ -224,13 +212,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0d4387a7789b7537",
+  "active": "161de58db9575c19",
   "lastOpenFiles": [
-    "Ingegneria.md",
+    "immagini/Pasted image 20230616123119.png",
+    "immagini/Pasted image 20230615165741.png",
+    "immagini/Algoritmi/direct-access.png",
+    "LaTeX.md",
+    "Algoritmi/a4. Tabelle Hash.md",
     "README.md",
+    "Ingegneria.md",
     "tree.md",
     "templates.md",
-    "LaTeX.md",
     "immagini/Algoritmi/rotation.png",
     "immagini/Algoritmi/rn-caso23.png",
     "immagini/Algoritmi/rn-caso1.png",
@@ -267,10 +259,6 @@
     "CalcNum/7. Vettori.md",
     "Algoritmi/dispense/0. Algoritmi.md",
     "CalcNum/2. Error Analysis.md",
-    "CalcNum/9. Altre Strutture.md",
-    "Ingegneria-merged.md",
-    "immagini/Pasted image 20230509155509.png",
-    "immagini/Ingegneria/Pasted image 20230509163311.png",
-    "immagini/Pasted image 20230509155531.png"
+    "immagini/Pasted image 20230509155509.png"
   ]
 }
