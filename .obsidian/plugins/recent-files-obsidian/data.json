@@ -5,12 +5,156 @@
       "path": "Algoritmi/a4. Tabelle Hash.md"
     },
     {
-      "basename": "LaTeX",
-      "path": "LaTeX.md"
+      "basename": "a2. Grafi pesati",
+      "path": "Algoritmi/a2. Grafi pesati.md"
+    },
+    {
+      "basename": "6. Quicksort",
+      "path": "Algoritmi/6. Quicksort.md"
+    },
+    {
+      "basename": "7. Heapsort",
+      "path": "Algoritmi/7. Heapsort.md"
+    },
+    {
+      "basename": "a1. Grafi",
+      "path": "Algoritmi/a1. Grafi.md"
+    },
+    {
+      "basename": "Untitled Diagram",
+      "path": "immagini/Algoritmi/Untitled Diagram.svg"
+    },
+    {
+      "basename": "9. Statistiche d'ordine",
+      "path": "Algoritmi/9. Statistiche d'ordine.md"
+    },
+    {
+      "basename": "8. Sorting in tempo lineare",
+      "path": "Algoritmi/8. Sorting in tempo lineare.md"
+    },
+    {
+      "basename": "5. Divide et impera",
+      "path": "Algoritmi/5. Divide et impera.md"
+    },
+    {
+      "basename": "a3. Alberi",
+      "path": "Algoritmi/a3. Alberi.md"
+    },
+    {
+      "basename": "topologicalsort-sinkuniversale-cfc",
+      "path": "Algoritmi/dispense/topologicalsort-sinkuniversale-cfc.pdf"
+    },
+    {
+      "basename": "Pasted image 20230623115534",
+      "path": "immagini/Fisica/Pasted image 20230623115534.png"
+    },
+    {
+      "basename": "Pasted image 20230623115144",
+      "path": "immagini/Fisica/Pasted image 20230623115144.png"
+    },
+    {
+      "basename": "Pasted image 20230623111928",
+      "path": "immagini/Fisica/Pasted image 20230623111928.png"
+    },
+    {
+      "basename": "Pasted image 20230623105931",
+      "path": "immagini/Fisica/Pasted image 20230623105931.png"
+    },
+    {
+      "basename": "Pasted image 20230623105723",
+      "path": "immagini/Fisica/Pasted image 20230623105723.png"
+    },
+    {
+      "basename": "Pasted image 20230622162458",
+      "path": "immagini/Fisica/Pasted image 20230622162458.png"
+    },
+    {
+      "basename": "Pasted image 20230621174208",
+      "path": "immagini/Fisica/Pasted image 20230621174208.png"
+    },
+    {
+      "basename": "Pasted image 20230616123119",
+      "path": "immagini/Algoritmi/Pasted image 20230616123119.png"
+    },
+    {
+      "basename": "Pasted image 20230615165741",
+      "path": "immagini/Algoritmi/Pasted image 20230615165741.png"
     },
     {
       "basename": "README",
       "path": "README.md"
+    },
+    {
+      "basename": "3. Cinematica",
+      "path": "Fisica/3. Cinematica.md"
+    },
+    {
+      "basename": "06_FisGen_LeggiNewton",
+      "path": "Fisica/dispense/06_FisGen_LeggiNewton.pdf"
+    },
+    {
+      "basename": "SET2-soluzioni",
+      "path": "Algoritmi/Esercizi Algoritmi/SET2-soluzioni.pdf"
+    },
+    {
+      "basename": "SET2",
+      "path": "Algoritmi/Esercizi Algoritmi/SET2.pdf"
+    },
+    {
+      "basename": "SET1_es_1_2",
+      "path": "Algoritmi/Esercizi Algoritmi/SET1_es_1_2.pdf"
+    },
+    {
+      "basename": "SET1_ESERCIZI",
+      "path": "Algoritmi/Esercizi Algoritmi/SET1_ESERCIZI.pdf"
+    },
+    {
+      "basename": "30-11-2022",
+      "path": "Algoritmi/Esercizi Algoritmi/30-11-2022.md"
+    },
+    {
+      "basename": "23-11-2022",
+      "path": "Algoritmi/Esercizi Algoritmi/23-11-2022.md"
+    },
+    {
+      "basename": "14-12-2022",
+      "path": "Algoritmi/Esercizi Algoritmi/14-12-2022.md"
+    },
+    {
+      "basename": "2. Analisi e studio",
+      "path": "Algoritmi/2. Analisi e studio.md"
+    },
+    {
+      "basename": "7. Vettori",
+      "path": "CalcNum/7. Vettori.md"
+    },
+    {
+      "basename": "4. Ammortizzazione",
+      "path": "Algoritmi/4. Ammortizzazione.md"
+    },
+    {
+      "basename": "3. Modello RAM (Random Access Machine)",
+      "path": "Algoritmi/3. Modello RAM (Random Access Machine).md"
+    },
+    {
+      "basename": "Dinamica del punto materiale",
+      "path": "Fisica/Dinamica del punto materiale.md"
+    },
+    {
+      "basename": "04_FisGen_Cinematica2D",
+      "path": "Fisica/dispense/04_FisGen_Cinematica2D.pdf"
+    },
+    {
+      "basename": "LaTeX",
+      "path": "LaTeX.md"
+    },
+    {
+      "basename": "2. Vettori",
+      "path": "Fisica/2. Vettori.md"
+    },
+    {
+      "basename": "Untitled Diagram",
+      "path": "immagini/Fisica/Untitled Diagram.svg"
     },
     {
       "basename": "rotation",
@@ -23,10 +167,6 @@
     {
       "basename": "rn-caso1",
       "path": "immagini/Algoritmi/rn-caso1.png"
-    },
-    {
-      "basename": "a3. Alberi",
-      "path": "Algoritmi/a3. Alberi.md"
     },
     {
       "basename": "binarytree3",
@@ -45,68 +185,8 @@
       "path": "immagini/Algoritmi/Radixsort.png"
     },
     {
-      "basename": "Algoritmi-merged",
-      "path": "Algoritmi-merged.md"
-    },
-    {
-      "basename": "a2. Grafi pesati",
-      "path": "Algoritmi/a2. Grafi pesati.md"
-    },
-    {
       "basename": "CamminiMinimiDaSorgenteSingola",
       "path": "Algoritmi/dispense/CamminiMinimiDaSorgenteSingola.pdf"
-    },
-    {
-      "basename": "a1. Grafi",
-      "path": "Algoritmi/a1. Grafi.md"
-    },
-    {
-      "basename": "SET1_es_1_2",
-      "path": "Algoritmi/Esercizi Algoritmi/SET1_es_1_2.pdf"
-    },
-    {
-      "basename": "30-11-2022",
-      "path": "Algoritmi/Esercizi Algoritmi/30-11-2022.md"
-    },
-    {
-      "basename": "23-11-2022",
-      "path": "Algoritmi/Esercizi Algoritmi/23-11-2022.md"
-    },
-    {
-      "basename": "14-12-2022",
-      "path": "Algoritmi/Esercizi Algoritmi/14-12-2022.md"
-    },
-    {
-      "basename": "9. Statistiche d'ordine",
-      "path": "Algoritmi/9. Statistiche d'ordine.md"
-    },
-    {
-      "basename": "8. Sorting in tempo lineare",
-      "path": "Algoritmi/8. Sorting in tempo lineare.md"
-    },
-    {
-      "basename": "7. Heapsort",
-      "path": "Algoritmi/7. Heapsort.md"
-    },
-    {
-      "basename": "6. Quicksort",
-      "path": "Algoritmi/6. Quicksort.md"
-    },
-    {
-      "basename": "5. Divide et impera",
-      "path": "Algoritmi/5. Divide et impera.md"
-    },
-    {
-      "basename": "4. Ammortizzazione",
-      "path": "Algoritmi/4. Ammortizzazione.md"
-    },
-    {
-      "basename": "3. Modello RAM (Random Access Machine)",
-      "path": "Algoritmi/3. Modello RAM (Random Access Machine).md"
-    },
-    {
-      "basename": "2. Analisi e studio",
-      "path": "Algoritmi/2. Analisi e studio.md"
     },
     {
       "basename": "1. Definizione di Algoritmo",
@@ -115,86 +195,6 @@
     {
       "basename": "Grafi1stWeek",
       "path": "Algoritmi/dispense/Grafi1stWeek.pdf"
-    },
-    {
-      "basename": "IntroShortestPathWeightedGraphs",
-      "path": "Algoritmi/dispense/IntroShortestPathWeightedGraphs.pdf"
-    },
-    {
-      "basename": "PotenzaGrafo",
-      "path": "Algoritmi/dispense/PotenzaGrafo.pdf"
-    },
-    {
-      "basename": "StatisticadOrdine",
-      "path": "Algoritmi/dispense/StatisticadOrdine.pdf"
-    },
-    {
-      "basename": "topologicalsort-sinkuniversale-cfc",
-      "path": "Algoritmi/dispense/topologicalsort-sinkuniversale-cfc.pdf"
-    },
-    {
-      "basename": "Strassen",
-      "path": "Algoritmi/dispense/Strassen.pdf"
-    },
-    {
-      "basename": "BFS",
-      "path": "Algoritmi/dispense/BFS.pdf"
-    },
-    {
-      "basename": "7. Vettori",
-      "path": "CalcNum/7. Vettori.md"
-    },
-    {
-      "basename": "0. Algoritmi",
-      "path": "Algoritmi/dispense/0. Algoritmi.md"
-    },
-    {
-      "basename": "dispense_cn_2021",
-      "path": "CalcNum/dispense/dispense_cn_2021.pdf"
-    },
-    {
-      "basename": "esercizi_cn_2021",
-      "path": "CalcNum/dispense/esercizi_cn_2021.pdf"
-    },
-    {
-      "basename": "lez_erroranalysis_2122",
-      "path": "CalcNum/dispense/lez_erroranalysis_2122.pdf"
-    },
-    {
-      "basename": "lezione1_cn__published",
-      "path": "CalcNum/dispense/lezione1_cn__published.pdf"
-    },
-    {
-      "basename": "2. Error Analysis",
-      "path": "CalcNum/2. Error Analysis.md"
-    },
-    {
-      "basename": "9. Altre Strutture",
-      "path": "CalcNum/9. Altre Strutture.md"
-    },
-    {
-      "basename": "Ingegneria-merged",
-      "path": "Ingegneria-merged.md"
-    },
-    {
-      "basename": "6. Valutazione di un polinomio",
-      "path": "CalcNum/6. Valutazione di un polinomio.md"
-    },
-    {
-      "basename": "12. Matrici tridiagonali",
-      "path": "CalcNum/12. Matrici tridiagonali.md"
-    },
-    {
-      "basename": "13. Fattorizzazione LU",
-      "path": "CalcNum/13. Fattorizzazione LU.md"
-    },
-    {
-      "basename": "13a. Esercizio",
-      "path": "CalcNum/13a. Esercizio.md"
-    },
-    {
-      "basename": "14. Variante del Massimo Pivot Parziale (GEPP)",
-      "path": "CalcNum/14. Variante del Massimo Pivot Parziale (GEPP).md"
     }
   ],
   "omittedPaths": [],

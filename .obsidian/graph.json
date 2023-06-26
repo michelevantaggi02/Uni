@@ -48,6 +48,27 @@
         "a": 1,
         "rgb": 65425
       }
+    },
+    {
+      "query": "path:Fisica",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    },
+    {
+      "query": "path:Ingegneria",
+      "color": {
+        "a": 1,
+        "rgb": 11621088
+      }
+    },
+    {
+      "query": "file:pdf",
+      "color": {
+        "a": 1,
+        "rgb": 14701233
+      }
     }
   ],
   "collapse-display": false,
@@ -60,6 +81,6 @@
   "repelStrength": 9.79166666666667,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.463191947460285,
+  "scale": 0.29755023498786454,
   "close": false
 }

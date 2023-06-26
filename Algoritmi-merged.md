@@ -408,6 +408,7 @@ Il tempo di esecuzione ammortizzato è O(1)
 3. Combina: fondi i 2 array ordinandoli
 $$T(n)=2T(\frac n2)+\Theta(n)$$
 
+
 # Master Theorem
 
 $$T(n) = aT(\frac nb) + f(n)$$
@@ -469,11 +470,8 @@ Il quicksort su basa sul processo a tre passi del [[5. Divide et impera]]:
 Il passo di divisione deve essere preceduto da una procedura di **PARTITION** che trova l'indice q che separa i due sottoarray.
 
 	quicksort(A,p,r):
-
-		//partizionare i sottoarray intorno al perno A[q]
-
+		//partizionare i sottoarray intorno al perno A[q
 		q = PARTITION(A,p,r) //posizione del perno nell'insieme ordinato
-
 		
 		quicksort(A,p,q-1)
 		quicksort(A,q+1,r)
@@ -934,7 +932,9 @@ Tutti gli elementi maggiori o uguali della mediana vanno a finire sotto, tutti q
 
 Per la proprietà transitiva, tutti gli elementi del sottogruppo sono minori o uguali alla mediana (o maggiori o uguali).
 
-	cerca(A, s, e, i):
+	selection(A, s, e, i):
+		if s == e:
+			return e
 		//formo gruppi da 5
 		//ordino ogni gruppo
 		//cerco la MM
@@ -1006,7 +1006,6 @@ title: Trovare l'elemtno con rango 10 in $A \cup B$
 
 ```
 
-e
 
 # a1. Grafi
 
@@ -1187,8 +1186,6 @@ Ogni volta che tocco un vertice mai esplorato vado a esplorare tutti i vertici a
 
 Esplorazione di $G,\; v \in V$, visibilità di $v$ in $G$
 
-Immagine 13-03-2023
-
 	dfs-visit(G, v, time):
 		color(v) = gray
 		time++;
@@ -1235,7 +1232,7 @@ title: Chiedere a qualcuno slide 12 [[topologicalsort-sinkuniversale-cfc.pdf]]
 ``````ad-question
 
 
-Cercare un sync in G rappresentato dalla matrice delle adiacenze
+Cercare un sink in G rappresentato dalla matrice delle adiacenze
 
 ```ad-check
 title: Soluzione semplice (non cerca sink universale)
@@ -1243,7 +1240,7 @@ title: Soluzione semplice (non cerca sink universale)
 	t = 1
 	trovato = false
 	while t < |v| and !trovato:
-		if sink-test(G, t):
+		if !sink-test(G, t):
 			t++
 		else:
 			trovato = true
@@ -1368,6 +1365,7 @@ Grafo con tutti gli archi invertiti
 ho trovato un albero radicato in 1
 
 ```
+
 |       | 1   | 2   | 3   | 4   | 5   | 6   |
 | ----- | --- | --- | --- | --- | --- | --- |
 | color | g   | g   | g   | g   | g   | g   |
@@ -1579,6 +1577,8 @@ Nuova Operazione per Ri-etichettare
 
 ## Dijkstra
 
+Il procedimento ricorda la [[a1. Grafi#Visita in Profondità (DFS-visit)|DFS]]
+
 	dijkstra(G, w*E->R+, s):
 		for v in V:
 			color(v) = white
@@ -1623,8 +1623,8 @@ Senza mantenere una corrispondenza univoca tra i vertici del grafo e le loro pos
 			d(v) = + infinito
 			P(v) = nil
 		d(s) = 0
-		sol = 0
-		H = makeHeap(d(v) for v in V)
+		sol = {}
+		H = makeMinHeap(d(v) for v in V)
 		while H in not empty:
 			u = extract_min(H)
 			for v in Adj(u) and v not in sol:
@@ -1930,19 +1930,19 @@ Si applica se $C$ non ha archi rossi, colora di rosso l'arco di peso massimo in 
 Soddisfa il seguente invariante dopo ogni scelta: $\exists$ MST che contiene tutti gli archi blue e nessun arco rosso
 
 	while exists e in E not colored:
-		applica la regola blue o rossaa
+		applica la regola blue o rossa
 	return MST = {e : color(e) = blue}
 
 ## Algoritmo Di Kruskal
 
-- ordino archi in senso non decrescente rispetto $w(e)$ in L:
+- ordino gli archi in senso crescente rispetto $w(e)$ in L:
 - Foresta di alberi costituiti da un solo vertice
 
 Visita tutti gli archi in L e per ogni arco procede come segue:
 
 $\forall e = (v_1, v_2)$
 
-- se $v_1$ e $v_2$ __non__ appartengolo allo stesso albero della foresta -> coloro $e$ di blue
+- se $v_1$ e $v_2$ __non__ appartengono allo stesso albero della foresta -> coloro $e$ di blue
 $$MST = MST \cup e=(v_1,v_2)$$
 - se $v_1$ e $v_2$ appartengono allo stesso albero -> coloro $e$ di rosso e lo escludo dal MST
 
@@ -1961,7 +1961,7 @@ $$MST = MST \cup e=(v_1,v_2)$$
 	kruskal(G = (V, E); w):
 		L = archi ordinati
 		MST = empty
-		Crea |V| insiemi, un insieme per ciascun verticce
+		Crea |V| insiemi, un insieme per ciascun vertice
 		for e = (vi, vj) nell'ordine L:
 			if find(vi) == find(vj):
 				e = (vi, vj) rosso
@@ -2025,7 +2025,7 @@ Dato un albero T, la sua radice ($T.root$) ha padre $x.p = NIL$.
 
 I figli a sinistra e a destra sono rappresentati dagli attributi $left$ e $right$, se non hanno figli l'attributo è $NIL$.
 
-![[Pasted image 20230612114835.png|center]]
+![[binarytree.png|center]]
 
 ```
 
@@ -2254,3 +2254,176 @@ Lo zio di $z$ ($y$) è nero e $z$ è un figlio sinistro, si cambiano i colori e 
 
 ![[esempio_rn.png|center]]
 ```
+
+
+# a4. Tabelle Hash
+
+
+----
+
+Molte applicazioni richiedono un insieme dinamico che supporta le _operazioni dizionario_ `INSERT, SEARCH, DELETE`.
+
+Una struttura affidabile per implementare i dizionari sono le __tabelle hash__, che anche se nel caso pessimo performano come le linked list, nella pratica sono molto veloci, impiegando un tempo medio di $O(1)$.
+
+# Tabelle Ad Accesso Diretto
+
+è una tecnica semplice che funziona quando l'insieme totale delle chiavi possibili ($U = \{0,1,...,m-1\}$) è piccolo. Per rappresentare l'insieme dinamico si usa un'array (_tabella ad accesso diretto_) denotata da $T[0:m-1]$, ogni posizione corrisponde ad una possibile chiave di $U$
+
+![[direct-access.png|center]]
+
+## Operazioni
+
+Le operazioni disponibili impiegano tutte $O(1)$:
+
+	DIRECT-ACCESS-SEARCH(T, k):
+		return T[k]
+
+	DIRECT-ACCESS-INSERT(T, x):
+		T[x.key] = x
+
+	DIRECT-ACCESS-DELETE(T, x):
+		T[x.key] = NIL
+
+# Tabelle Hash
+
+Il problema delle [[#Tabelle Ad Accesso Diretto]] è che dipendono dalla dimensione di $U$, che se supera la dimensione massima della memoria diventa impossibile da rappresentare. Un secondo problema è che l'insieme di chiavi effettivamente usate potrebbe essere molto più piccolo di $U$, e quindi la maggior parte dello spazio utilizzato sarebbe inutile.
+
+Una __tabella hash__ richiede molto meno spazio di una tabella ad accesso diretto, con un'utilizzo di memoria di $\Theta (|K|)$ mantenendo il tempo di ricerca di $O(1)$.
+
+```ad-important
+
+La "fregatura" consiste nel tempo di ricerca che rappresenta il caso __medio__, e non il __peggiore__
+
+```
+
+## Funzione Di Hash
+
+Nell'accesso diretto l'elemento con chiave k viene memorizzato nello slot k, mentre nelle tabelle hash si usa una __funzione di hash__ ($h$) per calcolare il numero di slot di $k$, così che l'elemento vada nello slot $h(k)$.
+
+In questo modo si riduce la dimensione dell'array, che invece di avere dimensione $|U|$ avrà dimensione $m$.
+
+```ad-example
+
+Un esempio semplice, ma non molto buono, è la funzione: $$h(k) = k \mod m$$
+C'è però un problema: due chiavi potrebbero puntare allo stesso slot, chiameremo questa situazione __collisione__
+
+```
+
+## Collisioni
+
+La soluzione ideale sarebbe di evitare le collisioni, scegliendo magari una funzione di hash adatta.
+
+Un'altra idea è quella di far sembrare $h$ "casuale", ma ricordandosi che la funzione deve essere __deterministica__, ovvero che dato lo stesso $k$ la funzione deve avere sempre lo stesso risultato.
+
+Dato che $|U|  > m$ ci saranno sempre almeno due chiavi che avranno lo stesso valore hash, rendendo impossibile evitare le collisioni.
+
+```ad-check
+
+Una funzione ideale $h$, avrebbe, per ogni possibile $k$, un output che sia un elemento che sia scelto in modo casuale e indipendente nel range $\{0,1,...,m-1\}$, una volta scelto il valore ogni chiamata  $h(k)$ ritorna sempre quel valore
+
+```
+
+### Concatenamento
+
+Consiste nell'usare delle linked list per ogni slot dell'array, ogni volta che la funzione di hashing genera lo stesso risultato, l'elemento viene aggiunto alla linked list di quella chiave.
+
+![[Pasted image 20230615165741.png|center]]
+
+Quando le collisioni vengono risolte attraverso il concatenamento, le operazioni di dizionario sono semplici da implementare, e hanno un tempo di esecuzione di $O(1)$:
+
+- L'inserimento presuppone che l'elemento da inserire non sia nella lista, se lo è bisogna cercare a scapito di un costo aggiuntivo
+- La ricerca nel tempo peggiore è proporzionale alla lunghezza della lista
+- L'eliminazione impiega $O(1)$ se prende come input l'elemento $x$ e non la sua chiave, rendendo non necessaria la ricerca.
+
+```ad-question
+title: Quanto impiega l'hashing con concatenamento?
+
+Il tempo di esecuzione __peggiore__ è nell'ordine di $\Theta(n)$, e richiede che tutti gli $n$ elementi vadano sullo stesso slot creando una lista lunga $n$.
+
+Il tempo di esecuzione __medio__ dipende da quanto bene la funzione $h$ distribuisce le chiavi tra gli slot, arrivando ad una possibilità che due chiavi collidano di $1/m$ 
+
+```
+
+```ad-teorema
+Dato il fattore di caricamento $\alpha = n/m$
+
+In una tabella hash le cui collisioni sono risolte tramite concatenamento, la ricerca in media impiega $\Theta(1 + \alpha)$, assumendo una funzione di hashing uniforme e indipendente
+
+```
+
+### Indirizzamento Aperto
+
+Descriviamo l'indirizzamento aperto come un metodo per risolvere le collisioni che __non utilizza spazio__ al di fuori della tabella hash.
+
+- Tutti gli elementi occupano la tabella stessa
+- Ogni valore della tabella contiene un elemento dell'insieme dinamico oppure NIL
+- Nessuna lista o altri elementi sono memorizzati fuori la tabella
+- La tabella può essere riempita così che non possono essere inseriti altri elementi
+- Una conseguenza è che il fattore di caricamento $\alpha$ non può mai superare 1
+
+Le collisioni sono gestite in questo modo: quando un elemento deve essere inserito, viene posizionato nella sua "prima-scelta" (first-choice) se possibile. Se non possibile (la posizione è occupata), il nuovo elemento viene inserito nella sua "second-choice", e così via fino a che non si trova uno spazio vuoto dove poter piazzare il nuovo elemento.
+
+#### Ricerca
+
+Per __cercare__ un elemento bisogna esaminare il suo slot preferito per diminuire le preferenze fino a che non trovi l'elemento desiderato, oppure uno slot vuoto.
+
+La procedura __HASH-SEARCH__ richiede in input una tabella e una chiave, ritornando la posizione $q$ della chiave, oppure NIL se la chiave non è presente.
+
+#### Inserimento
+
+Per __inserire__ un elemento bisogna esaminare successivamente (__probe__) la tabella fino a che non troviamo uno slot vuoto in cui inserire la chiave.
+
+Invece di utilizzare un ordine finito $0,1,...,m-1$ (che impiega $\Theta (n)$), la sequenza di posizioni esaminate dipende dalla chiave inserita, che in aggiunta ad un probe number che indica quale slot controllare, rendendo la funzione:$$h: U \times \{0,1,...,m-1\} \to 0,1,...,m-1$$
+
+```ad-important
+
+L'indirizzamento aperto richiede che per ogni chiave $k$, la sequenza di probe $< h(k, 0), h(k, 1),..., h(k, m-1) >$ sia una permutazione di $\{0,1,...,m-1\}$, così che ogni posizione possa essere considerata come slot per una nuova chiave
+
+```
+
+	HASH-INSERT(T, k):
+		i = 0
+		do:
+			q = h(k, i)
+			if T[q] == NIL:
+				T[q] = k
+				return q
+			else:
+				i++
+		while i != m
+		
+		error "hash table overflow"
+
+La procedura di inserimento assume che tutti gli elementi della tabella hash siano chiavi senza informazioni satellite, e da per scontato che l'elemento da inserire non sia già presente nella tabella.
+
+#### Eliminazione
+
+Eliminare un elemento dalla tabella può essere complicato, perché se si imposta semplicemente come vuoto allora la ricerca potrebbe fermarsi prima di trovare un qualche elemento che è stato inserito quando lo slot era ancora occupato.
+
+Per risolvere questo problema si segna lo slot come DELETED invece che NIL, così che HASH-INSERT lo possa trattare come slot vuoto in cui poter inserire un nuovo elemento, mentre HASH-SEARCH lo tratta come slot da saltare per controllare le posizioni successive.
+
+#### Doppio Hashing
+
+Assumendo un hashing indipendente e uniforme, la sequenza di ogni chiave può essere una delle $m!$ permutazioni di $\{0,1,...,m-1\}$, ma implementare un hashing del genere è molto difficile, infatti nella pratica vengono usate delle approssimazioni, come il doppio hashing.
+
+Il doppio hashing offre uno dei migliori metodi per l'indirizzamento aperto, dato che le permutazioni prodotte hanno molte delle caratteristiche delle permutazioni scelte casualmente.
+
+Il doppio hashing usa una funzione hash nella forma: $$h(k, i) = (h_1(k) + i \cdot h_2(k)) \mod m$$
+
+Dove $h_1$ e $h_2$ sono funzioni hash ausiliari.
+
+```ad-example
+Dati una tabella di $m = 13$, $h_1(k) = k \mod 13$ e $h_2(k) = 1 +  (k \mod 11)$
+
+![[Pasted image 20230616123119.png|center]]
+
+```
+
+#### Linear Probing
+
+Linear probing è un caso speciale di doppio hashing, è il modo più semplice per risolvere le collisioni in indirizzamento aperto.
+
+Se lo slot $T[h_1(k)]$ è pieno, allora si controlla $T[h_1(k) + 1]$ e così via fino ad arrivare alla fine, si ricomincia poi da $T[0]$ e si controlla fino a $T[h_1(k) -1]$, che se è pieno implica che la tabella è piena.
+
+è un caso speciale di doppio hashing in quanto si può scrivere che $h_2(k) = 1$, rendendo la funzione finale $$h(k) = (h_1(k)+i) \mod m$$
+	
