@@ -86,4 +86,4 @@ U_{nn}x_n=\tilde{b_n}\\
 
 3(n-1) + 1 operazioni $\sim$ 3n operazioni
 
-[[13. Fattorizzazione LU]]
+[[a3. Fattorizzazione LU]]

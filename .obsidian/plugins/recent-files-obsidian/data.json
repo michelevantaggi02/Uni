@@ -1,8 +1,128 @@
 {
   "recentFiles": [
     {
-      "basename": "a4. Tabelle Hash",
-      "path": "Algoritmi/a4. Tabelle Hash.md"
+      "basename": "a7. Interpolazione",
+      "path": "CalcNum/a7. Interpolazione.md"
+    },
+    {
+      "basename": "a4. Variante del Massimo Pivot Parziale (GEPP)",
+      "path": "CalcNum/a4. Variante del Massimo Pivot Parziale (GEPP).md"
+    },
+    {
+      "basename": "3. Errore Per Le Funzioni Razionali",
+      "path": "CalcNum/3. Errore Per Le Funzioni Razionali.md"
+    },
+    {
+      "basename": "4. Problemi Ben Posti",
+      "path": "CalcNum/4. Problemi Ben Posti.md"
+    },
+    {
+      "basename": "a1. Algoritmo di Gauss",
+      "path": "CalcNum/a1. Algoritmo di Gauss.md"
+    },
+    {
+      "basename": "CalcNum-merged",
+      "path": "CalcNum-merged.md"
+    },
+    {
+      "basename": "esercizi_cn_2021",
+      "path": "CalcNum/dispense/esercizi_cn_2021.pdf"
+    },
+    {
+      "basename": "Calcolo numerico",
+      "path": "CalcNum/Calcolo numerico.pdf"
+    },
+    {
+      "basename": "a6. Modello della corda elastica",
+      "path": "CalcNum/a6. Modello della corda elastica.md"
+    },
+    {
+      "basename": "a5. Curva di Bezier",
+      "path": "CalcNum/a5. Curva di Bezier.md"
+    },
+    {
+      "basename": "a3a. Esercizio",
+      "path": "CalcNum/a3a. Esercizio.md"
+    },
+    {
+      "basename": "a3. Fattorizzazione LU",
+      "path": "CalcNum/a3. Fattorizzazione LU.md"
+    },
+    {
+      "basename": "a2. Matrici tridiagonali",
+      "path": "CalcNum/a2. Matrici tridiagonali.md"
+    },
+    {
+      "basename": "a0. Sistemi lineari",
+      "path": "CalcNum/a0. Sistemi lineari.md"
+    },
+    {
+      "basename": "dispense_cn_2021",
+      "path": "CalcNum/dispense/dispense_cn_2021.pdf"
+    },
+    {
+      "basename": "LaTeX",
+      "path": "LaTeX.md"
+    },
+    {
+      "basename": "lez_erroranalysis_2122",
+      "path": "CalcNum/dispense/lez_erroranalysis_2122.pdf"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "percorso_da_sorgente",
+      "path": "immagini/Algoritmi/percorso_da_sorgente.svg"
+    },
+    {
+      "basename": "Pasted image 20230125111411",
+      "path": "immagini/CalcNum/Pasted image 20230125111411.png"
+    },
+    {
+      "basename": "spazi",
+      "path": "immagini/Scorciatoie latex/spazi.png"
+    },
+    {
+      "basename": "sommatorie",
+      "path": "immagini/Scorciatoie latex/sommatorie.png"
+    },
+    {
+      "basename": "relazioni_binari",
+      "path": "immagini/Scorciatoie latex/relazioni_binari.png"
+    },
+    {
+      "basename": "6. Valutazione di un polinomio",
+      "path": "CalcNum/6. Valutazione di un polinomio.md"
+    },
+    {
+      "basename": "7. Vettori",
+      "path": "CalcNum/7. Vettori.md"
+    },
+    {
+      "basename": "9. Altre Strutture",
+      "path": "CalcNum/9. Altre Strutture.md"
+    },
+    {
+      "basename": "8. Matrici",
+      "path": "CalcNum/8. Matrici.md"
+    },
+    {
+      "basename": "2. Error Analysis",
+      "path": "CalcNum/2. Error Analysis.md"
+    },
+    {
+      "basename": "0. Introduzione",
+      "path": "CalcNum/0. Introduzione.md"
+    },
+    {
+      "basename": "1. Stabilità numerica",
+      "path": "CalcNum/1. Stabilità numerica.md"
+    },
+    {
+      "basename": "5. Derivata di più variabili",
+      "path": "CalcNum/5. Derivata di più variabili.md"
     },
     {
       "basename": "a2. Grafi pesati",
@@ -13,8 +133,40 @@
       "path": "Algoritmi/6. Quicksort.md"
     },
     {
+      "basename": "5. Divide et impera",
+      "path": "Algoritmi/5. Divide et impera.md"
+    },
+    {
+      "basename": "4. Ammortizzazione",
+      "path": "Algoritmi/4. Ammortizzazione.md"
+    },
+    {
+      "basename": "3. Modello RAM (Random Access Machine)",
+      "path": "Algoritmi/3. Modello RAM (Random Access Machine).md"
+    },
+    {
+      "basename": "2. Analisi e studio",
+      "path": "Algoritmi/2. Analisi e studio.md"
+    },
+    {
       "basename": "7. Heapsort",
       "path": "Algoritmi/7. Heapsort.md"
+    },
+    {
+      "basename": "8. Sorting in tempo lineare",
+      "path": "Algoritmi/8. Sorting in tempo lineare.md"
+    },
+    {
+      "basename": "9. Statistiche d'ordine",
+      "path": "Algoritmi/9. Statistiche d'ordine.md"
+    },
+    {
+      "basename": "a3. Alberi",
+      "path": "Algoritmi/a3. Alberi.md"
+    },
+    {
+      "basename": "a4. Tabelle Hash",
+      "path": "Algoritmi/a4. Tabelle Hash.md"
     },
     {
       "basename": "a1. Grafi",
@@ -23,22 +175,6 @@
     {
       "basename": "Untitled Diagram",
       "path": "immagini/Algoritmi/Untitled Diagram.svg"
-    },
-    {
-      "basename": "9. Statistiche d'ordine",
-      "path": "Algoritmi/9. Statistiche d'ordine.md"
-    },
-    {
-      "basename": "8. Sorting in tempo lineare",
-      "path": "Algoritmi/8. Sorting in tempo lineare.md"
-    },
-    {
-      "basename": "5. Divide et impera",
-      "path": "Algoritmi/5. Divide et impera.md"
-    },
-    {
-      "basename": "a3. Alberi",
-      "path": "Algoritmi/a3. Alberi.md"
     },
     {
       "basename": "topologicalsort-sinkuniversale-cfc",
@@ -59,142 +195,6 @@
     {
       "basename": "Pasted image 20230623105931",
       "path": "immagini/Fisica/Pasted image 20230623105931.png"
-    },
-    {
-      "basename": "Pasted image 20230623105723",
-      "path": "immagini/Fisica/Pasted image 20230623105723.png"
-    },
-    {
-      "basename": "Pasted image 20230622162458",
-      "path": "immagini/Fisica/Pasted image 20230622162458.png"
-    },
-    {
-      "basename": "Pasted image 20230621174208",
-      "path": "immagini/Fisica/Pasted image 20230621174208.png"
-    },
-    {
-      "basename": "Pasted image 20230616123119",
-      "path": "immagini/Algoritmi/Pasted image 20230616123119.png"
-    },
-    {
-      "basename": "Pasted image 20230615165741",
-      "path": "immagini/Algoritmi/Pasted image 20230615165741.png"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
-      "basename": "3. Cinematica",
-      "path": "Fisica/3. Cinematica.md"
-    },
-    {
-      "basename": "06_FisGen_LeggiNewton",
-      "path": "Fisica/dispense/06_FisGen_LeggiNewton.pdf"
-    },
-    {
-      "basename": "SET2-soluzioni",
-      "path": "Algoritmi/Esercizi Algoritmi/SET2-soluzioni.pdf"
-    },
-    {
-      "basename": "SET2",
-      "path": "Algoritmi/Esercizi Algoritmi/SET2.pdf"
-    },
-    {
-      "basename": "SET1_es_1_2",
-      "path": "Algoritmi/Esercizi Algoritmi/SET1_es_1_2.pdf"
-    },
-    {
-      "basename": "SET1_ESERCIZI",
-      "path": "Algoritmi/Esercizi Algoritmi/SET1_ESERCIZI.pdf"
-    },
-    {
-      "basename": "30-11-2022",
-      "path": "Algoritmi/Esercizi Algoritmi/30-11-2022.md"
-    },
-    {
-      "basename": "23-11-2022",
-      "path": "Algoritmi/Esercizi Algoritmi/23-11-2022.md"
-    },
-    {
-      "basename": "14-12-2022",
-      "path": "Algoritmi/Esercizi Algoritmi/14-12-2022.md"
-    },
-    {
-      "basename": "2. Analisi e studio",
-      "path": "Algoritmi/2. Analisi e studio.md"
-    },
-    {
-      "basename": "7. Vettori",
-      "path": "CalcNum/7. Vettori.md"
-    },
-    {
-      "basename": "4. Ammortizzazione",
-      "path": "Algoritmi/4. Ammortizzazione.md"
-    },
-    {
-      "basename": "3. Modello RAM (Random Access Machine)",
-      "path": "Algoritmi/3. Modello RAM (Random Access Machine).md"
-    },
-    {
-      "basename": "Dinamica del punto materiale",
-      "path": "Fisica/Dinamica del punto materiale.md"
-    },
-    {
-      "basename": "04_FisGen_Cinematica2D",
-      "path": "Fisica/dispense/04_FisGen_Cinematica2D.pdf"
-    },
-    {
-      "basename": "LaTeX",
-      "path": "LaTeX.md"
-    },
-    {
-      "basename": "2. Vettori",
-      "path": "Fisica/2. Vettori.md"
-    },
-    {
-      "basename": "Untitled Diagram",
-      "path": "immagini/Fisica/Untitled Diagram.svg"
-    },
-    {
-      "basename": "rotation",
-      "path": "immagini/Algoritmi/rotation.png"
-    },
-    {
-      "basename": "rn-caso23",
-      "path": "immagini/Algoritmi/rn-caso23.png"
-    },
-    {
-      "basename": "rn-caso1",
-      "path": "immagini/Algoritmi/rn-caso1.png"
-    },
-    {
-      "basename": "binarytree3",
-      "path": "immagini/Algoritmi/binarytree3.png"
-    },
-    {
-      "basename": "binarytree2",
-      "path": "immagini/Algoritmi/binarytree2.png"
-    },
-    {
-      "basename": "binarytree",
-      "path": "immagini/Algoritmi/binarytree.png"
-    },
-    {
-      "basename": "Radixsort",
-      "path": "immagini/Algoritmi/Radixsort.png"
-    },
-    {
-      "basename": "CamminiMinimiDaSorgenteSingola",
-      "path": "Algoritmi/dispense/CamminiMinimiDaSorgenteSingola.pdf"
-    },
-    {
-      "basename": "1. Definizione di Algoritmo",
-      "path": "Algoritmi/1. Definizione di Algoritmo.md"
-    },
-    {
-      "basename": "Grafi1stWeek",
-      "path": "Algoritmi/dispense/Grafi1stWeek.pdf"
     }
   ],
   "omittedPaths": [],

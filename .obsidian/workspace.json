@@ -22,65 +22,35 @@
             }
           },
           {
-            "id": "cf6c58adbd34d305",
+            "id": "2e90860f7a666cd2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algoritmi/a1. Grafi.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "33716814a1c0e90b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algoritmi/a4. Tabelle Hash.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "77a7fa799ffec9ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algoritmi/a2. Grafi pesati.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4c3abb9e038e2c2c",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Algoritmi/dispense/topologicalsort-sinkuniversale-cfc.pdf"
-              }
-            }
-          },
-          {
-            "id": "ca9bfd84053077f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
+                "file": "CalcNum/a7. Interpolazione.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
+      },
+      {
+        "id": "f14f04ede03bf0b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "29a033b0561cf79c",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "CalcNum/dispense/esercizi_cn_2021.pdf"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -162,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algoritmi/a4. Tabelle Hash.md",
+                "file": "CalcNum/a7. Interpolazione.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algoritmi/a4. Tabelle Hash.md",
+                "file": "CalcNum/a7. Interpolazione.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -202,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algoritmi/a4. Tabelle Hash.md"
+                "file": "CalcNum/a7. Interpolazione.md"
               }
             }
           },
@@ -257,52 +227,53 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ae23ca479e93557b",
+  "active": "2e90860f7a666cd2",
   "lastOpenFiles": [
-    "Algoritmi-merged.md",
+    "CalcNum/a4. Variante del Massimo Pivot Parziale (GEPP).md",
+    "CalcNum/3. Errore Per Le Funzioni Razionali.md",
+    "CalcNum/4. Problemi Ben Posti.md",
+    "CalcNum/a1. Algoritmo di Gauss.md",
+    "CalcNum-merged.md",
+    "11. Algoritmo di Gauss.md",
+    "CalcNum/dispense/esercizi_cn_2021.pdf",
+    "CalcNum/Calcolo numerico.pdf",
+    "CalcNum/a7. Interpolazione.md",
+    "CalcNum/a6. Modello della corda elastica.md",
+    "CalcNum/a5. Curva di Bezier.md",
+    "CalcNum/a3a. Esercizio.md",
+    "CalcNum/a3. Fattorizzazione LU.md",
+    "CalcNum/a2. Matrici tridiagonali.md",
+    "CalcNum/a0. Sistemi lineari.md",
+    "CalcNum/dispense/dispense_cn_2021.pdf",
+    "LaTeX.md",
+    "CalcNum/dispense/lez_erroranalysis_2122.pdf",
+    "README.md",
+    "immagini/Algoritmi/percorso_da_sorgente.svg",
+    "immagini/CalcNum/Pasted image 20230125111411.png",
+    "immagini/Scorciatoie latex/Pasted image 20230125105753.png",
+    "immagini/Scorciatoie latex/Pasted image 20230125105754.png",
+    "immagini/Scorciatoie latex/spazi.png",
+    "immagini/Scorciatoie latex/sommatorie.png",
+    "immagini/Scorciatoie latex/relazioni_binari.png",
+    "CalcNum/6. Valutazione di un polinomio.md",
+    "CalcNum/7. Vettori.md",
+    "CalcNum/9. Altre Strutture.md",
+    "CalcNum/8. Matrici.md",
+    "CalcNum/2. Error Analysis.md",
+    "CalcNum/0. Introduzione.md",
+    "CalcNum/1. Stabilità numerica.md",
+    "CalcNum/5. Derivata di più variabili.md",
     "Algoritmi/a2. Grafi pesati.md",
     "Algoritmi/6. Quicksort.md",
-    "Algoritmi/7. Heapsort.md",
-    "Algoritmi/a1. Grafi.md",
-    "immagini/Algoritmi/Untitled Diagram.svg",
-    "Algoritmi/9. Statistiche d'ordine.md",
-    "Algoritmi/8. Sorting in tempo lineare.md",
     "Algoritmi/5. Divide et impera.md",
-    "Algoritmi/a4. Tabelle Hash.md",
-    "Algoritmi/a3. Alberi.md",
+    "immagini/Algoritmi/Untitled Diagram.svg",
     "Algoritmi/dispense/topologicalsort-sinkuniversale-cfc.pdf",
     "immagini/Fisica/Pasted image 20230623115534.png",
     "immagini/Fisica/Pasted image 20230623115144.png",
-    "immagini/Fisica/Pasted image 20230623111928.png",
-    "immagini/Pasted image 20230623115127.png",
-    "immagini/Fisica/Pasted image 20230623105931.png",
-    "immagini/Fisica/Pasted image 20230623105723.png",
-    "immagini/Fisica/Pasted image 20230622162458.png",
-    "immagini/Fisica/Pasted image 20230621174208.png",
-    "immagini/Algoritmi/Pasted image 20230616123119.png",
-    "README.md",
-    "Fisica/3. Cinematica.md",
-    "Pasted image 20230612114835.png.md",
     "Fisica/dispense/06_FisGen_LeggiNewton.pdf",
     "Algoritmi/Esercizi Algoritmi/SET2-soluzioni.pdf",
     "Algoritmi/Esercizi Algoritmi/SET2.pdf",
     "Algoritmi/Esercizi Algoritmi/SET1_es_1_2.pdf",
-    "Algoritmi/Esercizi Algoritmi/SET1_ESERCIZI.pdf",
-    "Algoritmi/Esercizi Algoritmi/30-11-2022.md",
-    "Algoritmi/Esercizi Algoritmi/23-11-2022.md",
-    "Algoritmi/Esercizi Algoritmi/14-12-2022.md",
-    "Algoritmi/2. Analisi e studio.md",
-    "CalcNum/7. Vettori.md",
-    "Algoritmi/4. Ammortizzazione.md",
-    "Algoritmi/3. Modello RAM (Random Access Machine).md",
-    "Fisica/Dinamica del punto materiale.md",
-    "Fisica/dispense/04_FisGen_Cinematica2D.pdf",
-    "LaTeX.md",
-    "Fisica/2. Vettori.md",
-    "Ingegneria.md",
-    "tree.md",
-    "Algoritmi/dispense/document.pdf",
-    "Algoritmi/dispense/CamminiMinimiDaSorgenteSingola.pdf",
-    "Algoritmi/dispense/Grafi1stWeek.pdf"
+    "Algoritmi/Esercizi Algoritmi/SET1_ESERCIZI.pdf"
   ]
 }
