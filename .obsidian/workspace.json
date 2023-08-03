@@ -20,35 +20,6 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "2e90860f7a666cd2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CalcNum/a7. Interpolazione.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "f14f04ede03bf0b5",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "29a033b0561cf79c",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "CalcNum/dispense/esercizi_cn_2021.pdf"
-              }
-            }
           }
         ]
       }
@@ -64,7 +35,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ae23ca479e93557b",
+            "id": "bfdcbd01259c69b7",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -86,14 +57,6 @@
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
-            }
-          },
-          {
-            "id": "4dcee2cfa8c5c47a",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
             }
           },
           {
@@ -132,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CalcNum/a7. Interpolazione.md",
+                "file": "LaTeX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CalcNum/a7. Interpolazione.md",
+                "file": "LaTeX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -172,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CalcNum/a7. Interpolazione.md"
+                "file": "LaTeX.md"
               }
             }
           },
@@ -213,7 +176,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 306
+    "width": 304.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -227,53 +190,53 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2e90860f7a666cd2",
+  "active": "07a23f7b332d1814",
   "lastOpenFiles": [
+    "Ingegneria/dispense/IngSW_DP_00_DesignPattern2022_2023.pdf",
+    "Ingegneria/relazione/RELAZIONE.pdf",
+    "Ingegneria/2. Modelli produttivi.md",
+    "Ingegneria/1. Qualità del software.md",
+    "Ingegneria/3. Qualità.md",
+    "Ingegneria/dispense/IngSW_DP_04_DesignPatternComportamentali.pdf",
+    "Ingegneria/dispense/IngSW_DP_03_DesignPatternStrutturali.pdf",
+    "Ingegneria/dispense/IngSW_DP_02_DesignPatternCreazionaliDiagram.pdf",
+    "Ingegneria/dispense/IngSW_DP_01_IntroDesignPattern.pdf",
+    "Ingegneria/dispense/IngSW_UML_01_Intro_UML.pdf",
+    "LaTeX.md",
+    "Ingegneria/8. Diagrammi di sequenza.md",
+    "Ingegneria/test-merged.pdf",
+    "Ingegneria/relazione/TEST.pdf",
+    "Ingegneria/relazione/lu1188619js3z.tmp",
+    "Ingegneria/relazione/TEST.odt",
+    "Ingegneria/test-merged.md",
+    "Ingegneria/relazione/Diagramma attivita.drawio.png",
+    "Ingegneria/relazione/Diagramma Stato.drawio.png",
+    "Ingegneria/9. Diagrammi di stato.md",
+    "Ingegneria/relazione/Diagramma sequenza.drawio.png",
+    "Ingegneria/relazione/Diagramma Classi.png",
+    "Ingegneria/relazione/Diagramma Classi.drawio.png",
+    "Ingegneria/5. Casi D'uso.md",
+    "Ingegneria/7. Diagramma Delle Classi.md",
+    "Ingegneria/relazione/Use Case.svg",
+    "Ingegneria/relazione/Use Case.png",
+    "Ingegneria/relazione/Use Case.drawio(1).png",
+    "Ingegneria/relazione/RELAZIONE.md",
+    "Diritto/2. Le prove.md",
+    "Untitled Diagram.svg",
+    "Diritto/4. DPO.md",
+    "Diritto/3. Regolamento europeo sulla protezione dei dati.md",
+    "Diritto/1. Informatica e diritto.md",
+    "Diritto/0. Diritto dell'informatica.md",
+    "CalcNum/a7. Interpolazione.md",
     "CalcNum/a4. Variante del Massimo Pivot Parziale (GEPP).md",
     "CalcNum/3. Errore Per Le Funzioni Razionali.md",
     "CalcNum/4. Problemi Ben Posti.md",
     "CalcNum/a1. Algoritmo di Gauss.md",
     "CalcNum-merged.md",
     "11. Algoritmo di Gauss.md",
-    "CalcNum/dispense/esercizi_cn_2021.pdf",
-    "CalcNum/Calcolo numerico.pdf",
-    "CalcNum/a7. Interpolazione.md",
     "CalcNum/a6. Modello della corda elastica.md",
     "CalcNum/a5. Curva di Bezier.md",
     "CalcNum/a3a. Esercizio.md",
-    "CalcNum/a3. Fattorizzazione LU.md",
-    "CalcNum/a2. Matrici tridiagonali.md",
-    "CalcNum/a0. Sistemi lineari.md",
-    "CalcNum/dispense/dispense_cn_2021.pdf",
-    "LaTeX.md",
-    "CalcNum/dispense/lez_erroranalysis_2122.pdf",
-    "README.md",
-    "immagini/Algoritmi/percorso_da_sorgente.svg",
-    "immagini/CalcNum/Pasted image 20230125111411.png",
-    "immagini/Scorciatoie latex/Pasted image 20230125105753.png",
-    "immagini/Scorciatoie latex/Pasted image 20230125105754.png",
-    "immagini/Scorciatoie latex/spazi.png",
-    "immagini/Scorciatoie latex/sommatorie.png",
-    "immagini/Scorciatoie latex/relazioni_binari.png",
-    "CalcNum/6. Valutazione di un polinomio.md",
-    "CalcNum/7. Vettori.md",
-    "CalcNum/9. Altre Strutture.md",
-    "CalcNum/8. Matrici.md",
-    "CalcNum/2. Error Analysis.md",
-    "CalcNum/0. Introduzione.md",
-    "CalcNum/1. Stabilità numerica.md",
-    "CalcNum/5. Derivata di più variabili.md",
-    "Algoritmi/a2. Grafi pesati.md",
-    "Algoritmi/6. Quicksort.md",
-    "Algoritmi/5. Divide et impera.md",
-    "immagini/Algoritmi/Untitled Diagram.svg",
-    "Algoritmi/dispense/topologicalsort-sinkuniversale-cfc.pdf",
-    "immagini/Fisica/Pasted image 20230623115534.png",
-    "immagini/Fisica/Pasted image 20230623115144.png",
-    "Fisica/dispense/06_FisGen_LeggiNewton.pdf",
-    "Algoritmi/Esercizi Algoritmi/SET2-soluzioni.pdf",
-    "Algoritmi/Esercizi Algoritmi/SET2.pdf",
-    "Algoritmi/Esercizi Algoritmi/SET1_es_1_2.pdf",
-    "Algoritmi/Esercizi Algoritmi/SET1_ESERCIZI.pdf"
+    "immagini/Algoritmi/percorso_da_sorgente.svg"
   ]
 }
