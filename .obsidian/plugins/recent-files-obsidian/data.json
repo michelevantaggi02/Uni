@@ -1,8 +1,52 @@
 {
   "recentFiles": [
     {
+      "basename": "CalcNum-merged",
+      "path": "CalcNum-merged.md"
+    },
+    {
       "basename": "LaTeX",
       "path": "LaTeX.md"
+    },
+    {
+      "basename": "2. Error Analysis",
+      "path": "CalcNum/2. Error Analysis.md"
+    },
+    {
+      "basename": "a5. Curva di Bezier",
+      "path": "CalcNum/a5. Curva di Bezier.md"
+    },
+    {
+      "basename": "a7. Interpolazione",
+      "path": "CalcNum/a7. Interpolazione.md"
+    },
+    {
+      "basename": "a4. Variante del Massimo Pivot Parziale (GEPP)",
+      "path": "CalcNum/a4. Variante del Massimo Pivot Parziale (GEPP).md"
+    },
+    {
+      "basename": "a3a. Esercizio",
+      "path": "CalcNum/a3a. Esercizio.md"
+    },
+    {
+      "basename": "3. Errore Per Le Funzioni Razionali",
+      "path": "CalcNum/3. Errore Per Le Funzioni Razionali.md"
+    },
+    {
+      "basename": "5. Derivata di più variabili",
+      "path": "CalcNum/5. Derivata di più variabili.md"
+    },
+    {
+      "basename": "1. Definizione di Algoritmo",
+      "path": "Algoritmi/1. Definizione di Algoritmo.md"
+    },
+    {
+      "basename": "Algoritmi",
+      "path": "Algoritmi/dispense/Algoritmi.pdf"
+    },
+    {
+      "basename": "0. Algoritmi",
+      "path": "Algoritmi/dispense/0. Algoritmi.md"
     },
     {
       "basename": "IngSW_DP_00_DesignPattern2022_2023",
@@ -145,18 +189,6 @@
       "path": "Diritto/dispense/introduzione.pdf"
     },
     {
-      "basename": "a7. Interpolazione",
-      "path": "CalcNum/a7. Interpolazione.md"
-    },
-    {
-      "basename": "a4. Variante del Massimo Pivot Parziale (GEPP)",
-      "path": "CalcNum/a4. Variante del Massimo Pivot Parziale (GEPP).md"
-    },
-    {
-      "basename": "3. Errore Per Le Funzioni Razionali",
-      "path": "CalcNum/3. Errore Per Le Funzioni Razionali.md"
-    },
-    {
       "basename": "4. Problemi Ben Posti",
       "path": "CalcNum/4. Problemi Ben Posti.md"
     },
@@ -165,40 +197,8 @@
       "path": "CalcNum/a1. Algoritmo di Gauss.md"
     },
     {
-      "basename": "CalcNum-merged",
-      "path": "CalcNum-merged.md"
-    },
-    {
       "basename": "esercizi_cn_2021",
       "path": "CalcNum/dispense/esercizi_cn_2021.pdf"
-    },
-    {
-      "basename": "Calcolo numerico",
-      "path": "CalcNum/Calcolo numerico.pdf"
-    },
-    {
-      "basename": "a6. Modello della corda elastica",
-      "path": "CalcNum/a6. Modello della corda elastica.md"
-    },
-    {
-      "basename": "a5. Curva di Bezier",
-      "path": "CalcNum/a5. Curva di Bezier.md"
-    },
-    {
-      "basename": "a3a. Esercizio",
-      "path": "CalcNum/a3a. Esercizio.md"
-    },
-    {
-      "basename": "a3. Fattorizzazione LU",
-      "path": "CalcNum/a3. Fattorizzazione LU.md"
-    },
-    {
-      "basename": "a2. Matrici tridiagonali",
-      "path": "CalcNum/a2. Matrici tridiagonali.md"
-    },
-    {
-      "basename": "a0. Sistemi lineari",
-      "path": "CalcNum/a0. Sistemi lineari.md"
     }
   ],
   "omittedPaths": [],
