@@ -18,5 +18,6 @@
   "obsidian-minimal-settings",
   "obsidian-contextual-typography",
   "obsidian-style-settings",
-  "obsidian-plugin-toc"
+  "obsidian-plugin-toc",
+  "obsidian-pandoc"
 ]
