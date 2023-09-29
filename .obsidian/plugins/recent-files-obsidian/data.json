@@ -1,8 +1,84 @@
 {
   "recentFiles": [
     {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "LaTeX",
+      "path": "LaTeX.md"
+    },
+    {
+      "basename": "0.",
+      "path": "Protocolli/0..md"
+    },
+    {
+      "basename": "0. Intelligent Agent",
+      "path": "IA/0. Intelligent Agent.md"
+    },
+    {
+      "basename": "intelligent_agent",
+      "path": "immagini/IA/intelligent_agent.svg"
+    },
+    {
+      "basename": "0.",
+      "path": "Reti/0..md"
+    },
+    {
+      "basename": "crawler",
+      "path": "immagini/IA/crawler.svg"
+    },
+    {
+      "basename": "diagnostic_agent",
+      "path": "immagini/IA/diagnostic_agent.svg"
+    },
+    {
+      "basename": "robotic_agent",
+      "path": "immagini/IA/robotic_agent.svg"
+    },
+    {
+      "basename": "partial_agent",
+      "path": "immagini/IA/partial_agent.svg"
+    },
+    {
+      "basename": "gamer_agent",
+      "path": "immagini/IA/gamer_agent.svg"
+    },
+    {
+      "basename": "0. Piano di sicurezza",
+      "path": "Sicurezza/0. Piano di sicurezza.md"
+    },
+    {
+      "basename": "eavesdropping",
+      "path": "immagini/Sicurezza/eavesdropping.png"
+    },
+    {
+      "basename": "CalcNum-merged",
+      "path": "CalcNum-merged.md"
+    },
+    {
+      "basename": "S07-mutuaEscl",
+      "path": "SisOp/dispense/S07-mutuaEscl.pdf"
+    },
+    {
+      "basename": "Mutua Esclusione",
+      "path": "SisOp/dispense/Mutua Esclusione.md"
+    },
+    {
+      "basename": "SisOp-merged",
+      "path": "SisOp-merged.md"
+    },
+    {
       "basename": "6. Mutua esclusione",
       "path": "SisOp/6. Mutua esclusione.md"
+    },
+    {
+      "basename": "2. Sistema di elaborazione",
+      "path": "SisOp/2. Sistema di elaborazione.md"
+    },
+    {
+      "basename": "1. Sistema operativo",
+      "path": "SisOp/1. Sistema operativo.md"
     },
     {
       "basename": "5. Processi e thread",
@@ -15,22 +91,6 @@
     {
       "basename": "3. Architettura dei sistemi operativi",
       "path": "SisOp/3. Architettura dei sistemi operativi.md"
-    },
-    {
-      "basename": "2. Sistema di elaborazione",
-      "path": "SisOp/2. Sistema di elaborazione.md"
-    },
-    {
-      "basename": "1. Sistema operativo",
-      "path": "SisOp/1. Sistema operativo.md"
-    },
-    {
-      "basename": "0. Sistemi Operativi",
-      "path": "SisOp/0. Sistemi Operativi.md"
-    },
-    {
-      "basename": "LaTeX",
-      "path": "LaTeX.md"
     },
     {
       "basename": "Diritto Appunti 2",
@@ -55,14 +115,6 @@
     {
       "basename": "Diritto domande libro",
       "path": "Diritto/dispense/Diritto domande libro.pdf"
-    },
-    {
-      "basename": "Mutua Esclusione",
-      "path": "SisOp/dispense/Mutua Esclusione.md"
-    },
-    {
-      "basename": "CalcNum-merged",
-      "path": "CalcNum-merged.md"
     },
     {
       "basename": "2. Error Analysis",
@@ -143,62 +195,6 @@
     {
       "basename": "IngSW_UML_01_Intro_UML",
       "path": "Ingegneria/dispense/IngSW_UML_01_Intro_UML.pdf"
-    },
-    {
-      "basename": "8. Diagrammi di sequenza",
-      "path": "Ingegneria/8. Diagrammi di sequenza.md"
-    },
-    {
-      "basename": "test-merged",
-      "path": "Ingegneria/test-merged.pdf"
-    },
-    {
-      "basename": "test-merged",
-      "path": "Ingegneria/test-merged.md"
-    },
-    {
-      "basename": "IngSW_UML_06_ActivityDiagramBozzaOLD",
-      "path": "Ingegneria/dispense/IngSW_UML_06_ActivityDiagramBozzaOLD.pdf"
-    },
-    {
-      "basename": "IngSW_UML05StateDiagramBozzaOLD",
-      "path": "Ingegneria/dispense/IngSW_UML05StateDiagramBozzaOLD.pdf"
-    },
-    {
-      "basename": "9. Diagrammi di stato",
-      "path": "Ingegneria/9. Diagrammi di stato.md"
-    },
-    {
-      "basename": "IngSW_UML_04SequenceBozzaDiagrams",
-      "path": "Ingegneria/dispense/IngSW_UML_04SequenceBozzaDiagrams.pdf"
-    },
-    {
-      "basename": "IngSW_UML_03ClassDiagrams",
-      "path": "Ingegneria/dispense/IngSW_UML_03ClassDiagrams.pdf"
-    },
-    {
-      "basename": "5. Casi D'uso",
-      "path": "Ingegneria/5. Casi D'uso.md"
-    },
-    {
-      "basename": "7. Diagramma Delle Classi",
-      "path": "Ingegneria/7. Diagramma Delle Classi.md"
-    },
-    {
-      "basename": "IngSW_UML02_UseCaseDiagram",
-      "path": "Ingegneria/dispense/IngSW_UML02_UseCaseDiagram.pdf"
-    },
-    {
-      "basename": "Use Case",
-      "path": "Ingegneria/relazione/Use Case.svg"
-    },
-    {
-      "basename": "RELAZIONE",
-      "path": "Ingegneria/relazione/RELAZIONE.md"
-    },
-    {
-      "basename": "2. Le prove",
-      "path": "Diritto/2. Le prove.md"
     }
   ],
   "omittedPaths": [],

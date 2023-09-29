@@ -45,3 +45,4 @@ UniPg informatica appunti del secondo anno.
 - [LaTeX.md](LaTeX.md) contiene screenshot della [pagina wikibooks](https://en.wikibooks.org/wiki/LaTeX/Mathematics) riguardanti le formule LaTeX
 - [Algoritmi-merged.md](Algoritmi-merged.md) contiene tutti gli appunti della cartella [Algoritmi/](Algoritmi/)
 - [Ingegneria-merged.md](Ingegneria-merged.md) contiene tutti gli appunti della cartella [Ingegneria/](Ingegneria/)
+- [SisOp-merged.md](SisOp-merged.md) contiene tutti gli appunti della cartella [SisOp/](SisOp/)

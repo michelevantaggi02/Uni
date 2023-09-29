@@ -22,12 +22,12 @@
             }
           },
           {
-            "id": "30185ee0a46e1a8d",
+            "id": "3b5f2a3b7989bae8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SisOp/6. Mutua esclusione.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SisOp/6. Mutua esclusione.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SisOp/6. Mutua esclusione.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SisOp/6. Mutua esclusione.md"
+                "file": "README.md"
               }
             }
           },
@@ -199,7 +199,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.5
+    "width": 306.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -213,28 +213,45 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "30185ee0a46e1a8d",
+  "active": "3b5f2a3b7989bae8",
   "lastOpenFiles": [
+    "().md",
+    "README.md",
+    "LaTeX.md",
+    "Protocolli/0..md",
+    "IA/0. Intelligent Agent.md",
+    "immagini/IA/intelligent_agent.svg",
+    "Reti/0..md",
+    "immagini/IA/crawler.svg",
+    "immagini/IA/diagnostic_agent.svg",
+    "immagini/IA/robotic_agent.svg",
+    "immagini/IA/partial_agent.svg",
+    "immagini/IA/gamer_agent.svg",
+    "immagini/IA",
+    "immagini/Sicurezza/forging.png",
+    "immagini/Sicurezza/interrupting.png",
+    "immagini/Sicurezza/eavesdropping.png",
+    "Sicurezza/0. Piano di sicurezza.md",
+    "immagini/Sicurezza/modification.png",
+    "immagini/Sicurezza",
+    "IA",
+    "Protocolli",
+    "Sicurezza",
+    "CalcNum-merged.md",
+    "Reti",
+    "SisOp/dispense/S07-mutuaEscl.pdf",
+    "SisOp/dispense/Mutua Esclusione.md",
+    "SisOp-merged.md",
+    "SisOp/6. Mutua esclusione.md",
+    "SisOp/2. Sistema di elaborazione.md",
+    "SisOp/0. Sistemi Operativi.md",
+    "SisOp/1. Sistema operativo.md",
     "SisOp/5. Processi e thread.md",
     "SisOp/4. Progettazione del sistema operativo.md",
     "SisOp/3. Architettura dei sistemi operativi.md",
-    "SisOp/2. Sistema di elaborazione.md",
-    "SisOp/1. Sistema operativo.md",
-    "SisOp/0. Sistemi Operativi.md",
-    "SisOp/6. Mutua esclusione.md",
-    "LaTeX.md",
     "Diritto/dispense/Diritto Appunti 2.pdf",
     "Diritto/dispense/FRANCESCOAppunti.pdf",
     "Diritto/dispense/Trattamento dati personali.pdf",
-    "Diritto/dispense/prove.pdf",
-    "Diritto/dispense/introduzione.pdf",
-    "Diritto/dispense/Diritto domande libro.pdf",
-    "SisOp/dispense/Mutua Esclusione.md",
-    "SisOp/progetto/a.out",
-    "CalcNum/CalcNum-merged.pdf",
-    "CalcNum/CalcNum-merged.aux",
-    "CalcNum/CalcNum-merged.log",
-    "CalcNum-merged.md",
     "CalcNum/2. Error Analysis.md",
     "CalcNum/a5. Curva di Bezier.md",
     "CalcNum/a7. Interpolazione.md",
@@ -243,22 +260,6 @@
     "CalcNum/3. Errore Per Le Funzioni Razionali.md",
     "CalcNum/5. Derivata di più variabili.md",
     "Algoritmi/1. Definizione di Algoritmo.md",
-    "Algoritmi/dispense/0. Algoritmi.md",
-    "Ingegneria/2. Modelli produttivi.md",
-    "Ingegneria/1. Qualità del software.md",
-    "Ingegneria/3. Qualità.md",
-    "Ingegneria/8. Diagrammi di sequenza.md",
-    "Ingegneria/test-merged.md",
-    "Ingegneria/relazione/Diagramma attivita.drawio.png",
-    "Ingegneria/relazione/Diagramma Stato.drawio.png",
-    "Ingegneria/9. Diagrammi di stato.md",
-    "Ingegneria/relazione/Diagramma sequenza.drawio.png",
-    "Ingegneria/relazione/Diagramma Classi.png",
-    "Ingegneria/relazione/Diagramma Classi.drawio.png",
-    "Ingegneria/relazione/Use Case.svg",
-    "Ingegneria/relazione/Use Case.png",
-    "Ingegneria/relazione/Use Case.drawio(1).png",
-    "Untitled Diagram.svg",
-    "immagini/Algoritmi/percorso_da_sorgente.svg"
+    "Algoritmi/dispense/0. Algoritmi.md"
   ]
 }
