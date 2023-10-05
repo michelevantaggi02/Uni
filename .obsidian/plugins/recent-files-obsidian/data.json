@@ -1,16 +1,60 @@
 {
   "recentFiles": [
     {
-      "basename": "README",
-      "path": "README.md"
+      "basename": "1. Modello Relazionale",
+      "path": "Basi Dati/1. Modello Relazionale.md"
     },
     {
       "basename": "LaTeX",
       "path": "LaTeX.md"
     },
     {
-      "basename": "0.",
-      "path": "Protocolli/0..md"
+      "basename": "lezione1modrelBD_removed",
+      "path": "Basi Dati/dispense/lezione1modrelBD_removed.pdf"
+    },
+    {
+      "basename": "BDlezione2_removed",
+      "path": "Basi Dati/dispense/BDlezione2_removed.pdf"
+    },
+    {
+      "basename": "0. Basi di dati",
+      "path": "Basi Dati/0. Basi di dati.md"
+    },
+    {
+      "basename": "1. Internet",
+      "path": "Sicurezza/1. Internet.md"
+    },
+    {
+      "basename": "3. Trasmissione dati",
+      "path": "Protocolli/3. Trasmissione dati.md"
+    },
+    {
+      "basename": "2. Protocolli ISO-OSI",
+      "path": "Protocolli/2. Protocolli ISO-OSI.md"
+    },
+    {
+      "basename": "1. Tipi di connessione",
+      "path": "Protocolli/1. Tipi di connessione.md"
+    },
+    {
+      "basename": "0. Introduzione",
+      "path": "Protocolli/0. Introduzione.md"
+    },
+    {
+      "basename": "rete_albero",
+      "path": "immagini/Protocolli/rete_albero.png"
+    },
+    {
+      "basename": "rete_dorsale",
+      "path": "immagini/Protocolli/rete_dorsale.png"
+    },
+    {
+      "basename": "rete_stella",
+      "path": "immagini/Protocolli/rete_stella.png"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
     },
     {
       "basename": "0. Intelligent Agent",
@@ -155,46 +199,6 @@
     {
       "basename": "0. Algoritmi",
       "path": "Algoritmi/dispense/0. Algoritmi.md"
-    },
-    {
-      "basename": "IngSW_DP_00_DesignPattern2022_2023",
-      "path": "Ingegneria/dispense/IngSW_DP_00_DesignPattern2022_2023.pdf"
-    },
-    {
-      "basename": "RELAZIONE",
-      "path": "Ingegneria/relazione/RELAZIONE.pdf"
-    },
-    {
-      "basename": "2. Modelli produttivi",
-      "path": "Ingegneria/2. Modelli produttivi.md"
-    },
-    {
-      "basename": "1. Qualità del software",
-      "path": "Ingegneria/1. Qualità del software.md"
-    },
-    {
-      "basename": "3. Qualità",
-      "path": "Ingegneria/3. Qualità.md"
-    },
-    {
-      "basename": "IngSW_DP_04_DesignPatternComportamentali",
-      "path": "Ingegneria/dispense/IngSW_DP_04_DesignPatternComportamentali.pdf"
-    },
-    {
-      "basename": "IngSW_DP_03_DesignPatternStrutturali",
-      "path": "Ingegneria/dispense/IngSW_DP_03_DesignPatternStrutturali.pdf"
-    },
-    {
-      "basename": "IngSW_DP_02_DesignPatternCreazionaliDiagram",
-      "path": "Ingegneria/dispense/IngSW_DP_02_DesignPatternCreazionaliDiagram.pdf"
-    },
-    {
-      "basename": "IngSW_DP_01_IntroDesignPattern",
-      "path": "Ingegneria/dispense/IngSW_DP_01_IntroDesignPattern.pdf"
-    },
-    {
-      "basename": "IngSW_UML_01_Intro_UML",
-      "path": "Ingegneria/dispense/IngSW_UML_01_Intro_UML.pdf"
     }
   ],
   "omittedPaths": [],

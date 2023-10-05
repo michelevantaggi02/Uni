@@ -6,6 +6,7 @@
       {
         "id": "1b8f2e304dc6b4bd",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
             "id": "07a23f7b332d1814",
@@ -22,12 +23,12 @@
             }
           },
           {
-            "id": "3b5f2a3b7989bae8",
+            "id": "186c13a12c17c6cd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Basi Dati/1. Modello Relazionale.md",
                 "mode": "source",
                 "source": false
               }
@@ -35,6 +36,23 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "df8a94e697c9c796",
+        "type": "tabs",
+        "dimension": 50,
+        "children": [
+          {
+            "id": "ecf496aef7435382",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Basi Dati/dispense/lezione1modrelBD_removed.pdf"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,7 +110,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 371.5
+    "width": 229.5
   },
   "right": {
     "id": "d301eb09d39979ed",
@@ -108,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Basi Dati/1. Modello Relazionale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Basi Dati/1. Modello Relazionale.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -148,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Basi Dati/1. Modello Relazionale.md"
               }
             }
           },
@@ -213,12 +231,28 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3b5f2a3b7989bae8",
+  "active": "186c13a12c17c6cd",
   "lastOpenFiles": [
-    "().md",
-    "README.md",
     "LaTeX.md",
-    "Protocolli/0..md",
+    "Basi Dati/1. Modello Relazionale.md",
+    "Basi Dati/dispense/lezione1modrelBD_removed.pdf",
+    "Basi Dati/dispense/BDlezione2_removed.pdf",
+    "Basi Dati/dispense",
+    "Basi Dati/0. Basi di dati.md",
+    "Basi Dati",
+    "Sicurezza/1. Internet.md",
+    "Protocolli/3. Trasmissione dati.md",
+    "Protocolli/2. Protocolli ISO-OSI.md",
+    "immagini/Pasted image 20231003200127.png",
+    "immagini/Pasted image 20231003195959.png",
+    "Protocolli/1. Tipi di connessione.md",
+    "Protocolli/0. Introduzione.md",
+    "immagini/Protocolli/rete_albero.png",
+    "immagini/Protocolli/rete_dorsale.png",
+    "immagini/Protocolli/rete_stella.png",
+    "immagini/Protocolli",
+    "README.md",
+    "().md",
     "IA/0. Intelligent Agent.md",
     "immagini/IA/intelligent_agent.svg",
     "Reti/0..md",
@@ -226,20 +260,13 @@
     "immagini/IA/diagnostic_agent.svg",
     "immagini/IA/robotic_agent.svg",
     "immagini/IA/partial_agent.svg",
-    "immagini/IA/gamer_agent.svg",
     "immagini/IA",
-    "immagini/Sicurezza/forging.png",
-    "immagini/Sicurezza/interrupting.png",
-    "immagini/Sicurezza/eavesdropping.png",
     "Sicurezza/0. Piano di sicurezza.md",
-    "immagini/Sicurezza/modification.png",
     "immagini/Sicurezza",
     "IA",
     "Protocolli",
     "Sicurezza",
     "CalcNum-merged.md",
-    "Reti",
-    "SisOp/dispense/S07-mutuaEscl.pdf",
     "SisOp/dispense/Mutua Esclusione.md",
     "SisOp-merged.md",
     "SisOp/6. Mutua esclusione.md",
@@ -249,17 +276,7 @@
     "SisOp/5. Processi e thread.md",
     "SisOp/4. Progettazione del sistema operativo.md",
     "SisOp/3. Architettura dei sistemi operativi.md",
-    "Diritto/dispense/Diritto Appunti 2.pdf",
-    "Diritto/dispense/FRANCESCOAppunti.pdf",
-    "Diritto/dispense/Trattamento dati personali.pdf",
     "CalcNum/2. Error Analysis.md",
-    "CalcNum/a5. Curva di Bezier.md",
-    "CalcNum/a7. Interpolazione.md",
-    "CalcNum/a4. Variante del Massimo Pivot Parziale (GEPP).md",
-    "CalcNum/a3a. Esercizio.md",
-    "CalcNum/3. Errore Per Le Funzioni Razionali.md",
-    "CalcNum/5. Derivata di più variabili.md",
-    "Algoritmi/1. Definizione di Algoritmo.md",
-    "Algoritmi/dispense/0. Algoritmi.md"
+    "CalcNum/a5. Curva di Bezier.md"
   ]
 }
