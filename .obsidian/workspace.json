@@ -6,7 +6,6 @@
       {
         "id": "1b8f2e304dc6b4bd",
         "type": "tabs",
-        "dimension": 50,
         "children": [
           {
             "id": "07a23f7b332d1814",
@@ -23,12 +22,12 @@
             }
           },
           {
-            "id": "186c13a12c17c6cd",
+            "id": "92ef7499c92d5617",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Basi Dati/1. Modello Relazionale.md",
+                "file": "Sicurezza/2. Livello applicazione.md",
                 "mode": "source",
                 "source": false
               }
@@ -36,23 +35,6 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "df8a94e697c9c796",
-        "type": "tabs",
-        "dimension": 50,
-        "children": [
-          {
-            "id": "ecf496aef7435382",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Basi Dati/dispense/lezione1modrelBD_removed.pdf"
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -81,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "starvat",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -107,6 +89,22 @@
             }
           }
         ]
+      },
+      {
+        "id": "19bc9db6ed9467dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bfab165759e237be",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "LaTeX.md"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -126,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basi Dati/1. Modello Relazionale.md",
+                "file": "LaTeX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Basi Dati/1. Modello Relazionale.md",
+                "file": "LaTeX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -157,16 +155,6 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": false
-              }
-            }
-          },
-          {
-            "id": "bfab165759e237be",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Basi Dati/1. Modello Relazionale.md"
               }
             }
           },
@@ -211,9 +199,41 @@
                 "sortOrder": "frequency"
               }
             }
+          },
+          {
+            "id": "c4a7dd0b2a84c986",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "ff5f8bee96bdc7aa",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "LaTeX.md"
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
+      },
+      {
+        "id": "081211b983fea676",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "08607439d4dd6e05",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -231,41 +251,46 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "186c13a12c17c6cd",
+  "active": "bfdcbd01259c69b7",
   "lastOpenFiles": [
+    "immagini/Sicurezza/POPvsIMAP.png",
+    "immagini/Sicurezza/pop3.png",
+    "Sicurezza/Reti.md",
+    "Sicurezza/2. Livello applicazione.md",
+    "immagini/Sicurezza/cookies.png",
+    "immagini/Sicurezza/RispostaHTTP.png",
+    "immagini/Sicurezza/RichiestaHTTP.png",
+    "Sicurezza/1. Internet.md",
+    "Protocolli/3. Trasmissione dati.md",
     "LaTeX.md",
+    "Basi Dati/dispense/lezione2BDmodRel_removed.pdf",
     "Basi Dati/1. Modello Relazionale.md",
+    "Algoritmi/1. Definizione di Algoritmo.md",
+    "Basi Dati/0. Basi di dati.md",
+    "Reti/0..md",
+    "IA/1. Agente Razionale.md",
+    "immagini/Pasted image 20231003195959.png",
+    "immagini/Pasted image 20231003200127.png",
+    "immagini/IA/aspirapolvere.png",
+    "immagini/IA/mappaRomania.png",
+    "immagini/IA/RapprStati.png",
+    "IA/0. Intelligent Agent.md",
     "Basi Dati/dispense/lezione1modrelBD_removed.pdf",
     "Basi Dati/dispense/BDlezione2_removed.pdf",
     "Basi Dati/dispense",
-    "Basi Dati/0. Basi di dati.md",
     "Basi Dati",
-    "Sicurezza/1. Internet.md",
-    "Protocolli/3. Trasmissione dati.md",
     "Protocolli/2. Protocolli ISO-OSI.md",
-    "immagini/Pasted image 20231003200127.png",
-    "immagini/Pasted image 20231003195959.png",
     "Protocolli/1. Tipi di connessione.md",
     "Protocolli/0. Introduzione.md",
     "immagini/Protocolli/rete_albero.png",
-    "immagini/Protocolli/rete_dorsale.png",
-    "immagini/Protocolli/rete_stella.png",
     "immagini/Protocolli",
     "README.md",
     "().md",
-    "IA/0. Intelligent Agent.md",
-    "immagini/IA/intelligent_agent.svg",
-    "Reti/0..md",
-    "immagini/IA/crawler.svg",
-    "immagini/IA/diagnostic_agent.svg",
-    "immagini/IA/robotic_agent.svg",
-    "immagini/IA/partial_agent.svg",
     "immagini/IA",
     "Sicurezza/0. Piano di sicurezza.md",
     "immagini/Sicurezza",
     "IA",
     "Protocolli",
-    "Sicurezza",
     "CalcNum-merged.md",
     "SisOp/dispense/Mutua Esclusione.md",
     "SisOp-merged.md",
@@ -273,10 +298,6 @@
     "SisOp/2. Sistema di elaborazione.md",
     "SisOp/0. Sistemi Operativi.md",
     "SisOp/1. Sistema operativo.md",
-    "SisOp/5. Processi e thread.md",
-    "SisOp/4. Progettazione del sistema operativo.md",
-    "SisOp/3. Architettura dei sistemi operativi.md",
-    "CalcNum/2. Error Analysis.md",
-    "CalcNum/a5. Curva di Bezier.md"
+    "SisOp/5. Processi e thread.md"
   ]
 }

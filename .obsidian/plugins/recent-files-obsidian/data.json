@@ -1,24 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "1. Modello Relazionale",
-      "path": "Basi Dati/1. Modello Relazionale.md"
-    },
-    {
       "basename": "LaTeX",
       "path": "LaTeX.md"
     },
     {
-      "basename": "lezione1modrelBD_removed",
-      "path": "Basi Dati/dispense/lezione1modrelBD_removed.pdf"
+      "basename": "2. Livello applicazione",
+      "path": "Sicurezza/2. Livello applicazione.md"
     },
     {
-      "basename": "BDlezione2_removed",
-      "path": "Basi Dati/dispense/BDlezione2_removed.pdf"
-    },
-    {
-      "basename": "0. Basi di dati",
-      "path": "Basi Dati/0. Basi di dati.md"
+      "basename": "Reti",
+      "path": "Sicurezza/Reti.md"
     },
     {
       "basename": "1. Internet",
@@ -27,6 +19,54 @@
     {
       "basename": "3. Trasmissione dati",
       "path": "Protocolli/3. Trasmissione dati.md"
+    },
+    {
+      "basename": "lezione2BDmodRel_removed",
+      "path": "Basi Dati/dispense/lezione2BDmodRel_removed.pdf"
+    },
+    {
+      "basename": "1. Modello Relazionale",
+      "path": "Basi Dati/1. Modello Relazionale.md"
+    },
+    {
+      "basename": "1. Definizione di Algoritmo",
+      "path": "Algoritmi/1. Definizione di Algoritmo.md"
+    },
+    {
+      "basename": "0. Basi di dati",
+      "path": "Basi Dati/0. Basi di dati.md"
+    },
+    {
+      "basename": "0.",
+      "path": "Reti/0..md"
+    },
+    {
+      "basename": "1. Agente Razionale",
+      "path": "IA/1. Agente Razionale.md"
+    },
+    {
+      "basename": "Pasted image 20231003195959",
+      "path": "immagini/Pasted image 20231003195959.png"
+    },
+    {
+      "basename": "Pasted image 20231003200127",
+      "path": "immagini/Pasted image 20231003200127.png"
+    },
+    {
+      "basename": "aspirapolvere",
+      "path": "immagini/IA/aspirapolvere.png"
+    },
+    {
+      "basename": "0. Intelligent Agent",
+      "path": "IA/0. Intelligent Agent.md"
+    },
+    {
+      "basename": "lezione1modrelBD_removed",
+      "path": "Basi Dati/dispense/lezione1modrelBD_removed.pdf"
+    },
+    {
+      "basename": "BDlezione2_removed",
+      "path": "Basi Dati/dispense/BDlezione2_removed.pdf"
     },
     {
       "basename": "2. Protocolli ISO-OSI",
@@ -57,16 +97,8 @@
       "path": "README.md"
     },
     {
-      "basename": "0. Intelligent Agent",
-      "path": "IA/0. Intelligent Agent.md"
-    },
-    {
       "basename": "intelligent_agent",
       "path": "immagini/IA/intelligent_agent.svg"
-    },
-    {
-      "basename": "0.",
-      "path": "Reti/0..md"
     },
     {
       "basename": "crawler",
@@ -167,38 +199,6 @@
     {
       "basename": "a5. Curva di Bezier",
       "path": "CalcNum/a5. Curva di Bezier.md"
-    },
-    {
-      "basename": "a7. Interpolazione",
-      "path": "CalcNum/a7. Interpolazione.md"
-    },
-    {
-      "basename": "a4. Variante del Massimo Pivot Parziale (GEPP)",
-      "path": "CalcNum/a4. Variante del Massimo Pivot Parziale (GEPP).md"
-    },
-    {
-      "basename": "a3a. Esercizio",
-      "path": "CalcNum/a3a. Esercizio.md"
-    },
-    {
-      "basename": "3. Errore Per Le Funzioni Razionali",
-      "path": "CalcNum/3. Errore Per Le Funzioni Razionali.md"
-    },
-    {
-      "basename": "5. Derivata di più variabili",
-      "path": "CalcNum/5. Derivata di più variabili.md"
-    },
-    {
-      "basename": "1. Definizione di Algoritmo",
-      "path": "Algoritmi/1. Definizione di Algoritmo.md"
-    },
-    {
-      "basename": "Algoritmi",
-      "path": "Algoritmi/dispense/Algoritmi.pdf"
-    },
-    {
-      "basename": "0. Algoritmi",
-      "path": "Algoritmi/dispense/0. Algoritmi.md"
     }
   ],
   "omittedPaths": [],
