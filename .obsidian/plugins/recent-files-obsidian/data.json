@@ -1,8 +1,184 @@
 {
   "recentFiles": [
     {
+      "basename": "2. Algebra Relazionale",
+      "path": "Basi Dati/2. Algebra Relazionale.md"
+    },
+    {
+      "basename": "0. Basi di dati",
+      "path": "Basi Dati/0. Basi di dati.md"
+    },
+    {
+      "basename": "1. Modello Relazionale",
+      "path": "Basi Dati/1. Modello Relazionale.md"
+    },
+    {
       "basename": "LaTeX",
       "path": "LaTeX.md"
+    },
+    {
+      "basename": "algebraRelazionale2_removed",
+      "path": "Basi Dati/dispense/algebraRelazionale2_removed.pdf"
+    },
+    {
+      "basename": "lezione2BDmodRel_removed",
+      "path": "Basi Dati/dispense/lezione2BDmodRel_removed.pdf"
+    },
+    {
+      "basename": "lezione1modrelBD_removed",
+      "path": "Basi Dati/dispense/lezione1modrelBD_removed.pdf"
+    },
+    {
+      "basename": "BDlezione2_removed",
+      "path": "Basi Dati/dispense/BDlezione2_removed.pdf"
+    },
+    {
+      "basename": "CalcNum-merged",
+      "path": "CalcNum-merged.md"
+    },
+    {
+      "basename": "Ingegneria-merged",
+      "path": "Ingegneria-merged.md"
+    },
+    {
+      "basename": "4. Fibra ottica",
+      "path": "Protocolli/4. Fibra ottica.md"
+    },
+    {
+      "basename": "protocolli parte 1 2022-2023",
+      "path": "Protocolli/dispense/protocolli parte 1 2022-2023.pdf"
+    },
+    {
+      "basename": "3. Trasmissione dati",
+      "path": "Protocolli/3. Trasmissione dati.md"
+    },
+    {
+      "basename": "sync_carattere",
+      "path": "immagini/Protocolli/sync_carattere.png"
+    },
+    {
+      "basename": "Pasted image 20231003200127",
+      "path": "immagini/Pasted image 20231003200127.png"
+    },
+    {
+      "basename": "Spettro",
+      "path": "immagini/Protocolli/Spettro.png"
+    },
+    {
+      "basename": "CWDM",
+      "path": "immagini/Protocolli/CWDM.png"
+    },
+    {
+      "basename": "3. Livello Trasporto",
+      "path": "Sicurezza/3. Livello Trasporto.md"
+    },
+    {
+      "basename": "4. Livello rete",
+      "path": "Sicurezza/4. Livello rete.md"
+    },
+    {
+      "basename": "a0. Sistemi lineari",
+      "path": "CalcNum/a0. Sistemi lineari.md"
+    },
+    {
+      "basename": "Reti di calcolatori e internet - Un approcio top-downCap4",
+      "path": "Sicurezza/dispense/Reti di calcolatori e internet - Un approcio top-downCap4.pdf"
+    },
+    {
+      "basename": "Reti di calcolatori e internet - Un approcio top-downCap3",
+      "path": "Sicurezza/dispense/Reti di calcolatori e internet - Un approcio top-downCap3.pdf"
+    },
+    {
+      "basename": "intro_reti-http-ftp-dns-posta",
+      "path": "Sicurezza/dispense/intro_reti-http-ftp-dns-posta.pdf"
+    },
+    {
+      "basename": "ArchitetturaRetiDef_lez1-1",
+      "path": "Reti/dispense/ArchitetturaRetiDef_lez1-1.pdf"
+    },
+    {
+      "basename": "0. Modello di riferimento ISO-OSI",
+      "path": "Reti/0. Modello di riferimento ISO-OSI.md"
+    },
+    {
+      "basename": "2. Error Analysis",
+      "path": "CalcNum/2. Error Analysis.md"
+    },
+    {
+      "basename": "1. Stabilità numerica",
+      "path": "CalcNum/1. Stabilità numerica.md"
+    },
+    {
+      "basename": "5. Derivata di più variabili",
+      "path": "CalcNum/5. Derivata di più variabili.md"
+    },
+    {
+      "basename": "4. Problemi Ben Posti",
+      "path": "CalcNum/4. Problemi Ben Posti.md"
+    },
+    {
+      "basename": "3. Errore Per Le Funzioni Razionali",
+      "path": "CalcNum/3. Errore Per Le Funzioni Razionali.md"
+    },
+    {
+      "basename": "6. Valutazione di un polinomio",
+      "path": "CalcNum/6. Valutazione di un polinomio.md"
+    },
+    {
+      "basename": "8. Matrici",
+      "path": "CalcNum/8. Matrici.md"
+    },
+    {
+      "basename": "9. Altre Strutture",
+      "path": "CalcNum/9. Altre Strutture.md"
+    },
+    {
+      "basename": "a1. Algoritmo di Gauss",
+      "path": "CalcNum/a1. Algoritmo di Gauss.md"
+    },
+    {
+      "basename": "a2. Matrici tridiagonali",
+      "path": "CalcNum/a2. Matrici tridiagonali.md"
+    },
+    {
+      "basename": "a3. Fattorizzazione LU",
+      "path": "CalcNum/a3. Fattorizzazione LU.md"
+    },
+    {
+      "basename": "a3a. Esercizio",
+      "path": "CalcNum/a3a. Esercizio.md"
+    },
+    {
+      "basename": "a4. Variante del Massimo Pivot Parziale (GEPP)",
+      "path": "CalcNum/a4. Variante del Massimo Pivot Parziale (GEPP).md"
+    },
+    {
+      "basename": "a5. Curva di Bezier",
+      "path": "CalcNum/a5. Curva di Bezier.md"
+    },
+    {
+      "basename": "a6. Modello della corda elastica",
+      "path": "CalcNum/a6. Modello della corda elastica.md"
+    },
+    {
+      "basename": "a7. Interpolazione",
+      "path": "CalcNum/a7. Interpolazione.md"
+    },
+    {
+      "basename": "7. Vettori",
+      "path": "CalcNum/7. Vettori.md"
+    },
+    {
+      "basename": "0. Introduzione",
+      "path": "CalcNum/0. Introduzione.md"
+    },
+    {
+      "basename": "Calcolo numerico",
+      "path": "CalcNum/Calcolo numerico.pdf"
+    },
+    {
+      "basename": "1. Agente Razionale",
+      "path": "IA/1. Agente Razionale.md"
     },
     {
       "basename": "2. Livello applicazione",
@@ -17,188 +193,8 @@
       "path": "Sicurezza/1. Internet.md"
     },
     {
-      "basename": "3. Trasmissione dati",
-      "path": "Protocolli/3. Trasmissione dati.md"
-    },
-    {
-      "basename": "lezione2BDmodRel_removed",
-      "path": "Basi Dati/dispense/lezione2BDmodRel_removed.pdf"
-    },
-    {
-      "basename": "1. Modello Relazionale",
-      "path": "Basi Dati/1. Modello Relazionale.md"
-    },
-    {
       "basename": "1. Definizione di Algoritmo",
       "path": "Algoritmi/1. Definizione di Algoritmo.md"
-    },
-    {
-      "basename": "0. Basi di dati",
-      "path": "Basi Dati/0. Basi di dati.md"
-    },
-    {
-      "basename": "0.",
-      "path": "Reti/0..md"
-    },
-    {
-      "basename": "1. Agente Razionale",
-      "path": "IA/1. Agente Razionale.md"
-    },
-    {
-      "basename": "Pasted image 20231003195959",
-      "path": "immagini/Pasted image 20231003195959.png"
-    },
-    {
-      "basename": "Pasted image 20231003200127",
-      "path": "immagini/Pasted image 20231003200127.png"
-    },
-    {
-      "basename": "aspirapolvere",
-      "path": "immagini/IA/aspirapolvere.png"
-    },
-    {
-      "basename": "0. Intelligent Agent",
-      "path": "IA/0. Intelligent Agent.md"
-    },
-    {
-      "basename": "lezione1modrelBD_removed",
-      "path": "Basi Dati/dispense/lezione1modrelBD_removed.pdf"
-    },
-    {
-      "basename": "BDlezione2_removed",
-      "path": "Basi Dati/dispense/BDlezione2_removed.pdf"
-    },
-    {
-      "basename": "2. Protocolli ISO-OSI",
-      "path": "Protocolli/2. Protocolli ISO-OSI.md"
-    },
-    {
-      "basename": "1. Tipi di connessione",
-      "path": "Protocolli/1. Tipi di connessione.md"
-    },
-    {
-      "basename": "0. Introduzione",
-      "path": "Protocolli/0. Introduzione.md"
-    },
-    {
-      "basename": "rete_albero",
-      "path": "immagini/Protocolli/rete_albero.png"
-    },
-    {
-      "basename": "rete_dorsale",
-      "path": "immagini/Protocolli/rete_dorsale.png"
-    },
-    {
-      "basename": "rete_stella",
-      "path": "immagini/Protocolli/rete_stella.png"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
-      "basename": "intelligent_agent",
-      "path": "immagini/IA/intelligent_agent.svg"
-    },
-    {
-      "basename": "crawler",
-      "path": "immagini/IA/crawler.svg"
-    },
-    {
-      "basename": "diagnostic_agent",
-      "path": "immagini/IA/diagnostic_agent.svg"
-    },
-    {
-      "basename": "robotic_agent",
-      "path": "immagini/IA/robotic_agent.svg"
-    },
-    {
-      "basename": "partial_agent",
-      "path": "immagini/IA/partial_agent.svg"
-    },
-    {
-      "basename": "gamer_agent",
-      "path": "immagini/IA/gamer_agent.svg"
-    },
-    {
-      "basename": "0. Piano di sicurezza",
-      "path": "Sicurezza/0. Piano di sicurezza.md"
-    },
-    {
-      "basename": "eavesdropping",
-      "path": "immagini/Sicurezza/eavesdropping.png"
-    },
-    {
-      "basename": "CalcNum-merged",
-      "path": "CalcNum-merged.md"
-    },
-    {
-      "basename": "S07-mutuaEscl",
-      "path": "SisOp/dispense/S07-mutuaEscl.pdf"
-    },
-    {
-      "basename": "Mutua Esclusione",
-      "path": "SisOp/dispense/Mutua Esclusione.md"
-    },
-    {
-      "basename": "SisOp-merged",
-      "path": "SisOp-merged.md"
-    },
-    {
-      "basename": "6. Mutua esclusione",
-      "path": "SisOp/6. Mutua esclusione.md"
-    },
-    {
-      "basename": "2. Sistema di elaborazione",
-      "path": "SisOp/2. Sistema di elaborazione.md"
-    },
-    {
-      "basename": "1. Sistema operativo",
-      "path": "SisOp/1. Sistema operativo.md"
-    },
-    {
-      "basename": "5. Processi e thread",
-      "path": "SisOp/5. Processi e thread.md"
-    },
-    {
-      "basename": "4. Progettazione del sistema operativo",
-      "path": "SisOp/4. Progettazione del sistema operativo.md"
-    },
-    {
-      "basename": "3. Architettura dei sistemi operativi",
-      "path": "SisOp/3. Architettura dei sistemi operativi.md"
-    },
-    {
-      "basename": "Diritto Appunti 2",
-      "path": "Diritto/dispense/Diritto Appunti 2.pdf"
-    },
-    {
-      "basename": "FRANCESCOAppunti",
-      "path": "Diritto/dispense/FRANCESCOAppunti.pdf"
-    },
-    {
-      "basename": "Trattamento dati personali",
-      "path": "Diritto/dispense/Trattamento dati personali.pdf"
-    },
-    {
-      "basename": "prove",
-      "path": "Diritto/dispense/prove.pdf"
-    },
-    {
-      "basename": "introduzione",
-      "path": "Diritto/dispense/introduzione.pdf"
-    },
-    {
-      "basename": "Diritto domande libro",
-      "path": "Diritto/dispense/Diritto domande libro.pdf"
-    },
-    {
-      "basename": "2. Error Analysis",
-      "path": "CalcNum/2. Error Analysis.md"
-    },
-    {
-      "basename": "a5. Curva di Bezier",
-      "path": "CalcNum/a5. Curva di Bezier.md"
     }
   ],
   "omittedPaths": [],
