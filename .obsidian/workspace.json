@@ -22,12 +22,12 @@
             }
           },
           {
-            "id": "0d9839edd3ddd8d4",
+            "id": "3effc51cbea0a92b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Basi Dati/2. Algebra Relazionale.md",
+                "file": "Sicurezza/6. Firewall.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,26 +37,16 @@
         "currentTab": 1
       },
       {
-        "id": "478bc6182a740f0f",
+        "id": "e58a0306662b2d19",
         "type": "tabs",
         "children": [
           {
-            "id": "0a65d859e641aa52",
+            "id": "78f855ce86bc2275",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Basi Dati/dispense/algebraRelazionale2_removed.pdf"
-              }
-            }
-          },
-          {
-            "id": "7cb5a21498ee09c7",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Basi Dati/dispense/lezione1modrelBD_removed.pdf"
+                "file": "Sicurezza/dispense/firewalls-22-23.pdf"
               }
             }
           }
@@ -128,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Basi Dati/2. Algebra Relazionale.md"
+                "file": "Sicurezza/6. Firewall.md"
               }
             }
           }
@@ -136,7 +126,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.5
+    "width": 288.5
   },
   "right": {
     "id": "d301eb09d39979ed",
@@ -152,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basi Dati/2. Algebra Relazionale.md",
+                "file": "Sicurezza/6. Firewall.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Basi Dati/2. Algebra Relazionale.md",
+                "file": "Sicurezza/6. Firewall.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -242,15 +232,14 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Basi Dati/2. Algebra Relazionale.md"
+                "file": "Sicurezza/6. Firewall.md"
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       },
       {
-        "id": "081211b983fea676",
+        "id": "9b7bf80b3b63e6de",
         "type": "tabs",
         "children": [
           {
@@ -265,7 +254,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 306.5
+    "width": 290.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -279,52 +268,52 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0d9839edd3ddd8d4",
+  "active": "3effc51cbea0a92b",
   "lastOpenFiles": [
-    "Basi Dati/0. Basi di dati.md",
-    "Basi Dati/1. Modello Relazionale.md",
-    "Basi Dati/2. Algebra Relazionale.md",
-    "LaTeX.md",
-    "Basi Dati/dispense/algebraRelazionale2_removed.pdf",
-    "Basi Dati/3. Chiavi esterne.md",
-    "Basi Dati/dispense/lezione2BDmodRel_removed.pdf",
-    "Basi Dati/dispense/lezione1modrelBD_removed.pdf",
-    "Basi Dati/dispense/BDlezione2_removed.pdf",
-    "CalcNum-merged.md",
-    "Ingegneria-merged.md",
-    "Protocolli/4. Fibra ottica.md",
-    "Protocolli/dispense/protocolli parte 1 2022-2023.pdf",
-    "Protocolli/3. Trasmissione dati.md",
-    "immagini/Protocolli/sync_carattere.png",
+    "Sicurezza/3. Livello Trasporto.md",
+    "Sicurezza/6. Firewall.md",
     "immagini/Pasted image 20231003200127.png",
-    "immagini/Protocolli/Spettro.png",
-    "immagini/Protocolli/CWDM.png",
+    "immagini/Protocolli/trasmissione_carattere.png",
+    "immagini/Protocolli/trasmissione_asincrona.png",
     "immagini/Protocolli/TDM_sinc_stat.png",
     "immagini/Protocolli/TDM.png",
-    "immagini/Protocolli/DWDM.png",
-    "Sicurezza/3. Livello Trasporto.md",
+    "immagini/Protocolli/sync_carattere.png",
+    "immagini/Protocolli/Spettro.png",
+    "immagini/Protocolli/rete_stella.png",
+    "immagini/Protocolli/rete_dorsale.png",
+    "immagini/Protocolli/rete_albero.png",
+    "Sicurezza/dispense/firewalls-22-23.pdf",
     "Sicurezza/4. Livello rete.md",
-    "CalcNum/a0. Sistemi lineari.md",
-    "Sicurezza/dispense/Reti di calcolatori e internet - Un approcio top-downCap4.pdf",
-    "Sicurezza/dispense/Reti di calcolatori e internet - Un approcio top-downCap5.pdf",
-    "Sicurezza/dispense/lu515832ipt3.tmp",
-    "Sicurezza/dispense/lu506122h9tk.tmp",
-    "Sicurezza/dispense/Reti di calcolatori e internet - Un approcio top-downCap3.pdf",
-    "immagini/Sicurezza/multiplexing-demultiplexing.png",
+    "Sicurezza/Reti.md",
+    "Sicurezza/1. Internet.md",
+    "LaTeX.md",
+    "Basi Dati/5. Modello ER.md",
+    "Basi Dati/dispense/BDlezioneERChap3_removed.pdf",
+    "immagini/Basi Dati",
+    "Basi Dati/4. Calcolo Relazionale.md",
+    "Basi Dati/dispense/calcoloRelazionale - Copia_removed.pdf",
+    "Basi Dati/1. Modello Relazionale.md",
+    "Basi Dati/0. Basi di dati.md",
+    "Basi Dati/2. Algebra Relazionale.md",
+    "Basi Dati/dispense/groupBy_removed.pdf",
+    "Basi Dati/3. Architetture di un sistema di BD.md",
+    "Basi Dati/dispense/BDlezione2_removed.pdf",
+    "Basi Dati/dispense/algebraRelazionale2_removed.pdf",
+    "Basi Dati/dispense/BDlezioneProgLogicaChap7_removed.pdf",
+    "Basi Dati/dispense/BDlezioneERChap4_removed.pdf",
+    "Reti/dispense/2.pdf",
+    "Reti/??. IPv6.md",
+    "Reti/??. Border Gateway Protocol.md",
     "Reti/0. Modello di riferimento ISO-OSI.md",
-    "CalcNum/2. Error Analysis.md",
-    "CalcNum/1. Stabilità numerica.md",
-    "CalcNum/5. Derivata di più variabili.md",
-    "CalcNum/4. Problemi Ben Posti.md",
-    "CalcNum/3. Errore Per Le Funzioni Razionali.md",
-    "CalcNum/6. Valutazione di un polinomio.md",
-    "CalcNum/8. Matrici.md",
-    "CalcNum/9. Altre Strutture.md",
-    "CalcNum/a1. Algoritmo di Gauss.md",
-    "CalcNum/a2. Matrici tridiagonali.md",
-    "CalcNum/a3. Fattorizzazione LU.md",
-    "CalcNum/a3a. Esercizio.md",
-    "immagini/Protocolli/crc.png",
-    "immagini/Protocolli/lrc.png"
+    "IA-merged.md",
+    "IA/1. Agente Razionale.md",
+    "IA/2. Giochi avversari.md",
+    "Algoritmi/a1. Grafi.md",
+    "IA/3. Machine Learning.md",
+    "IA/0. Intelligent Agent.md",
+    "Protocolli/0. Introduzione.md",
+    "Protocolli/4. Fibra ottica.md",
+    "Basi Dati/3. Chiavi esterne.md",
+    "CalcNum-merged.md"
   ]
 }

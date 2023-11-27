@@ -1,188 +1,84 @@
 {
   "recentFiles": [
     {
-      "basename": "2. Algebra Relazionale",
-      "path": "Basi Dati/2. Algebra Relazionale.md"
-    },
-    {
-      "basename": "0. Basi di dati",
-      "path": "Basi Dati/0. Basi di dati.md"
-    },
-    {
-      "basename": "1. Modello Relazionale",
-      "path": "Basi Dati/1. Modello Relazionale.md"
-    },
-    {
-      "basename": "LaTeX",
-      "path": "LaTeX.md"
-    },
-    {
-      "basename": "algebraRelazionale2_removed",
-      "path": "Basi Dati/dispense/algebraRelazionale2_removed.pdf"
-    },
-    {
-      "basename": "lezione2BDmodRel_removed",
-      "path": "Basi Dati/dispense/lezione2BDmodRel_removed.pdf"
-    },
-    {
-      "basename": "lezione1modrelBD_removed",
-      "path": "Basi Dati/dispense/lezione1modrelBD_removed.pdf"
-    },
-    {
-      "basename": "BDlezione2_removed",
-      "path": "Basi Dati/dispense/BDlezione2_removed.pdf"
-    },
-    {
-      "basename": "CalcNum-merged",
-      "path": "CalcNum-merged.md"
-    },
-    {
-      "basename": "Ingegneria-merged",
-      "path": "Ingegneria-merged.md"
-    },
-    {
-      "basename": "4. Fibra ottica",
-      "path": "Protocolli/4. Fibra ottica.md"
-    },
-    {
-      "basename": "protocolli parte 1 2022-2023",
-      "path": "Protocolli/dispense/protocolli parte 1 2022-2023.pdf"
-    },
-    {
-      "basename": "3. Trasmissione dati",
-      "path": "Protocolli/3. Trasmissione dati.md"
-    },
-    {
-      "basename": "sync_carattere",
-      "path": "immagini/Protocolli/sync_carattere.png"
-    },
-    {
-      "basename": "Pasted image 20231003200127",
-      "path": "immagini/Pasted image 20231003200127.png"
-    },
-    {
-      "basename": "Spettro",
-      "path": "immagini/Protocolli/Spettro.png"
-    },
-    {
-      "basename": "CWDM",
-      "path": "immagini/Protocolli/CWDM.png"
+      "basename": "6. Firewall",
+      "path": "Sicurezza/6. Firewall.md"
     },
     {
       "basename": "3. Livello Trasporto",
       "path": "Sicurezza/3. Livello Trasporto.md"
     },
     {
+      "basename": "Pasted image 20231003200127",
+      "path": "immagini/Pasted image 20231003200127.png"
+    },
+    {
+      "basename": "trasmissione_carattere",
+      "path": "immagini/Protocolli/trasmissione_carattere.png"
+    },
+    {
+      "basename": "trasmissione_asincrona",
+      "path": "immagini/Protocolli/trasmissione_asincrona.png"
+    },
+    {
+      "basename": "TDM_sinc_stat",
+      "path": "immagini/Protocolli/TDM_sinc_stat.png"
+    },
+    {
+      "basename": "TDM",
+      "path": "immagini/Protocolli/TDM.png"
+    },
+    {
+      "basename": "sync_carattere",
+      "path": "immagini/Protocolli/sync_carattere.png"
+    },
+    {
+      "basename": "Spettro",
+      "path": "immagini/Protocolli/Spettro.png"
+    },
+    {
+      "basename": "rete_stella",
+      "path": "immagini/Protocolli/rete_stella.png"
+    },
+    {
+      "basename": "rete_dorsale",
+      "path": "immagini/Protocolli/rete_dorsale.png"
+    },
+    {
+      "basename": "rete_albero",
+      "path": "immagini/Protocolli/rete_albero.png"
+    },
+    {
+      "basename": "lrc",
+      "path": "immagini/Protocolli/lrc.png"
+    },
+    {
+      "basename": "jitter",
+      "path": "immagini/Protocolli/jitter.png"
+    },
+    {
+      "basename": "DWDM",
+      "path": "immagini/Protocolli/DWDM.png"
+    },
+    {
+      "basename": "CWDM",
+      "path": "immagini/Protocolli/CWDM.png"
+    },
+    {
+      "basename": "baud",
+      "path": "immagini/Protocolli/baud.png"
+    },
+    {
+      "basename": "crc",
+      "path": "immagini/Protocolli/crc.png"
+    },
+    {
+      "basename": "firewalls-22-23",
+      "path": "Sicurezza/dispense/firewalls-22-23.pdf"
+    },
+    {
       "basename": "4. Livello rete",
       "path": "Sicurezza/4. Livello rete.md"
-    },
-    {
-      "basename": "a0. Sistemi lineari",
-      "path": "CalcNum/a0. Sistemi lineari.md"
-    },
-    {
-      "basename": "Reti di calcolatori e internet - Un approcio top-downCap4",
-      "path": "Sicurezza/dispense/Reti di calcolatori e internet - Un approcio top-downCap4.pdf"
-    },
-    {
-      "basename": "Reti di calcolatori e internet - Un approcio top-downCap3",
-      "path": "Sicurezza/dispense/Reti di calcolatori e internet - Un approcio top-downCap3.pdf"
-    },
-    {
-      "basename": "intro_reti-http-ftp-dns-posta",
-      "path": "Sicurezza/dispense/intro_reti-http-ftp-dns-posta.pdf"
-    },
-    {
-      "basename": "ArchitetturaRetiDef_lez1-1",
-      "path": "Reti/dispense/ArchitetturaRetiDef_lez1-1.pdf"
-    },
-    {
-      "basename": "0. Modello di riferimento ISO-OSI",
-      "path": "Reti/0. Modello di riferimento ISO-OSI.md"
-    },
-    {
-      "basename": "2. Error Analysis",
-      "path": "CalcNum/2. Error Analysis.md"
-    },
-    {
-      "basename": "1. Stabilità numerica",
-      "path": "CalcNum/1. Stabilità numerica.md"
-    },
-    {
-      "basename": "5. Derivata di più variabili",
-      "path": "CalcNum/5. Derivata di più variabili.md"
-    },
-    {
-      "basename": "4. Problemi Ben Posti",
-      "path": "CalcNum/4. Problemi Ben Posti.md"
-    },
-    {
-      "basename": "3. Errore Per Le Funzioni Razionali",
-      "path": "CalcNum/3. Errore Per Le Funzioni Razionali.md"
-    },
-    {
-      "basename": "6. Valutazione di un polinomio",
-      "path": "CalcNum/6. Valutazione di un polinomio.md"
-    },
-    {
-      "basename": "8. Matrici",
-      "path": "CalcNum/8. Matrici.md"
-    },
-    {
-      "basename": "9. Altre Strutture",
-      "path": "CalcNum/9. Altre Strutture.md"
-    },
-    {
-      "basename": "a1. Algoritmo di Gauss",
-      "path": "CalcNum/a1. Algoritmo di Gauss.md"
-    },
-    {
-      "basename": "a2. Matrici tridiagonali",
-      "path": "CalcNum/a2. Matrici tridiagonali.md"
-    },
-    {
-      "basename": "a3. Fattorizzazione LU",
-      "path": "CalcNum/a3. Fattorizzazione LU.md"
-    },
-    {
-      "basename": "a3a. Esercizio",
-      "path": "CalcNum/a3a. Esercizio.md"
-    },
-    {
-      "basename": "a4. Variante del Massimo Pivot Parziale (GEPP)",
-      "path": "CalcNum/a4. Variante del Massimo Pivot Parziale (GEPP).md"
-    },
-    {
-      "basename": "a5. Curva di Bezier",
-      "path": "CalcNum/a5. Curva di Bezier.md"
-    },
-    {
-      "basename": "a6. Modello della corda elastica",
-      "path": "CalcNum/a6. Modello della corda elastica.md"
-    },
-    {
-      "basename": "a7. Interpolazione",
-      "path": "CalcNum/a7. Interpolazione.md"
-    },
-    {
-      "basename": "7. Vettori",
-      "path": "CalcNum/7. Vettori.md"
-    },
-    {
-      "basename": "0. Introduzione",
-      "path": "CalcNum/0. Introduzione.md"
-    },
-    {
-      "basename": "Calcolo numerico",
-      "path": "CalcNum/Calcolo numerico.pdf"
-    },
-    {
-      "basename": "1. Agente Razionale",
-      "path": "IA/1. Agente Razionale.md"
-    },
-    {
-      "basename": "2. Livello applicazione",
-      "path": "Sicurezza/2. Livello applicazione.md"
     },
     {
       "basename": "Reti",
@@ -193,8 +89,116 @@
       "path": "Sicurezza/1. Internet.md"
     },
     {
-      "basename": "1. Definizione di Algoritmo",
-      "path": "Algoritmi/1. Definizione di Algoritmo.md"
+      "basename": "LaTeX",
+      "path": "LaTeX.md"
+    },
+    {
+      "basename": "5. Modello ER",
+      "path": "Basi Dati/5. Modello ER.md"
+    },
+    {
+      "basename": "BDlezioneERChap3_removed",
+      "path": "Basi Dati/dispense/BDlezioneERChap3_removed.pdf"
+    },
+    {
+      "basename": "4. Calcolo Relazionale",
+      "path": "Basi Dati/4. Calcolo Relazionale.md"
+    },
+    {
+      "basename": "calcoloRelazionale - Copia_removed",
+      "path": "Basi Dati/dispense/calcoloRelazionale - Copia_removed.pdf"
+    },
+    {
+      "basename": "1. Modello Relazionale",
+      "path": "Basi Dati/1. Modello Relazionale.md"
+    },
+    {
+      "basename": "0. Basi di dati",
+      "path": "Basi Dati/0. Basi di dati.md"
+    },
+    {
+      "basename": "2. Algebra Relazionale",
+      "path": "Basi Dati/2. Algebra Relazionale.md"
+    },
+    {
+      "basename": "groupBy_removed",
+      "path": "Basi Dati/dispense/groupBy_removed.pdf"
+    },
+    {
+      "basename": "3. Architetture di un sistema di BD",
+      "path": "Basi Dati/3. Architetture di un sistema di BD.md"
+    },
+    {
+      "basename": "BDlezione2_removed",
+      "path": "Basi Dati/dispense/BDlezione2_removed.pdf"
+    },
+    {
+      "basename": "algebraRelazionale2_removed",
+      "path": "Basi Dati/dispense/algebraRelazionale2_removed.pdf"
+    },
+    {
+      "basename": "2",
+      "path": "Reti/dispense/2.pdf"
+    },
+    {
+      "basename": "??. IPv6",
+      "path": "Reti/??. IPv6.md"
+    },
+    {
+      "basename": "??. Border Gateway Protocol",
+      "path": "Reti/??. Border Gateway Protocol.md"
+    },
+    {
+      "basename": "ArchitetturaRetiDef_lez1-1",
+      "path": "Reti/dispense/ArchitetturaRetiDef_lez1-1.pdf"
+    },
+    {
+      "basename": "0. Modello di riferimento ISO-OSI",
+      "path": "Reti/0. Modello di riferimento ISO-OSI.md"
+    },
+    {
+      "basename": "IA-merged",
+      "path": "IA-merged.md"
+    },
+    {
+      "basename": "1. Agente Razionale",
+      "path": "IA/1. Agente Razionale.md"
+    },
+    {
+      "basename": "2. Giochi avversari",
+      "path": "IA/2. Giochi avversari.md"
+    },
+    {
+      "basename": "6-Games-algorithms",
+      "path": "IA/dispense/6-Games-algorithms.pdf"
+    },
+    {
+      "basename": "a1. Grafi",
+      "path": "Algoritmi/a1. Grafi.md"
+    },
+    {
+      "basename": "minimax 1",
+      "path": "immagini/IA/minimax 1.svg"
+    },
+    {
+      "basename": "3. Machine Learning",
+      "path": "IA/3. Machine Learning.md"
+    },
+    {
+      "basename": "6-Games",
+      "path": "IA/dispense/6-Games.pdf"
+    },
+    {
+      "basename": "minimax",
+      "path": "immagini/IA/minimax.svg"
+    },
+    {
+      "basename": "IDA_RBFS_SMA",
+      "path": "IA/dispense/IDA_RBFS_SMA.pdf"
+    },
+    {
+      "basename": "chap3_basic_classification",
+      "path": "IA/dispense/chap3_basic_classification.pdf"
     }
   ],
   "omittedPaths": [],
