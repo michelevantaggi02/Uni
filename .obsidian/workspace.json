@@ -6,6 +6,7 @@
       {
         "id": "1b8f2e304dc6b4bd",
         "type": "tabs",
+        "dimension": 59.38461538461538,
         "children": [
           {
             "id": "07a23f7b332d1814",
@@ -22,35 +23,78 @@
             }
           },
           {
-            "id": "3effc51cbea0a92b",
+            "id": "c0d7cbe2392f73f0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sicurezza/6. Firewall.md",
+                "file": "Basi Dati/7. Normalizzazione.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 1,
+        "stacked": true
       },
       {
-        "id": "e58a0306662b2d19",
+        "id": "cd373004ca15b5f6",
         "type": "tabs",
+        "dimension": 40.61538461538461,
         "children": [
           {
-            "id": "78f855ce86bc2275",
+            "id": "51830478eaae6877",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Sicurezza/dispense/firewalls-22-23.pdf"
+                "file": "Basi Dati/dispense/calcoloRelazionale - Copia_removed.pdf"
+              }
+            }
+          },
+          {
+            "id": "4b6c5d563dab5540",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Basi Dati/dispense/BDlezioneERChap3_removed.pdf"
+              }
+            }
+          },
+          {
+            "id": "b3a766605262fdb1",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Basi Dati/dispense/BDlezioneERChap4_removed.pdf"
+              }
+            }
+          },
+          {
+            "id": "e2c79f086d598bb7",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Basi Dati/dispense/BDlezioneProgLogicaChap10_removed.pdf"
+              }
+            }
+          },
+          {
+            "id": "2994ad67d6031f91",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Basi Dati/dispense/normalizzazione2020_removed.pdf"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -118,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sicurezza/6. Firewall.md"
+                "file": "Basi Dati/7. Normalizzazione.md"
               }
             }
           }
@@ -126,7 +170,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 288.5
+    "width": 265.5
   },
   "right": {
     "id": "d301eb09d39979ed",
@@ -142,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sicurezza/6. Firewall.md",
+                "file": "Basi Dati/7. Normalizzazione.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sicurezza/6. Firewall.md",
+                "file": "Basi Dati/7. Normalizzazione.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -214,7 +258,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           },
@@ -232,7 +278,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Sicurezza/6. Firewall.md"
+                "file": "Basi Dati/7. Normalizzazione.md"
               }
             }
           }
@@ -268,52 +314,53 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3effc51cbea0a92b",
+  "active": "c0d7cbe2392f73f0",
   "lastOpenFiles": [
-    "Sicurezza/3. Livello Trasporto.md",
-    "Sicurezza/6. Firewall.md",
-    "immagini/Pasted image 20231003200127.png",
-    "immagini/Protocolli/trasmissione_carattere.png",
-    "immagini/Protocolli/trasmissione_asincrona.png",
-    "immagini/Protocolli/TDM_sinc_stat.png",
-    "immagini/Protocolli/TDM.png",
-    "immagini/Protocolli/sync_carattere.png",
-    "immagini/Protocolli/Spettro.png",
-    "immagini/Protocolli/rete_stella.png",
-    "immagini/Protocolli/rete_dorsale.png",
-    "immagini/Protocolli/rete_albero.png",
-    "Sicurezza/dispense/firewalls-22-23.pdf",
-    "Sicurezza/4. Livello rete.md",
-    "Sicurezza/Reti.md",
-    "Sicurezza/1. Internet.md",
+    "Basi Dati/6. Modello EER.md",
+    "Basi Dati/dispense/normalizzazione2020_removed.pdf",
+    "Basi Dati/dispense/BDlezioneProgLogicaChap10_removed.pdf",
+    "Basi Dati/dispense/BDlezioneProgLogicaChap7_removed.pdf",
+    "Basi Dati/4. Calcolo Relazionale.md",
+    "Basi Dati/dispense/BDlezioneERChap4_removed.pdf",
     "LaTeX.md",
     "Basi Dati/5. Modello ER.md",
     "Basi Dati/dispense/BDlezioneERChap3_removed.pdf",
-    "immagini/Basi Dati",
-    "Basi Dati/4. Calcolo Relazionale.md",
     "Basi Dati/dispense/calcoloRelazionale - Copia_removed.pdf",
-    "Basi Dati/1. Modello Relazionale.md",
-    "Basi Dati/0. Basi di dati.md",
-    "Basi Dati/2. Algebra Relazionale.md",
-    "Basi Dati/dispense/groupBy_removed.pdf",
-    "Basi Dati/3. Architetture di un sistema di BD.md",
-    "Basi Dati/dispense/BDlezione2_removed.pdf",
-    "Basi Dati/dispense/algebraRelazionale2_removed.pdf",
-    "Basi Dati/dispense/BDlezioneProgLogicaChap7_removed.pdf",
-    "Basi Dati/dispense/BDlezioneERChap4_removed.pdf",
-    "Reti/dispense/2.pdf",
-    "Reti/??. IPv6.md",
-    "Reti/??. Border Gateway Protocol.md",
-    "Reti/0. Modello di riferimento ISO-OSI.md",
-    "IA-merged.md",
-    "IA/1. Agente Razionale.md",
-    "IA/2. Giochi avversari.md",
-    "Algoritmi/a1. Grafi.md",
-    "IA/3. Machine Learning.md",
-    "IA/0. Intelligent Agent.md",
-    "Protocolli/0. Introduzione.md",
     "Protocolli/4. Fibra ottica.md",
-    "Basi Dati/3. Chiavi esterne.md",
-    "CalcNum-merged.md"
+    "Protocolli/3. Trasmissione dati.md",
+    "Protocolli/dispense/Mappa_concettuale.canvas",
+    "Protocolli/2. Protocolli ISO-OSI.md",
+    "Protocolli/1. Tipi di connessione.md",
+    "IA/??. Classificazione.md",
+    "IA/Untitled.md",
+    "Sicurezza/dispense/Reti di calcolatori e internet - Un approcio top-downCap5.pdf",
+    "Sicurezza/dispense/Reti di calcolatori e internet - Un approcio top-downCap4.pdf",
+    "Sicurezza/dispense/Reti di calcolatori e internet - Un approcio top-downCap3.pdf",
+    "Sicurezza/dispense/intro_reti-http-ftp-dns-posta.pdf",
+    "Sicurezza/Esame.md",
+    "IA/4. ANN.md",
+    "immagini/ex_ann.png",
+    "immagini/funzioni_attivazione.png",
+    "IA/3. Machine Learning.md",
+    "Basi Dati/7. Normalizzazione.md",
+    "Sicurezza/10. Password.md",
+    "Sicurezza/9. IP.md",
+    "Sicurezza/Untitled.md",
+    "Sicurezza/8. DNS.md",
+    "Sicurezza/Reti.md",
+    "Sicurezza/7. Email.md",
+    "Sicurezza/6. Firewall.md",
+    "Sicurezza/4. Livello rete.md",
+    "Sicurezza/3. Livello Trasporto.md",
+    "Sicurezza/2. Livello applicazione.md",
+    "Sicurezza/1. Internet.md",
+    "immagini/Reti/host_table.png",
+    "immagini/Protocolli/fourier.png",
+    "immagini/Protocolli/larghezza-banda.png",
+    "immagini/Pasted image 20231128110439.png",
+    "immagini/Protocolli/seno.png",
+    "immagini/Protocolli/sinusoide.png",
+    "immagini/Protocolli/arq-selettivo.png",
+    "immagini/Protocolli/arq-go-back-n.png"
   ]
 }

@@ -1,92 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "6. Firewall",
-      "path": "Sicurezza/6. Firewall.md"
+      "basename": "7. Normalizzazione",
+      "path": "Basi Dati/7. Normalizzazione.md"
     },
     {
-      "basename": "3. Livello Trasporto",
-      "path": "Sicurezza/3. Livello Trasporto.md"
+      "basename": "6. Modello EER",
+      "path": "Basi Dati/6. Modello EER.md"
     },
     {
-      "basename": "Pasted image 20231003200127",
-      "path": "immagini/Pasted image 20231003200127.png"
+      "basename": "normalizzazione2020_removed",
+      "path": "Basi Dati/dispense/normalizzazione2020_removed.pdf"
     },
     {
-      "basename": "trasmissione_carattere",
-      "path": "immagini/Protocolli/trasmissione_carattere.png"
+      "basename": "BDlezioneProgLogicaChap10_removed",
+      "path": "Basi Dati/dispense/BDlezioneProgLogicaChap10_removed.pdf"
     },
     {
-      "basename": "trasmissione_asincrona",
-      "path": "immagini/Protocolli/trasmissione_asincrona.png"
+      "basename": "BDlezioneProgLogicaChap7_removed",
+      "path": "Basi Dati/dispense/BDlezioneProgLogicaChap7_removed.pdf"
     },
     {
-      "basename": "TDM_sinc_stat",
-      "path": "immagini/Protocolli/TDM_sinc_stat.png"
+      "basename": "4. Calcolo Relazionale",
+      "path": "Basi Dati/4. Calcolo Relazionale.md"
     },
     {
-      "basename": "TDM",
-      "path": "immagini/Protocolli/TDM.png"
-    },
-    {
-      "basename": "sync_carattere",
-      "path": "immagini/Protocolli/sync_carattere.png"
-    },
-    {
-      "basename": "Spettro",
-      "path": "immagini/Protocolli/Spettro.png"
-    },
-    {
-      "basename": "rete_stella",
-      "path": "immagini/Protocolli/rete_stella.png"
-    },
-    {
-      "basename": "rete_dorsale",
-      "path": "immagini/Protocolli/rete_dorsale.png"
-    },
-    {
-      "basename": "rete_albero",
-      "path": "immagini/Protocolli/rete_albero.png"
-    },
-    {
-      "basename": "lrc",
-      "path": "immagini/Protocolli/lrc.png"
-    },
-    {
-      "basename": "jitter",
-      "path": "immagini/Protocolli/jitter.png"
-    },
-    {
-      "basename": "DWDM",
-      "path": "immagini/Protocolli/DWDM.png"
-    },
-    {
-      "basename": "CWDM",
-      "path": "immagini/Protocolli/CWDM.png"
-    },
-    {
-      "basename": "baud",
-      "path": "immagini/Protocolli/baud.png"
-    },
-    {
-      "basename": "crc",
-      "path": "immagini/Protocolli/crc.png"
-    },
-    {
-      "basename": "firewalls-22-23",
-      "path": "Sicurezza/dispense/firewalls-22-23.pdf"
-    },
-    {
-      "basename": "4. Livello rete",
-      "path": "Sicurezza/4. Livello rete.md"
-    },
-    {
-      "basename": "Reti",
-      "path": "Sicurezza/Reti.md"
-    },
-    {
-      "basename": "1. Internet",
-      "path": "Sicurezza/1. Internet.md"
+      "basename": "BDlezioneERChap4_removed",
+      "path": "Basi Dati/dispense/BDlezioneERChap4_removed.pdf"
     },
     {
       "basename": "LaTeX",
@@ -101,40 +41,140 @@
       "path": "Basi Dati/dispense/BDlezioneERChap3_removed.pdf"
     },
     {
-      "basename": "4. Calcolo Relazionale",
-      "path": "Basi Dati/4. Calcolo Relazionale.md"
-    },
-    {
       "basename": "calcoloRelazionale - Copia_removed",
       "path": "Basi Dati/dispense/calcoloRelazionale - Copia_removed.pdf"
     },
     {
-      "basename": "1. Modello Relazionale",
-      "path": "Basi Dati/1. Modello Relazionale.md"
+      "basename": "4. Fibra ottica",
+      "path": "Protocolli/4. Fibra ottica.md"
     },
     {
-      "basename": "0. Basi di dati",
-      "path": "Basi Dati/0. Basi di dati.md"
+      "basename": "3. Trasmissione dati",
+      "path": "Protocolli/3. Trasmissione dati.md"
     },
     {
-      "basename": "2. Algebra Relazionale",
-      "path": "Basi Dati/2. Algebra Relazionale.md"
+      "basename": "Mappa_concettuale",
+      "path": "Protocolli/dispense/Mappa_concettuale.canvas"
     },
     {
-      "basename": "groupBy_removed",
-      "path": "Basi Dati/dispense/groupBy_removed.pdf"
+      "basename": "2. Protocolli ISO-OSI",
+      "path": "Protocolli/2. Protocolli ISO-OSI.md"
     },
     {
-      "basename": "3. Architetture di un sistema di BD",
-      "path": "Basi Dati/3. Architetture di un sistema di BD.md"
+      "basename": "1. Tipi di connessione",
+      "path": "Protocolli/1. Tipi di connessione.md"
     },
     {
-      "basename": "BDlezione2_removed",
-      "path": "Basi Dati/dispense/BDlezione2_removed.pdf"
+      "basename": "??. Classificazione",
+      "path": "IA/??. Classificazione.md"
     },
     {
-      "basename": "algebraRelazionale2_removed",
-      "path": "Basi Dati/dispense/algebraRelazionale2_removed.pdf"
+      "basename": "Untitled",
+      "path": "IA/Untitled.md"
+    },
+    {
+      "basename": "Reti di calcolatori e internet - Un approcio top-downCap5",
+      "path": "Sicurezza/dispense/Reti di calcolatori e internet - Un approcio top-downCap5.pdf"
+    },
+    {
+      "basename": "Reti di calcolatori e internet - Un approcio top-downCap4",
+      "path": "Sicurezza/dispense/Reti di calcolatori e internet - Un approcio top-downCap4.pdf"
+    },
+    {
+      "basename": "Reti di calcolatori e internet - Un approcio top-downCap3",
+      "path": "Sicurezza/dispense/Reti di calcolatori e internet - Un approcio top-downCap3.pdf"
+    },
+    {
+      "basename": "intro_reti-http-ftp-dns-posta",
+      "path": "Sicurezza/dispense/intro_reti-http-ftp-dns-posta.pdf"
+    },
+    {
+      "basename": "firewalls-22-23",
+      "path": "Sicurezza/dispense/firewalls-22-23.pdf"
+    },
+    {
+      "basename": "CH09 NetSec6e",
+      "path": "Sicurezza/dispense/CH09 NetSec6e.pdf"
+    },
+    {
+      "basename": "CH08 NetSec6e",
+      "path": "Sicurezza/dispense/CH08 NetSec6e.pdf"
+    },
+    {
+      "basename": "authentication",
+      "path": "Sicurezza/dispense/authentication.pdf"
+    },
+    {
+      "basename": "Esame",
+      "path": "Sicurezza/Esame.md"
+    },
+    {
+      "basename": "Protocolli 2020_2021 PARTE 2",
+      "path": "Protocolli/dispense/Protocolli 2020_2021 PARTE 2.pdf"
+    },
+    {
+      "basename": "4. ANN",
+      "path": "IA/4. ANN.md"
+    },
+    {
+      "basename": "chap4_ann",
+      "path": "IA/dispense/chap4_ann.pdf"
+    },
+    {
+      "basename": "chap3_basic_classification",
+      "path": "IA/dispense/chap3_basic_classification.pdf"
+    },
+    {
+      "basename": "3. Machine Learning",
+      "path": "IA/3. Machine Learning.md"
+    },
+    {
+      "basename": "10. Password",
+      "path": "Sicurezza/10. Password.md"
+    },
+    {
+      "basename": "9. IP",
+      "path": "Sicurezza/9. IP.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Sicurezza/Untitled.md"
+    },
+    {
+      "basename": "8. DNS",
+      "path": "Sicurezza/8. DNS.md"
+    },
+    {
+      "basename": "Reti",
+      "path": "Sicurezza/Reti.md"
+    },
+    {
+      "basename": "7. Email",
+      "path": "Sicurezza/7. Email.md"
+    },
+    {
+      "basename": "6. Firewall",
+      "path": "Sicurezza/6. Firewall.md"
+    },
+    {
+      "basename": "4. Livello rete",
+      "path": "Sicurezza/4. Livello rete.md"
+    },
+    {
+      "basename": "3. Livello Trasporto",
+      "path": "Sicurezza/3. Livello Trasporto.md"
+    },
+    {
+      "basename": "2. Livello applicazione",
+      "path": "Sicurezza/2. Livello applicazione.md"
+    },
+    {
+      "basename": "1. Internet",
+      "path": "Sicurezza/1. Internet.md"
+    },
+    {
+      "basename": "??. Servizi di rete",
+      "path": "Reti/??. Servizi di rete.md"
     },
     {
       "basename": "2",
@@ -145,60 +185,20 @@
       "path": "Reti/??. IPv6.md"
     },
     {
-      "basename": "??. Border Gateway Protocol",
-      "path": "Reti/??. Border Gateway Protocol.md"
+      "basename": "protocolli parte 1 2022-2023",
+      "path": "Protocolli/dispense/protocolli parte 1 2022-2023.pdf"
     },
     {
-      "basename": "ArchitetturaRetiDef_lez1-1",
-      "path": "Reti/dispense/ArchitetturaRetiDef_lez1-1.pdf"
+      "basename": "larghezza-banda",
+      "path": "immagini/Protocolli/larghezza-banda.png"
     },
     {
-      "basename": "0. Modello di riferimento ISO-OSI",
-      "path": "Reti/0. Modello di riferimento ISO-OSI.md"
+      "basename": "trasmissione_carattere",
+      "path": "immagini/Protocolli/trasmissione_carattere.png"
     },
     {
-      "basename": "IA-merged",
-      "path": "IA-merged.md"
-    },
-    {
-      "basename": "1. Agente Razionale",
-      "path": "IA/1. Agente Razionale.md"
-    },
-    {
-      "basename": "2. Giochi avversari",
-      "path": "IA/2. Giochi avversari.md"
-    },
-    {
-      "basename": "6-Games-algorithms",
-      "path": "IA/dispense/6-Games-algorithms.pdf"
-    },
-    {
-      "basename": "a1. Grafi",
-      "path": "Algoritmi/a1. Grafi.md"
-    },
-    {
-      "basename": "minimax 1",
-      "path": "immagini/IA/minimax 1.svg"
-    },
-    {
-      "basename": "3. Machine Learning",
-      "path": "IA/3. Machine Learning.md"
-    },
-    {
-      "basename": "6-Games",
-      "path": "IA/dispense/6-Games.pdf"
-    },
-    {
-      "basename": "minimax",
-      "path": "immagini/IA/minimax.svg"
-    },
-    {
-      "basename": "IDA_RBFS_SMA",
-      "path": "IA/dispense/IDA_RBFS_SMA.pdf"
-    },
-    {
-      "basename": "chap3_basic_classification",
-      "path": "IA/dispense/chap3_basic_classification.pdf"
+      "basename": "trasmissione_asincrona",
+      "path": "immagini/Protocolli/trasmissione_asincrona.png"
     }
   ],
   "omittedPaths": [],
