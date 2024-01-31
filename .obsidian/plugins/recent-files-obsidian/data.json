@@ -5,16 +5,16 @@
       "path": "Algoritmi/5. Divide et impera.md"
     },
     {
+      "basename": "6. Quicksort",
+      "path": "Algoritmi/6. Quicksort.md"
+    },
+    {
       "basename": "4. Ammortizzazione",
       "path": "Algoritmi/4. Ammortizzazione.md"
     },
     {
       "basename": "2. Analisi e studio",
       "path": "Algoritmi/2. Analisi e studio.md"
-    },
-    {
-      "basename": "6. Quicksort",
-      "path": "Algoritmi/6. Quicksort.md"
     },
     {
       "basename": "Algoritmi-merged",
