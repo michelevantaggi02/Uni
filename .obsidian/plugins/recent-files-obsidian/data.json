@@ -1,12 +1,56 @@
 {
   "recentFiles": [
     {
-      "basename": "7. Normalizzazione",
-      "path": "Basi Dati/7. Normalizzazione.md"
+      "basename": "6. Quicksort",
+      "path": "Algoritmi/6. Quicksort.md"
     },
     {
-      "basename": "6. Modello EER",
-      "path": "Basi Dati/6. Modello EER.md"
+      "basename": "5. Divide et impera",
+      "path": "Algoritmi/5. Divide et impera.md"
+    },
+    {
+      "basename": "4. Ammortizzazione",
+      "path": "Algoritmi/4. Ammortizzazione.md"
+    },
+    {
+      "basename": "2. Analisi e studio",
+      "path": "Algoritmi/2. Analisi e studio.md"
+    },
+    {
+      "basename": "Algoritmi-merged",
+      "path": "Algoritmi-merged.md"
+    },
+    {
+      "basename": "1. Definizione di Algoritmo",
+      "path": "Algoritmi/1. Definizione di Algoritmo.md"
+    },
+    {
+      "basename": "4. ANN",
+      "path": "IA/4. ANN.md"
+    },
+    {
+      "basename": "2. Giochi avversari",
+      "path": "IA/2. Giochi avversari.md"
+    },
+    {
+      "basename": "3. Machine Learning",
+      "path": "IA/3. Machine Learning.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "IA/Untitled.md"
+    },
+    {
+      "basename": "01_introduction_ML",
+      "path": "IA/dispense/01_introduction_ML.pdf"
+    },
+    {
+      "basename": "LaTeX",
+      "path": "LaTeX.md"
+    },
+    {
+      "basename": "7. Normalizzazione",
+      "path": "Basi Dati/7. Normalizzazione.md"
     },
     {
       "basename": "normalizzazione2020_removed",
@@ -17,32 +61,36 @@
       "path": "Basi Dati/dispense/BDlezioneProgLogicaChap10_removed.pdf"
     },
     {
-      "basename": "BDlezioneProgLogicaChap7_removed",
-      "path": "Basi Dati/dispense/BDlezioneProgLogicaChap7_removed.pdf"
-    },
-    {
-      "basename": "4. Calcolo Relazionale",
-      "path": "Basi Dati/4. Calcolo Relazionale.md"
+      "basename": "BDlezioneERChap3_removed",
+      "path": "Basi Dati/dispense/BDlezioneERChap3_removed.pdf"
     },
     {
       "basename": "BDlezioneERChap4_removed",
       "path": "Basi Dati/dispense/BDlezioneERChap4_removed.pdf"
     },
     {
-      "basename": "LaTeX",
-      "path": "LaTeX.md"
+      "basename": "4. Calcolo Relazionale",
+      "path": "Basi Dati/4. Calcolo Relazionale.md"
     },
     {
-      "basename": "5. Modello ER",
-      "path": "Basi Dati/5. Modello ER.md"
-    },
-    {
-      "basename": "BDlezioneERChap3_removed",
-      "path": "Basi Dati/dispense/BDlezioneERChap3_removed.pdf"
+      "basename": "2. Algebra Relazionale",
+      "path": "Basi Dati/2. Algebra Relazionale.md"
     },
     {
       "basename": "calcoloRelazionale - Copia_removed",
       "path": "Basi Dati/dispense/calcoloRelazionale - Copia_removed.pdf"
+    },
+    {
+      "basename": "6. Modello EER",
+      "path": "Basi Dati/6. Modello EER.md"
+    },
+    {
+      "basename": "BDlezioneProgLogicaChap7_removed",
+      "path": "Basi Dati/dispense/BDlezioneProgLogicaChap7_removed.pdf"
+    },
+    {
+      "basename": "5. Modello ER",
+      "path": "Basi Dati/5. Modello ER.md"
     },
     {
       "basename": "4. Fibra ottica",
@@ -67,10 +115,6 @@
     {
       "basename": "??. Classificazione",
       "path": "IA/??. Classificazione.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "IA/Untitled.md"
     },
     {
       "basename": "Reti di calcolatori e internet - Un approcio top-downCap5",
@@ -113,20 +157,12 @@
       "path": "Protocolli/dispense/Protocolli 2020_2021 PARTE 2.pdf"
     },
     {
-      "basename": "4. ANN",
-      "path": "IA/4. ANN.md"
-    },
-    {
       "basename": "chap4_ann",
       "path": "IA/dispense/chap4_ann.pdf"
     },
     {
       "basename": "chap3_basic_classification",
       "path": "IA/dispense/chap3_basic_classification.pdf"
-    },
-    {
-      "basename": "3. Machine Learning",
-      "path": "IA/3. Machine Learning.md"
     },
     {
       "basename": "10. Password",
@@ -163,42 +199,6 @@
     {
       "basename": "3. Livello Trasporto",
       "path": "Sicurezza/3. Livello Trasporto.md"
-    },
-    {
-      "basename": "2. Livello applicazione",
-      "path": "Sicurezza/2. Livello applicazione.md"
-    },
-    {
-      "basename": "1. Internet",
-      "path": "Sicurezza/1. Internet.md"
-    },
-    {
-      "basename": "??. Servizi di rete",
-      "path": "Reti/??. Servizi di rete.md"
-    },
-    {
-      "basename": "2",
-      "path": "Reti/dispense/2.pdf"
-    },
-    {
-      "basename": "??. IPv6",
-      "path": "Reti/??. IPv6.md"
-    },
-    {
-      "basename": "protocolli parte 1 2022-2023",
-      "path": "Protocolli/dispense/protocolli parte 1 2022-2023.pdf"
-    },
-    {
-      "basename": "larghezza-banda",
-      "path": "immagini/Protocolli/larghezza-banda.png"
-    },
-    {
-      "basename": "trasmissione_carattere",
-      "path": "immagini/Protocolli/trasmissione_carattere.png"
-    },
-    {
-      "basename": "trasmissione_asincrona",
-      "path": "immagini/Protocolli/trasmissione_asincrona.png"
     }
   ],
   "omittedPaths": [],
