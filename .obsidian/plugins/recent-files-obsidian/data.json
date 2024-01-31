@@ -1,10 +1,6 @@
 {
   "recentFiles": [
     {
-      "basename": "6. Quicksort",
-      "path": "Algoritmi/6. Quicksort.md"
-    },
-    {
       "basename": "5. Divide et impera",
       "path": "Algoritmi/5. Divide et impera.md"
     },
@@ -15,6 +11,10 @@
     {
       "basename": "2. Analisi e studio",
       "path": "Algoritmi/2. Analisi e studio.md"
+    },
+    {
+      "basename": "6. Quicksort",
+      "path": "Algoritmi/6. Quicksort.md"
     },
     {
       "basename": "Algoritmi-merged",
