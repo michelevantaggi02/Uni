@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "5. Divide et impera",
-      "path": "Algoritmi/5. Divide et impera.md"
+      "basename": "8. Sorting in tempo lineare",
+      "path": "Algoritmi/8. Sorting in tempo lineare.md"
+    },
+    {
+      "basename": "7. Heapsort",
+      "path": "Algoritmi/7. Heapsort.md"
     },
     {
       "basename": "6. Quicksort",
       "path": "Algoritmi/6. Quicksort.md"
+    },
+    {
+      "basename": "5. Divide et impera",
+      "path": "Algoritmi/5. Divide et impera.md"
     },
     {
       "basename": "4. Ammortizzazione",
@@ -191,14 +199,6 @@
     {
       "basename": "6. Firewall",
       "path": "Sicurezza/6. Firewall.md"
-    },
-    {
-      "basename": "4. Livello rete",
-      "path": "Sicurezza/4. Livello rete.md"
-    },
-    {
-      "basename": "3. Livello Trasporto",
-      "path": "Sicurezza/3. Livello Trasporto.md"
     }
   ],
   "omittedPaths": [],
