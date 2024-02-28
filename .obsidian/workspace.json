@@ -22,12 +22,12 @@
             }
           },
           {
-            "id": "ad17a9d0972a50e4",
+            "id": "9acdb285a7c039e6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algoritmi/8. Sorting in tempo lineare.md",
+                "file": "SDEP/0. Introduzione.md",
                 "mode": "source",
                 "source": false
               }
@@ -35,6 +35,22 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "451a40944c12ab0e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9cf8424050ae070a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "SDEP/dispense/SDEP-slides-Iparte-22-23.pdf"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algoritmi/8. Sorting in tempo lineare.md"
+                "file": "SDEP/dispense/SDEP-slides-Iparte-22-23.pdf"
               }
             }
           }
@@ -126,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algoritmi/8. Sorting in tempo lineare.md",
+                "file": "SDEP/dispense/SDEP-slides-Iparte-22-23.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algoritmi/8. Sorting in tempo lineare.md",
+                "file": "SDEP/dispense/SDEP-slides-Iparte-22-23.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -218,7 +234,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Algoritmi/8. Sorting in tempo lineare.md"
+                "file": "SDEP/dispense/SDEP-slides-Iparte-22-23.pdf"
               }
             }
           }
@@ -255,54 +271,53 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ad17a9d0972a50e4",
+  "active": "9cf8424050ae070a",
   "lastOpenFiles": [
+    "SDEP/0. Introduzione.md",
+    "SDEP/dispense/SDEP-slides-Iparte-22-23.pdf",
+    "immagini/4-tier-2.png",
+    "immagini/4-tier.png",
+    "immagini/Pasted image 20240228191245.png",
+    "immagini/SDEP/3-tier.png",
+    "immagini/SDEP/client-server-ptp.png",
+    "immagini/SDEP/2-tier.png",
+    "immagini/Pasted image 20240228190823.png",
+    "Web/0..md",
+    "LaTeX.md",
+    "Web",
+    "immagini/Pasted image 20240228102327.png",
+    "immagini/IA/ex_ann.png",
+    "immagini/SDEP/client-server.png",
+    "immagini/SDEP",
+    "Algoritmi/a3. Alberi.md",
+    "Algoritmi/a4. Tabelle Hash.md",
+    "Algoritmi/a2. Grafi pesati.md",
+    "Algoritmi/a1. Grafi.md",
+    "Algoritmi/dispense/topologicalsort-sinkuniversale-cfc.pdf",
+    "Algoritmi/Algorithms/__pycache__/alg_graph_tools.cpython-312.pyc",
+    "Algoritmi/Algorithms/alg_graph_tools.py",
+    "Algoritmi/Algorithms/__pycache__/graph_tools.cpython-312.pyc",
+    "Algoritmi/Algorithms/__pycache__",
+    "Algoritmi/Algorithms/graph_tools.py",
+    "Algoritmi/Algorithms/graphs.ipynb",
+    "Algoritmi/9. Statistiche d'ordine.md",
+    "Algoritmi/8. Sorting in tempo lineare.md",
     "Algoritmi/7. Heapsort.md",
-    "Algoritmi/Algorithms/data_structures",
     "Algoritmi/6. Quicksort.md",
     "Algoritmi/5. Divide et impera.md",
     "Algoritmi/4. Ammortizzazione.md",
     "Algoritmi/2. Analisi e studio.md",
-    "Algoritmi/Algorithms/sorting.ipynb",
     "Algoritmi/Algorithms/LICENSE.md",
     "Algoritmi/Algorithms/README.md",
-    "Algorithms",
-    "Algoritmi/Algorithms",
     "Algoritmi-merged.md",
     "Algoritmi/1. Definizione di Algoritmo.md",
     "IA/4. ANN.md",
     "IA/2. Giochi avversari.md",
     "IA/3. Machine Learning.md",
     "IA/Untitled.md",
-    "IA/dispense/01_introduction_ML.pdf",
-    "LaTeX.md",
     "Basi Dati/7. Normalizzazione.md",
-    "Basi Dati/dispense/normalizzazione2020_removed.pdf",
-    "Basi Dati/dispense/BDlezioneProgLogicaChap10_removed.pdf",
-    "Basi Dati/dispense/BDlezioneERChap3_removed.pdf",
-    "Basi Dati/dispense/BDlezioneERChap4_removed.pdf",
     "Basi Dati/4. Calcolo Relazionale.md",
     "Basi Dati/2. Algebra Relazionale.md",
-    "Basi Dati/dispense/calcoloRelazionale - Copia_removed.pdf",
-    "Basi Dati/6. Modello EER.md",
-    "Basi Dati/5. Modello ER.md",
-    "Protocolli/4. Fibra ottica.md",
-    "Protocolli/3. Trasmissione dati.md",
-    "Protocolli/dispense/Mappa_concettuale.canvas",
-    "Protocolli/2. Protocolli ISO-OSI.md",
-    "Protocolli/1. Tipi di connessione.md",
-    "IA/??. Classificazione.md",
-    "Sicurezza/Esame.md",
-    "immagini/ex_ann.png",
-    "immagini/funzioni_attivazione.png",
-    "Sicurezza/10. Password.md",
-    "immagini/Reti/host_table.png",
-    "immagini/Protocolli/fourier.png",
-    "immagini/Protocolli/larghezza-banda.png",
-    "immagini/Pasted image 20231128110439.png",
-    "immagini/Protocolli/seno.png",
-    "immagini/Protocolli/sinusoide.png",
-    "immagini/Protocolli/arq-selettivo.png",
-    "immagini/Protocolli/arq-go-back-n.png"
+    "Protocolli/dispense/Mappa_concettuale.canvas"
   ]
 }

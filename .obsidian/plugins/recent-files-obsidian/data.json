@@ -1,6 +1,62 @@
 {
   "recentFiles": [
     {
+      "basename": "SDEP-slides-Iparte-22-23",
+      "path": "SDEP/dispense/SDEP-slides-Iparte-22-23.pdf"
+    },
+    {
+      "basename": "0. Introduzione",
+      "path": "SDEP/0. Introduzione.md"
+    },
+    {
+      "basename": "client-server-ptp",
+      "path": "immagini/SDEP/client-server-ptp.png"
+    },
+    {
+      "basename": "2-tier",
+      "path": "immagini/SDEP/2-tier.png"
+    },
+    {
+      "basename": "Pasted image 20240228190823",
+      "path": "immagini/Pasted image 20240228190823.png"
+    },
+    {
+      "basename": "0.",
+      "path": "Web/0..md"
+    },
+    {
+      "basename": "LaTeX",
+      "path": "LaTeX.md"
+    },
+    {
+      "basename": "ex_ann",
+      "path": "immagini/IA/ex_ann.png"
+    },
+    {
+      "basename": "a3. Alberi",
+      "path": "Algoritmi/a3. Alberi.md"
+    },
+    {
+      "basename": "a4. Tabelle Hash",
+      "path": "Algoritmi/a4. Tabelle Hash.md"
+    },
+    {
+      "basename": "a2. Grafi pesati",
+      "path": "Algoritmi/a2. Grafi pesati.md"
+    },
+    {
+      "basename": "a1. Grafi",
+      "path": "Algoritmi/a1. Grafi.md"
+    },
+    {
+      "basename": "topologicalsort-sinkuniversale-cfc",
+      "path": "Algoritmi/dispense/topologicalsort-sinkuniversale-cfc.pdf"
+    },
+    {
+      "basename": "9. Statistiche d'ordine",
+      "path": "Algoritmi/9. Statistiche d'ordine.md"
+    },
+    {
       "basename": "8. Sorting in tempo lineare",
       "path": "Algoritmi/8. Sorting in tempo lineare.md"
     },
@@ -51,10 +107,6 @@
     {
       "basename": "01_introduction_ML",
       "path": "IA/dispense/01_introduction_ML.pdf"
-    },
-    {
-      "basename": "LaTeX",
-      "path": "LaTeX.md"
     },
     {
       "basename": "7. Normalizzazione",
@@ -147,58 +199,6 @@
     {
       "basename": "CH09 NetSec6e",
       "path": "Sicurezza/dispense/CH09 NetSec6e.pdf"
-    },
-    {
-      "basename": "CH08 NetSec6e",
-      "path": "Sicurezza/dispense/CH08 NetSec6e.pdf"
-    },
-    {
-      "basename": "authentication",
-      "path": "Sicurezza/dispense/authentication.pdf"
-    },
-    {
-      "basename": "Esame",
-      "path": "Sicurezza/Esame.md"
-    },
-    {
-      "basename": "Protocolli 2020_2021 PARTE 2",
-      "path": "Protocolli/dispense/Protocolli 2020_2021 PARTE 2.pdf"
-    },
-    {
-      "basename": "chap4_ann",
-      "path": "IA/dispense/chap4_ann.pdf"
-    },
-    {
-      "basename": "chap3_basic_classification",
-      "path": "IA/dispense/chap3_basic_classification.pdf"
-    },
-    {
-      "basename": "10. Password",
-      "path": "Sicurezza/10. Password.md"
-    },
-    {
-      "basename": "9. IP",
-      "path": "Sicurezza/9. IP.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Sicurezza/Untitled.md"
-    },
-    {
-      "basename": "8. DNS",
-      "path": "Sicurezza/8. DNS.md"
-    },
-    {
-      "basename": "Reti",
-      "path": "Sicurezza/Reti.md"
-    },
-    {
-      "basename": "7. Email",
-      "path": "Sicurezza/7. Email.md"
-    },
-    {
-      "basename": "6. Firewall",
-      "path": "Sicurezza/6. Firewall.md"
     }
   ],
   "omittedPaths": [],
